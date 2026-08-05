@@ -1,0 +1,7 @@
+name = "hoerbuch-sync"
+main = "worker.js"
+compatibility_date = "2026-08-01"
+
+[[kv_namespaces]]
+binding = "KV"
+id = "WIRD-IN-TASK-13-EINGETRAGEN"
