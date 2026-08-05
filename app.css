@@ -109,3 +109,8 @@ select { font: inherit; background: var(--karte); color: var(--text); border: 1p
   border: 1px solid var(--linie); border-radius: var(--radius); padding: 12px; margin-bottom: 10px; }
 .empf-cover.klein { flex: 0 0 56px; font-size: .6rem; }
 .merk-aktionen { margin-left: auto; display: flex; gap: 10px; align-items: center; }
+
+.pin-overlay { position: fixed; inset: 0; background: var(--bg); display: grid; place-items: center; z-index: 50; }
+.pin-box { background: var(--karte); border: 1px solid var(--linie); border-radius: var(--radius);
+  padding: 26px; display: grid; gap: 12px; width: min(90vw, 340px); }
+#sync-status.warnung { color: #d9a13c; }

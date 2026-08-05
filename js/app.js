@@ -4,6 +4,7 @@ import { malWiederHeute } from "./lib/heute.js";
 import { initBibliothek } from "./ui/bibliothek.js";
 import { initEntdecken } from "./ui/entdecken.js";
 import { initWunschliste } from "./ui/wunschliste.js";
+import { initSync } from "./sync.js";
 
 export const App = {
   daten: { library: [], recommendations: [], meta: {} },
@@ -11,6 +12,7 @@ export const App = {
   speichern() {
     this.zustand.version = Date.now();
     try { localStorage.setItem("hb:state", JSON.stringify(this.zustand)); } catch {}
+    this.syncSpeichern?.(this.zustand);
     document.dispatchEvent(new CustomEvent("zustand-geaendert"));
   },
   istFavorit(asin) { return this.zustand.favorites.includes(asin); },
@@ -58,6 +60,7 @@ async function start() {
     ladeJson("data/library.json"), ladeJson("data/recommendations.json"), ladeJson("data/meta.json"),
   ]);
   App.daten = { library, recommendations, meta };
+  await initSync(App);
   zeigeKopf();
   zeigeMalWieder();
   initBibliothek(App);
