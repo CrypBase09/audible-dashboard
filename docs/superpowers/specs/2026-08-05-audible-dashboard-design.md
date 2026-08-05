@@ -130,7 +130,8 @@ Wunschlisten-Einträge bleiben immer erhalten.
 Warmes, cover-zentriertes Dunkel-Design, Audible-Orange (#f8991c-Nähe) als Akzent, edle
 Typografie, sanfte Übergänge, große Touch-Ziele. Automatische Hell/Dunkel-Anpassung
 (prefers-color-scheme), beides gepflegt. Look „persönliche Bibliothek", nicht „Verkaufsseite".
-Namentliche Begrüßung der Nutzerin (Name wird vor dem Bau erfragt).
+Begrüßung bewusst ohne Namen (Entscheidung des Auftraggebers), z.B. „Schön, dass du da bist —
+deine Hörbuchwelt wartet."
 
 ## 7. Grenzen, Fehlerfälle, Risiken
 
@@ -162,7 +163,6 @@ Offline-Cache, Bewertungssterne, Login außer PIN.
 
 ## 10. Offene Punkte für den Implementierungsplan
 
-- Vorname der Nutzerin für die Begrüßung (vor Bau erfragen)
 - GitHub-Konto/`gh`-CLI-Verfügbarkeit auf diesem PC prüfen; Repo-Name final
 - Cloudflare-Konto: existiert eines? Wrangler-Login einmalig nötig
 - Bibliotheksgröße (zeigt sich bei der Auslese; Design skaliert bis ~1000 Titel)
