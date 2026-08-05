@@ -82,3 +82,30 @@ select { font: inherit; background: var(--karte); color: var(--text); border: 1p
 #wunsch-liste .beantwortet { color: var(--akzent); }
 .aehnlich-hinweis { margin: 10px 0 0; }
 @media (min-width: 760px) { .empf-liste { grid-template-columns: 1fr 1fr; } }
+
+:root {
+  --serie-1: #3987e5; --serie-2: #d95926; --serie-3: #199e70;
+  --serie-4: #c98500; --serie-5: #d55181; --serie-6: #008300;
+}
+@media (prefers-color-scheme: light) {
+  :root {
+    --serie-1: #2a78d6; --serie-2: #eb6834; --serie-3: #1baf7a;
+    --serie-4: #eda100; --serie-5: #e87ba4; --serie-6: #008300;
+  }
+}
+.statistik { display: grid; gap: 14px; }
+@media (min-width: 760px) { .statistik { grid-template-columns: 1fr 1fr; } }
+.stat-karte { background: var(--karte); border: 1px solid var(--linie); border-radius: var(--radius); padding: 16px; }
+.stat-karte h3 { margin-top: 0; }
+.donut-zeile { display: flex; gap: 16px; align-items: center; }
+.donut-zeile svg { width: 120px; flex: 0 0 auto; }
+.donut-legende { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; font-size: .88rem; }
+.punkt { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 6px; }
+.balken-zeile { display: grid; grid-template-columns: minmax(90px, 40%) 1fr auto; gap: 8px; align-items: center; margin: 6px 0; font-size: .88rem; }
+.balken-name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.balken { background: var(--flaeche); border-radius: 999px; height: 10px; overflow: hidden; }
+.balken > div { background: var(--akzent); height: 100%; border-radius: 999px; }
+.merk-eintrag { display: flex; gap: 12px; align-items: center; background: var(--karte);
+  border: 1px solid var(--linie); border-radius: var(--radius); padding: 12px; margin-bottom: 10px; }
+.empf-cover.klein { flex: 0 0 56px; font-size: .6rem; }
+.merk-aktionen { margin-left: auto; display: flex; gap: 10px; align-items: center; }

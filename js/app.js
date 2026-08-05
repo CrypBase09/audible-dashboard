@@ -3,6 +3,7 @@ import { berechneStatistik, formatiereDauer } from "./lib/statistik.js";
 import { malWiederHeute } from "./lib/heute.js";
 import { initBibliothek } from "./ui/bibliothek.js";
 import { initEntdecken } from "./ui/entdecken.js";
+import { initWunschliste } from "./ui/wunschliste.js";
 
 export const App = {
   daten: { library: [], recommendations: [], meta: {} },
@@ -61,6 +62,7 @@ async function start() {
   zeigeMalWieder();
   initBibliothek(App);
   initEntdecken(App);
+  initWunschliste(App);
   document.addEventListener("zustand-geaendert", () => { zeigeKopf(); zeigeMalWieder(); });
   document.dispatchEvent(new CustomEvent("daten-bereit"));
 }
