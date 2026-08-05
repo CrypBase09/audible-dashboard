@@ -21,7 +21,7 @@
   - **State:** `{version:number, favorites:string[], wishlist:string[], gehoert:string[], wishes:[{id,text,datum,status:"offen"|"beantwortet"}]}`
   - **meta.json:** `{letzter_lauf, naechster_lauf, profil_kurz}`
 - localStorage-Schlüssel: `hb:pin`, `hb:state`, `hb:tombstones`, `hb:pending`.
-- Tests laufen mit `node --test tests/` im Repo-Root; vor jedem Push müssen alle Tests grün sein.
+- Tests laufen mit `node --test` im Repo-Root; vor jedem Push müssen alle Tests grün sein.
 - Alle Commits enden mit `Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>`.
 - Arbeitsverzeichnis aller Kommandos: `F:\Projekte\audible-dashboard`.
 
@@ -55,7 +55,7 @@ node_modules/
 ```markdown
 # Hörbuch-Cockpit
 Persönliches Audible-Dashboard. Statische Seite (GitHub Pages) + Cloudflare-KV-Sync.
-Tests: `node --test tests/` · Betrieb: siehe Obsidian-Notiz „Audible-Dashboard".
+Tests: `node --test` · Betrieb: siehe Obsidian-Notiz „Audible-Dashboard".
 ```
 
 `data/library.json` (6 Fixture-Bücher, Schema exakt einhalten):
@@ -102,7 +102,7 @@ test("Fixture-Daten sind gültiges JSON mit Pflichtfeldern", () => {
 
 - [ ] **Step 3: Tests laufen lassen**
 
-Run: `node --test tests/`
+Run: `node --test`
 Expected: 1 passed.
 
 - [ ] **Step 4: Commit**
@@ -157,7 +157,7 @@ test("mehrere Wörter: alle müssen treffen", () => {
 });
 ```
 
-- [ ] **Step 2: Test rot sehen** — Run: `node --test tests/suche.test.mjs` · Expected: FAIL (Modul fehlt).
+- [ ] **Step 2: Test rot sehen** — Run: `node --testsuche.test.mjs` · Expected: FAIL (Modul fehlt).
 
 - [ ] **Step 3: Implementierung**
 
@@ -199,7 +199,7 @@ export function sucheBuecher(buecher, anfrage) {
 }
 ```
 
-- [ ] **Step 4: Test grün sehen** — Run: `node --test tests/suche.test.mjs` · Expected: PASS (6 Tests).
+- [ ] **Step 4: Test grün sehen** — Run: `node --testsuche.test.mjs` · Expected: PASS (6 Tests).
 
 - [ ] **Step 5: Commit** — `git add -A && git commit -m "feat: tippfehlertolerante Bibliothekssuche"`
 
@@ -251,7 +251,7 @@ test("aehnlichWie: direkter Bezug oder Genre-Fallback", () => {
 });
 ```
 
-- [ ] **Step 2: Rot** — Run: `node --test tests/filter.test.mjs` · Expected: FAIL.
+- [ ] **Step 2: Rot** — Run: `node --testfilter.test.mjs` · Expected: FAIL.
 
 - [ ] **Step 3: Implementierung**
 
@@ -286,7 +286,7 @@ export function filterEmpfehlungen(pool, opt = {}, gehoert = []) {
 }
 ```
 
-- [ ] **Step 4: Grün** — Run: `node --test tests/filter.test.mjs` · Expected: PASS (6 Tests).
+- [ ] **Step 4: Grün** — Run: `node --testfilter.test.mjs` · Expected: PASS (6 Tests).
 
 - [ ] **Step 5: Commit** — `git add -A && git commit -m "feat: Bibliotheks- und Empfehlungsfilter"`
 
@@ -332,7 +332,7 @@ test("formatiereDauer", () => {
 });
 ```
 
-- [ ] **Step 2: Rot** — Run: `node --test tests/statistik.test.mjs` · Expected: FAIL.
+- [ ] **Step 2: Rot** — Run: `node --teststatistik.test.mjs` · Expected: FAIL.
 
 - [ ] **Step 3: Implementierung**
 
@@ -369,7 +369,7 @@ export function formatiereDauer(min) {
 }
 ```
 
-- [ ] **Step 4: Grün** — Run: `node --test tests/statistik.test.mjs` · Expected: PASS (3 Tests).
+- [ ] **Step 4: Grün** — Run: `node --teststatistik.test.mjs` · Expected: PASS (3 Tests).
 
 - [ ] **Step 5: Commit** — `git add -A && git commit -m "feat: Hörstatistik-Berechnung"`
 
@@ -400,7 +400,7 @@ test("deterministisch pro Datum, wechselt über Tage, null ohne Favoriten", () =
 });
 ```
 
-- [ ] **Step 2: Rot** — Run: `node --test tests/heute.test.mjs` · Expected: FAIL.
+- [ ] **Step 2: Rot** — Run: `node --testheute.test.mjs` · Expected: FAIL.
 
 - [ ] **Step 3: Implementierung**
 
@@ -414,7 +414,7 @@ export function malWiederHeute(datumIso, favoriten) {
 }
 ```
 
-- [ ] **Step 4: Grün** — Run: `node --test tests/heute.test.mjs` · Expected: PASS.
+- [ ] **Step 4: Grün** — Run: `node --testheute.test.mjs` · Expected: PASS.
 
 - [ ] **Step 5: Commit** — `git add -A && git commit -m "feat: deterministischer Tages-Favorit"`
 
@@ -457,7 +457,7 @@ test("wishes: beantwortet gewinnt über offen", () => {
 });
 ```
 
-- [ ] **Step 2: Rot** — Run: `node --test tests/sync-merge.test.mjs` · Expected: FAIL.
+- [ ] **Step 2: Rot** — Run: `node --testsync-merge.test.mjs` · Expected: FAIL.
 
 - [ ] **Step 3: Implementierung**
 
@@ -486,7 +486,7 @@ export function mergeState(lokal, remote, tombstones = { wishlist: [] }) {
 }
 ```
 
-- [ ] **Step 4: Grün** — Run: `node --test tests/sync-merge.test.mjs` · Expected: PASS.
+- [ ] **Step 4: Grün** — Run: `node --testsync-merge.test.mjs` · Expected: PASS.
 
 - [ ] **Step 5: Commit** — `git add -A && git commit -m "feat: Offline-Merge für Sync-State"`
 
@@ -522,7 +522,7 @@ test("Empfehlung: Regal und Tags werden geprüft", () => {
 });
 ```
 
-- [ ] **Step 2: Rot** — Run: `node --test tests/daten-schema.test.mjs` · Expected: FAIL.
+- [ ] **Step 2: Rot** — Run: `node --testdaten-schema.test.mjs` · Expected: FAIL.
 
 - [ ] **Step 3: Implementierung**
 
@@ -577,7 +577,7 @@ console.log(fehlerGesamt === 0 ? `OK: ${lib.length} Bücher, ${recs.length} Empf
 process.exit(fehlerGesamt === 0 ? 0 : 1);
 ```
 
-- [ ] **Step 4: Grün + CLI-Probe** — Run: `node --test tests/daten-schema.test.mjs && node tools/pruefe-daten.mjs`
+- [ ] **Step 4: Grün + CLI-Probe** — Run: `node --testdaten-schema.test.mjs && node tools/pruefe-daten.mjs`
 Expected: Tests PASS; CLI meldet `OK: 6 Bücher, 4 Empfehlungen`, Exit 0.
 
 - [ ] **Step 5: Commit** — `git add -A && git commit -m "feat: Schema-Prüfung für Datenpflege und Läufe"`
@@ -1213,7 +1213,7 @@ An `app.css` anhängen:
 
 - [ ] **Step 2: Browser-Verifikation** — Merkliste zeigt in Task 10 gemerkte Titel, ✕ entfernt (und Reload hält es entfernt); Donut zeigt Fantasy 3 / Krimi 2 / Liebesroman 1; Balken Top-Autoren führt Mara Winter (3) und Jonas Reht (2); Rekorde: Längstes „Das Archiv der Träume". Beide Themes prüfen (Donut-Farben auf beiden lesbar).
 
-- [ ] **Step 3: Alle Tests grün** — Run: `node --test tests/` · Expected: PASS komplett.
+- [ ] **Step 3: Alle Tests grün** — Run: `node --test` · Expected: PASS komplett.
 
 - [ ] **Step 4: Commit** — `git add -A && git commit -m "feat: Merkliste und Statistiken mit Donut und Balken"`
 
@@ -1268,7 +1268,7 @@ test("PUT speichert, GET liest zurück; kaputtes JSON → 400; zu groß → 413"
 });
 ```
 
-- [ ] **Step 2: Rot** — Run: `node --test tests/handler.test.mjs` · Expected: FAIL.
+- [ ] **Step 2: Rot** — Run: `node --testhandler.test.mjs` · Expected: FAIL.
 
 - [ ] **Step 3: Implementierung**
 
@@ -1321,7 +1321,7 @@ binding = "KV"
 id = "WIRD-IN-TASK-13-EINGETRAGEN"
 ```
 
-- [ ] **Step 4: Grün** — Run: `node --test tests/handler.test.mjs` · Expected: PASS (4 Tests). (413-Test: Header-typische Request-Limits gelten in Node nicht — läuft.)
+- [ ] **Step 4: Grün** — Run: `node --testhandler.test.mjs` · Expected: PASS (4 Tests). (413-Test: Header-typische Request-Limits gelten in Node nicht — läuft.)
 
 - [ ] **Step 5: Commit** — `git add -A && git commit -m "feat: Cloudflare-Worker-Handler mit PIN-Schutz"`
 
@@ -1477,7 +1477,7 @@ An `app.css` anhängen:
 
 - [ ] **Step 2: Browser-Verifikation (Sync-Beweis)** — Frischer Browser-Kontext: PIN-Dialog erscheint, falscher PIN → Dialog kommt wieder; richtiger PIN → „✓ synchron". Herz setzen; zweiten Browser-Kontext öffnen (z.B. zweites Browser-Profil oder Inkognito), PIN eingeben → Herz ist da. Worker-URL in `js/config.js` testweise verstümmeln → Seite lädt trotzdem mit Warnhinweis, Herzen funktionieren lokal; URL wiederherstellen.
 
-- [ ] **Step 3: Alle Tests** — Run: `node --test tests/` · Expected: PASS.
+- [ ] **Step 3: Alle Tests** — Run: `node --test` · Expected: PASS.
 
 - [ ] **Step 4: Commit** — `git add -A && git commit -m "feat: geräteübergreifender Sync mit PIN-Dialog und Offline-Fallback"`
 
@@ -1507,7 +1507,7 @@ An `app.css` anhängen:
 5. genre: von Claude kuratiert (Titel-/Serienkenntnis; unklare Fälle: Produktseite prüfen).
    hinzugefuegt: aus Bibliotheks-Sortierung „Zuletzt hinzugefügt" ableiten, sonst null.
 6. Schreiben: data/library.json (Schema!) + data/covers-manifest.json (asin → Cover-URL).
-7. Validieren: node tools/pruefe-daten.mjs && node --test tests/
+7. Validieren: node tools/pruefe-daten.mjs && node --test
 8. Stichprobe: 5 zufällige Bücher gegen die Audible-Seite prüfen (Titel, Dauer, Link öffnet).
 ```
 
@@ -1703,7 +1703,7 @@ Arbeitsverzeichnis: F:\Projekte\audible-dashboard. Spec: docs/superpowers/specs/
    nicht in wishlist) entfernen; 5–10 frische kuratieren (Regeln Spec §5: nichts, was in
    library.json steht; Pool-Deckel 100).
 6. meta.json: letzter_lauf = jetzt; naechster_lauf = nächster Di/Fr 07:30; profil_kurz prüfen.
-7. Gate: node tools/pruefe-daten.mjs && node --test tests/ — nur bei Exit 0 weiter.
+7. Gate: node tools/pruefe-daten.mjs && node --test — nur bei Exit 0 weiter.
 8. git add -A && git commit -m "data: Auffrisch-Lauf <datum>" && git push
 9. Bei Fehlern: nichts committen, Fehlerdatei F:\Projekte\audible-dashboard-privat\letzter-fehler.txt schreiben.
 ```
