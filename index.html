@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#171310">
+  <title>Hörbuch-Cockpit</title>
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <header class="kopf">
+    <p class="gruss">Schön, dass du da bist —<br><strong>deine Hörbuchwelt wartet.</strong></p>
+    <div id="kopf-zahlen" class="kennzahlen"></div>
+    <p id="stand" class="stand"></p>
+    <nav class="springe">
+      <a href="#bibliothek">Bibliothek</a>
+      <a href="#entdecken">Entdecken</a>
+      <a href="#wunschliste-statistik">Merkliste &amp; Zahlen</a>
+    </nav>
+  </header>
+  <main>
+    <section id="malwieder" aria-label="Mal wieder hören"></section>
+    <section id="bibliothek" aria-label="Deine Bibliothek"></section>
+    <section id="entdecken" aria-label="Neues entdecken"></section>
+    <section id="wunschliste-statistik" aria-label="Merkliste und Statistik"></section>
+  </main>
+  <footer class="fuss"><span id="sync-status"></span></footer>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

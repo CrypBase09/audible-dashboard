@@ -1,0 +1,46 @@
+:root {
+  --bg: #171310; --flaeche: #211c17; --karte: #2a231d; --linie: #3a3128;
+  --text: #f2ece4; --gedaempft: #a89a8a; --akzent: #f8991c; --akzent-kontrast: #1a1207;
+  --radius: 14px; --schatten: 0 8px 28px rgb(0 0 0 / .35);
+  --serif: Georgia, "Times New Roman", serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #faf6f0; --flaeche: #f1eae0; --karte: #ffffff; --linie: #e2d8ca;
+    --text: #2b2118; --gedaempft: #7d6f5f; --schatten: 0 8px 24px rgb(80 60 30 / .12);
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.55 var(--sans); }
+h1, h2, h3, .gruss { font-family: var(--serif); letter-spacing: .01em; }
+main, .kopf { max-width: 1080px; margin: 0 auto; padding: 0 16px; }
+section { margin: 28px 0 40px; }
+a { color: var(--akzent); }
+
+.kopf { padding-top: 28px; }
+.gruss { font-size: 1.5rem; margin: 0 0 18px; }
+.kennzahlen { display: flex; gap: 10px; flex-wrap: wrap; }
+.zahl { background: var(--flaeche); border: 1px solid var(--linie); border-radius: var(--radius);
+  padding: 10px 16px; display: grid; }
+.zahl strong { font-size: 1.15rem; }
+.zahl span { color: var(--gedaempft); font-size: .8rem; }
+.stand { color: var(--gedaempft); font-size: .8rem; }
+.springe { display: flex; gap: 14px; border-bottom: 1px solid var(--linie); padding-bottom: 12px;
+  position: sticky; top: 0; background: var(--bg); z-index: 5; }
+.springe a { text-decoration: none; font-weight: 600; }
+
+.malwieder-karte { display: flex; gap: 16px; align-items: center; background:
+  linear-gradient(120deg, var(--karte), var(--flaeche)); border: 1px solid var(--linie);
+  border-radius: var(--radius); padding: 16px; box-shadow: var(--schatten); }
+.malwieder-karte img { width: 84px; border-radius: 8px; }
+.etikett { color: var(--akzent); text-transform: uppercase; font-size: .72rem;
+  letter-spacing: .12em; margin: 0 0 4px; font-weight: 700; }
+.gedaempft { color: var(--gedaempft); }
+.fuss { text-align: center; color: var(--gedaempft); font-size: .8rem; padding: 24px; }
+
+button { font: inherit; cursor: pointer; border-radius: 999px; border: 1px solid var(--linie);
+  background: var(--flaeche); color: var(--text); padding: 8px 14px; min-height: 40px; }
+button.primaer { background: var(--akzent); border-color: var(--akzent); color: var(--akzent-kontrast); font-weight: 700; }
+input, textarea { font: inherit; background: var(--karte); color: var(--text);
+  border: 1px solid var(--linie); border-radius: 10px; padding: 10px 12px; width: 100%; }
