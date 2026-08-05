@@ -65,3 +65,20 @@ input, textarea { font: inherit; background: var(--karte); color: var(--text);
   border-radius: 999px; padding: 10px 16px; text-decoration: none; font-weight: 700; margin-top: 10px; }
 select { font: inherit; background: var(--karte); color: var(--text); border: 1px solid var(--linie);
   border-radius: 10px; padding: 8px; }
+
+.empf-liste { display: grid; gap: 14px; margin: 12px 0 22px; }
+.empf { display: flex; gap: 14px; background: var(--karte); border: 1px solid var(--linie);
+  border-radius: var(--radius); padding: 14px; }
+.empf-cover { flex: 0 0 84px; aspect-ratio: 1; border-radius: 8px; padding: 8px;
+  font-size: .72rem; color: #fff; font-family: var(--serif); overflow: hidden; }
+.empf h4 { margin: 0; }
+.begruendung { margin: 6px 0; font-style: italic; }
+.empf-aktionen { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+.merken[aria-pressed="true"] { background: var(--akzent); color: var(--akzent-kontrast); border-color: var(--akzent); }
+.wunschbox { background: var(--flaeche); border: 1px solid var(--linie); border-radius: var(--radius);
+  padding: 18px; margin-top: 26px; display: grid; gap: 10px; }
+#wunsch-liste { margin: 0; padding-left: 18px; }
+#wunsch-liste .offen { color: var(--gedaempft); }
+#wunsch-liste .beantwortet { color: var(--akzent); }
+.aehnlich-hinweis { margin: 10px 0 0; }
+@media (min-width: 760px) { .empf-liste { grid-template-columns: 1fr 1fr; } }

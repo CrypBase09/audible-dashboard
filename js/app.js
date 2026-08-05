@@ -2,6 +2,7 @@ import { LEERER_STATE } from "./lib/sync-merge.js";
 import { berechneStatistik, formatiereDauer } from "./lib/statistik.js";
 import { malWiederHeute } from "./lib/heute.js";
 import { initBibliothek } from "./ui/bibliothek.js";
+import { initEntdecken } from "./ui/entdecken.js";
 
 export const App = {
   daten: { library: [], recommendations: [], meta: {} },
@@ -59,6 +60,7 @@ async function start() {
   zeigeKopf();
   zeigeMalWieder();
   initBibliothek(App);
+  initEntdecken(App);
   document.addEventListener("zustand-geaendert", () => { zeigeKopf(); zeigeMalWieder(); });
   document.dispatchEvent(new CustomEvent("daten-bereit"));
 }
