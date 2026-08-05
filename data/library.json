@@ -1,0 +1,8 @@
+[
+  {"asin":"FIX001","titel":"Die Nebelkrone","autor":"Mara Winter","sprecher":"Luise Helm","serie":"Nebelkrone","band":1,"dauer_min":812,"genre":"Fantasy","cover":"covers/FIX001.jpg","audible_url":"https://www.audible.de/pd/FIX001","hinzugefuegt":"2025-11-02"},
+  {"asin":"FIX002","titel":"Die Nebelkrone – Sturmzeit","autor":"Mara Winter","sprecher":"Luise Helm","serie":"Nebelkrone","band":2,"dauer_min":845,"genre":"Fantasy","cover":"covers/FIX002.jpg","audible_url":"https://www.audible.de/pd/FIX002","hinzugefuegt":"2026-01-15"},
+  {"asin":"FIX003","titel":"Kaltes Ufer","autor":"Jonas Reht","sprecher":"Uve Teschner","serie":null,"band":null,"dauer_min":540,"genre":"Krimi","cover":"covers/FIX003.jpg","audible_url":"https://www.audible.de/pd/FIX003","hinzugefuegt":"2025-08-20"},
+  {"asin":"FIX004","titel":"Sommer in Salthaven","autor":"Elin Brodersen","sprecher":"Gabrielle Pietermann","serie":null,"band":null,"dauer_min":420,"genre":"Liebesroman","cover":"covers/FIX004.jpg","audible_url":"https://www.audible.de/pd/FIX004","hinzugefuegt":"2026-03-01"},
+  {"asin":"FIX005","titel":"Das Archiv der Träume","autor":"Mara Winter","sprecher":"Vera Teltz","serie":null,"band":null,"dauer_min":1290,"genre":"Fantasy","cover":"covers/FIX005.jpg","audible_url":"https://www.audible.de/pd/FIX005","hinzugefuegt":"2025-05-11"},
+  {"asin":"FIX006","titel":"Mord bei Flut","autor":"Jonas Reht","sprecher":"Uve Teschner","serie":"Küstenkrimi","band":1,"dauer_min":610,"genre":"Krimi","cover":"covers/FIX006.jpg","audible_url":"https://www.audible.de/pd/FIX006","hinzugefuegt":"2026-06-28"}
+]
