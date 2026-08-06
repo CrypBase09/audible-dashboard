@@ -7,3 +7,4 @@ Persönliches Audible-Dashboard für zwei Personen. Statische Seite (GitHub Page
 - **Daten-Gate:** `node tools/pruefe-daten.mjs`
 - **Auslieferung:** GitHub Actions (`.github/workflows/pages.yml`), nicht Jekyll
 - **Betrieb:** siehe Obsidian-Notiz „Audible-Dashboard"
+
