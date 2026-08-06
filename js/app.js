@@ -1,4 +1,4 @@
-import { LEERER_STATE } from "./lib/sync-merge.js";
+import { LEERER_STATE } from "./lib/profil.js";
 import { berechneStatistik, formatiereDauer } from "./lib/statistik.js";
 import { malWiederHeute } from "./lib/heute.js";
 import { initBibliothek } from "./ui/bibliothek.js";
