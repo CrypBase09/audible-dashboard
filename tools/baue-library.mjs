@@ -16,9 +16,11 @@ const anreicherung = new Map(
 );
 
 const fehlend = [];
+const ohneDauer = [];
 const buecher = zeilen(rohPfad).map(([asin, titel, autor, sprecher, serie, band]) => {
   const extra = anreicherung.get(asin);
-  if (!extra || !Number.isFinite(extra.dauer) || extra.dauer <= 0) fehlend.push(`${asin} (${titel})`);
+  if (!extra) fehlend.push(`${asin} (${titel})`);
+  else if (!Number.isFinite(extra.dauer) || extra.dauer <= 0) ohneDauer.push(`${asin} (${titel})`);
   return {
     asin,
     titel,
@@ -26,7 +28,7 @@ const buecher = zeilen(rohPfad).map(([asin, titel, autor, sprecher, serie, band]
     sprecher: sprecher || null,
     serie: serie || null,
     band: band ? Number(band) : null,
-    dauer_min: extra?.dauer ?? 0,
+    dauer_min: Number.isFinite(extra?.dauer) && extra.dauer > 0 ? extra.dauer : null,
     genre: extra?.genre ?? "Belletristik",
     cover: `covers/${asin}.jpg`,
     audible_url: `https://www.audible.de/pd/${asin}`,
@@ -35,8 +37,11 @@ const buecher = zeilen(rohPfad).map(([asin, titel, autor, sprecher, serie, band]
 });
 
 if (fehlend.length) {
-  console.error(`Ohne Spieldauer (${fehlend.length}):\n  ${fehlend.join("\n  ")}`);
+  console.error(`Ohne Anreicherungs-Eintrag (${fehlend.length}):\n  ${fehlend.join("\n  ")}`);
   process.exit(1);
+}
+if (ohneDauer.length) {
+  console.log(`Hinweis: ${ohneDauer.length} Titel ohne Spieldauer (bei Audible nicht mehr gelistet):\n  ${ohneDauer.join("\n  ")}`);
 }
 
 writeFileSync("data/library.json", JSON.stringify(buecher, null, 1) + "\n", "utf8");

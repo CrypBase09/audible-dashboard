@@ -1,8 +1,10 @@
+// Autor und Sprecher stehen als "A, B, C" in den Daten — für die Rangliste zählt jede Person einzeln.
 function zaehle(buecher, schluessel) {
   const m = new Map();
   for (const b of buecher) {
-    const wert = b[schluessel];
-    if (wert) m.set(wert, (m.get(wert) ?? 0) + 1);
+    for (const name of String(b[schluessel] ?? "").split(",").map((n) => n.trim()).filter(Boolean)) {
+      m.set(name, (m.get(name) ?? 0) + 1);
+    }
   }
   return [...m.entries()]
     .map(([name, anzahl]) => ({ name, anzahl }))
@@ -23,6 +25,7 @@ export function berechneStatistik(buecher) {
 }
 
 export function formatiereDauer(min) {
+  if (!min) return "Dauer unbekannt";
   const std = Math.floor(min / 60);
   if (std >= 100) return `${std.toLocaleString("de-DE")} Std.`;
   return `${std} Std. ${min % 60} Min.`;

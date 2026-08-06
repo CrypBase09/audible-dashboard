@@ -8,7 +8,10 @@ export function pruefeBuch(b) {
   if (!istText(b.asin)) fehler.push("asin fehlt/leer");
   if (!istText(b.titel)) fehler.push("titel fehlt/leer");
   if (!istText(b.autor)) fehler.push("autor fehlt/leer");
-  if (typeof b.dauer_min !== "number" || b.dauer_min <= 0) fehler.push("dauer_min muss Zahl > 0 sein");
+  // null ist erlaubt: bei Titeln, die Audible nicht mehr verkauft, gibt es keine Spieldauer mehr.
+  if (b.dauer_min !== null && (typeof b.dauer_min !== "number" || b.dauer_min <= 0)) {
+    fehler.push("dauer_min muss Zahl > 0 oder null sein");
+  }
   if (!istText(b.genre)) fehler.push("genre fehlt/leer");
   if (!istUrl(b.audible_url)) fehler.push("audible_url muss mit https://www.audible.de/ beginnen");
   return fehler;

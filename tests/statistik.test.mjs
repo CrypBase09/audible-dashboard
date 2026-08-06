@@ -26,3 +26,25 @@ test("formatiereDauer", () => {
   assert.equal(formatiereDauer(5250), "87 Std. 30 Min.");
   assert.equal(formatiereDauer(144720), "2.412 Std.");
 });
+test("Mehrfach-Sprecher werden einzeln gezählt, nicht als eine Gruppe", () => {
+  const s = berechneStatistik([
+    { asin: "A", autor: "Kling", sprecher: "Bodo Primus, Chris Nonnast", genre: "Comedy", dauer_min: 60 },
+    { asin: "B", autor: "Feuerbach, Hennen", sprecher: "Bodo Primus", genre: "Fantasy", dauer_min: 60 },
+  ]);
+  assert.deepEqual(s.topSprecher[0], { name: "Bodo Primus", anzahl: 2 });
+  assert.ok(s.topAutoren.some((a) => a.name === "Hennen" && a.anzahl === 1));
+});
+test("formatiereDauer: unbekannte Dauer wird benannt statt als 0 gezeigt", () => {
+  assert.equal(formatiereDauer(null), "Dauer unbekannt");
+  assert.equal(formatiereDauer(0), "Dauer unbekannt");
+});
+test("Statistik ignoriert Bücher ohne Spieldauer bei Summe und Rekorden", () => {
+  const s = berechneStatistik([
+    { asin: "A", autor: "X", sprecher: "S", genre: "Comedy", dauer_min: 120 },
+    { asin: "B", autor: "Y", sprecher: "S", genre: "Comedy", dauer_min: null },
+  ]);
+  assert.equal(s.anzahl, 2);
+  assert.equal(s.gesamt_min, 120);
+  assert.equal(s.laengstes.asin, "A");
+  assert.equal(s.kuerzestes.asin, "A");
+});
