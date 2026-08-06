@@ -1443,5 +1443,94 @@
   "audible_url": "https://www.audible.de/pd/B007N3275I",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B004UXE5N6",
+  "asin": "B004UXE5N6",
+  "titel": "Radio Heimat",
+  "autor": "Frank Goosen",
+  "sprecher": "Frank Goosen",
+  "begruendung": "Ruhrpott pur in kurzen Geschichten: Schrebergarten, Zeche, Stadion — Goosen liest selbst, warm und trocken. Zweieinhalb Stunden, die sich in Häppchen weghören lassen; wenn du wegdöst, hast du nichts verpasst.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Belletristik"
+   ],
+   "stimmung": [
+    "witzig",
+    "entspannend"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B004UXE5N6",
+  "regal": "wunsch-antwort",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0053OI8C0",
+  "asin": "B0053OI8C0",
+  "titel": "Komma lecker bei mich bei",
+  "autor": "Hennes Bender",
+  "sprecher": "Hennes Bender",
+  "begruendung": "Der Bochumer erklärt in 79 Minuten den Pott — Sprachwitz statt Krawall, genau die Sorte Humor, die du beim Känguru magst. Kurz genug für eine Nacht, ohne dass ein Handlungsfaden reißt.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "entspannend"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B0053OI8C0",
+  "regal": "wunsch-antwort",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0D6GL5Y9C",
+  "asin": "B0D6GL5Y9C",
+  "titel": "Selbstbeherrschung umständehalber abzugeben",
+  "autor": "Torsten Sträter",
+  "sprecher": "Torsten Sträter",
+  "begruendung": "Der Dortmunder in seiner kürzesten Form: 15 Geschichten, gut 70 Minuten, seine ruhige Brummstimme. „Schnee, der auf Ceran fällt\" steht schon bei dir im Regal — das hier ist die Einschlaf-Portion davon.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "entspannend"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B0D6GL5Y9C",
+  "regal": "wunsch-antwort",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B004UX0RGK",
+  "asin": "B004UX0RGK",
+  "titel": "Das Feinste vom Leben",
+  "autor": "Kai Magnus Sting",
+  "sprecher": "Kai Magnus Sting",
+  "begruendung": "57 Minuten Ruhrgebiets-Kabarett über den Alltagswahnsinn — von dem Sting, den du mit „Hömma, so isset\" schon zweimal im Regal hast. Kürzer geht Einschlafen kaum.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "entspannend"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B004UX0RGK",
+  "regal": "wunsch-antwort",
+  "aufgenommen_am": "2026-08-06"
  }
 ]
