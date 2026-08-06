@@ -1,0 +1,59 @@
+/* Welt „Nachtblau und Cyan" — tiefes Blau, Cyan-Akzent, präzises Raster. */
+
+:root[data-welt="er"] {
+  --bg: #0A1826;
+  --flaeche: #12283D;
+  --karte: #17334C;
+  --linie: #27506F;
+  --text: #E6F0F8;
+  --gedaempft: #93B3CB;
+  --akzent: #4FD1C5;
+  --akzent-text: #6FDDD2;
+  --akzent-kontrast: #042E2A;
+  --warnung: #E3B341;
+
+  --radius: 6px;
+  --schatten: 0 2px 12px rgb(0 0 0 / .35);
+  --cover-hover: none;
+  --dauer: 130ms;
+  --dauer-lang: 200ms;
+  --kurve: ease-out;
+
+  --display: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --display-weight: 600;
+  --display-spacing: -.015em;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --zahl-font: ui-monospace, "Cascadia Mono", "SF Mono", Consolas, monospace;
+
+  --serie-1: #3987E5; --serie-2: #D95926; --serie-3: #199E70;
+  --serie-4: #C98500; --serie-5: #D55181; --serie-6: #008300;
+}
+
+@media (prefers-color-scheme: light) {
+  :root[data-welt="er"] {
+    --bg: #F3F7FB;
+    --flaeche: #E5EDF5;
+    --karte: #FFFFFF;
+    --linie: #CBDBE8;
+    --text: #0E2334;
+    --gedaempft: #53697E;
+    --akzent: #0B6260;
+    --akzent-text: #0A5250;
+    --akzent-kontrast: #FFFFFF;
+    --warnung: #8A5A00;
+    --schatten: 0 2px 10px rgb(20 50 80 / .1);
+
+    --serie-1: #2A78D6; --serie-2: #EB6834; --serie-3: #1BAF7A;
+    --serie-4: #EDA100; --serie-5: #E87BA4; --serie-6: #008300;
+  }
+}
+
+/* Kantiges Raster statt weicher Bühne: dünne Trennlinie unter dem Kopf. */
+:root[data-welt="er"] .kopf { border-bottom: 1px solid transparent; }
+:root[data-welt="er"] .malwieder-karte { border-left: 3px solid var(--akzent); }
+:root[data-welt="er"] .zahl { border-radius: var(--radius); }
+:root[data-welt="er"] .marke,
+:root[data-welt="er"] .chip,
+:root[data-welt="er"] button { border-radius: var(--radius); }
+:root[data-welt="er"] .knopf-link { border-radius: var(--radius); }
+:root[data-welt="er"] .stand { font-family: var(--zahl-font); }

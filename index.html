@@ -1,18 +1,23 @@
 <!doctype html>
-<html lang="de">
+<html lang="de" data-welt="sie">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#171310">
+  <meta name="theme-color" content="#241019">
   <title>Hörbuch-Cockpit</title>
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="apple-touch-icon" href="icons/icon-192.png">
   <link rel="icon" href="icons/icon-192.png">
-  <link rel="stylesheet" href="app.css">
+  <link rel="stylesheet" href="css/basis.css">
+  <link rel="stylesheet" href="css/welt-sie.css">
+  <link rel="stylesheet" href="css/welt-er.css">
 </head>
 <body>
   <header class="kopf">
-    <p class="gruss">Schön, dass du da bist —<br><strong>deine Hörbuchwelt wartet.</strong></p>
+    <div class="kopf-oben">
+      <p class="gruss" id="gruss"></p>
+      <button class="profil-schalter" id="profil-schalter" hidden></button>
+    </div>
     <div id="kopf-zahlen" class="kennzahlen"></div>
     <p id="stand" class="stand"></p>
     <nav class="springe">

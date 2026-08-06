@@ -5,15 +5,19 @@ export function platzhalterStil(titel) {
   return `background:linear-gradient(160deg,hsl(${ton} 42% 34%),hsl(${(ton + 40) % 360} 48% 22%))`;
 }
 
-export function buchKarte(buch, { favorit = false } = {}) {
+export function buchKarte(buch, { herz = false, stern = false } = {}) {
   const el = document.createElement("article");
   el.className = "buch";
   el.innerHTML = `
     <div class="cover" style="${platzhalterStil(buch.titel)}">
       <img src="${buch.cover}" alt="" loading="lazy">
       <span class="cover-titel">${buch.titel}</span>
-      <button class="herz" data-asin="${buch.asin}" aria-label="Als Liebling markieren"
-        aria-pressed="${favorit}">${favorit ? "♥" : "♡"}</button>
+      <div class="marken">
+        <button class="marke herz" data-asin="${buch.asin}" aria-pressed="${herz}"
+          aria-label="${herz ? "Aus meinen Büchern entfernen" : "Zu meinen Büchern"}">${herz ? "♥" : "♡"}</button>
+        <button class="marke stern" data-asin="${buch.asin}" aria-pressed="${stern}"
+          aria-label="${stern ? "Kein Liebling mehr" : "Als Liebling markieren"}">${stern ? "★" : "☆"}</button>
+      </div>
     </div>
     <h3>${buch.titel}</h3>
     <p class="gedaempft">${buch.autor}</p>`;

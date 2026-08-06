@@ -1,5 +1,6 @@
 import { WORKER_URL } from "./config.js";
-import { mergeState } from "./lib/sync-merge.js";
+import { mergeState, LEERE_TOMBSTONES } from "./lib/sync-merge.js";
+import { normalisiereState } from "./lib/profil.js";
 
 function status(text, warnung = false) {
   const el = document.getElementById("sync-status");
@@ -39,6 +40,11 @@ async function anfrage(methode, pin, body) {
   return r.json();
 }
 
+function tombstones() {
+  try { return JSON.parse(localStorage.getItem("hb:tombstones")) ?? LEERE_TOMBSTONES; }
+  catch { return LEERE_TOMBSTONES; }
+}
+
 export async function initSync(App) {
   if (!WORKER_URL) { status(""); return; }
   let pin = localStorage.getItem("hb:pin") ?? (await fragePinAb());
@@ -56,13 +62,12 @@ export async function initSync(App) {
     }
   };
 
-  while (true) {
+  // Holt den Stand erneut — genutzt beim Start und beim Warten auf Wunsch-Antworten.
+  App.syncLaden = async () => {
     try {
       const remote = await anfrage("GET", pin);
-      let tombstones = { wishlist: [] };
-      try { tombstones = JSON.parse(localStorage.getItem("hb:tombstones")) ?? tombstones; } catch {}
       if (localStorage.getItem("hb:pending")) {
-        App.zustand = mergeState(App.zustand, remote, tombstones);
+        App.zustand = mergeState(App.zustand, remote, tombstones());
         await App.syncSpeichern(App.zustand);
         localStorage.removeItem("hb:tombstones");
       } else {
@@ -71,11 +76,23 @@ export async function initSync(App) {
       try { localStorage.setItem("hb:state", JSON.stringify(App.zustand)); } catch {}
       status("✓ synchron");
       document.dispatchEvent(new CustomEvent("zustand-geaendert"));
+      return true;
+    } catch (fehler) {
+      if (fehler.message === "pin") throw fehler;
+      status("⚠ gerade offline — deine Änderungen bleiben auf diesem Gerät", true);
+      return false;
+    }
+  };
+
+  while (true) {
+    try {
+      await App.syncLaden();
       return;
     } catch (fehler) {
       if (fehler.message === "pin") { localStorage.removeItem("hb:pin"); pin = await fragePinAb(); continue; }
-      status("⚠ gerade offline — deine Änderungen bleiben auf diesem Gerät", true);
       return;
     }
   }
 }
+
+export { normalisiereState };

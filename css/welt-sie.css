@@ -1,0 +1,60 @@
+/* Welt „Samt und Rosé" — tiefes Aubergine, Roségold, Serifen. */
+
+:root[data-welt="sie"] {
+  --bg: #241019;
+  --flaeche: #33182530;
+  --flaeche: #331825;
+  --karte: #3E1F2E;
+  --linie: #573046;
+  --text: #F9EDF2;
+  --gedaempft: #CDA6B7;
+  --akzent: #E8B4C8;
+  --akzent-text: #F0C4D5;
+  --akzent-kontrast: #3A1122;
+  --warnung: #E8B87A;
+
+  --radius: 16px;
+  --schatten: 0 10px 34px rgb(0 0 0 / .42);
+  --cover-hover: scale(1.035);
+  --dauer: 220ms;
+  --dauer-lang: 420ms;
+  --kurve: cubic-bezier(.34, 1.56, .64, 1);
+
+  --display: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --display-weight: 600;
+  --display-spacing: .005em;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --zahl-font: var(--display);
+
+  --serie-1: #E39BB8; --serie-2: #C98A5A; --serie-3: #8FC4A8;
+  --serie-4: #C9A227; --serie-5: #B79BD9; --serie-6: #7FB3D5;
+}
+
+@media (prefers-color-scheme: light) {
+  :root[data-welt="sie"] {
+    --bg: #FDF7F9;
+    --flaeche: #F5E7EE;
+    --karte: #FFFFFF;
+    --linie: #E7D2DC;
+    --text: #3A1D2B;
+    --gedaempft: #86596E;
+    --akzent: #A8496B;
+    --akzent-text: #93395B;
+    --akzent-kontrast: #FFFFFF;
+    --warnung: #97620F;
+    --schatten: 0 10px 30px rgb(120 60 90 / .13);
+
+    --serie-1: #B34A73; --serie-2: #B4622A; --serie-3: #2F8564;
+    --serie-4: #97700B; --serie-5: #6B54A8; --serie-6: #2A6E9E;
+  }
+}
+
+/* Der Kopfbereich bekommt einen weichen Farbverlauf als Bühne für die Cover. */
+:root[data-welt="sie"] .kopf {
+  background: radial-gradient(120% 140% at 12% 0%, color-mix(in srgb, var(--akzent) 14%, transparent), transparent 62%);
+}
+:root[data-welt="sie"] .gruss strong { color: var(--akzent-text); }
+:root[data-welt="sie"] .malwieder-karte {
+  background: linear-gradient(118deg, var(--karte), var(--flaeche));
+}
+:root[data-welt="sie"] .profil-karte:hover { background: color-mix(in srgb, var(--akzent) 10%, var(--flaeche)); }
