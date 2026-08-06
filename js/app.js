@@ -60,13 +60,13 @@ async function start() {
     ladeJson("data/library.json"), ladeJson("data/recommendations.json"), ladeJson("data/meta.json"),
   ]);
   App.daten = { library, recommendations, meta };
-  await initSync(App);
   zeigeKopf();
   zeigeMalWieder();
   initBibliothek(App);
   initEntdecken(App);
   initWunschliste(App);
   document.addEventListener("zustand-geaendert", () => { zeigeKopf(); zeigeMalWieder(); });
+  initSync(App);
   document.dispatchEvent(new CustomEvent("daten-bereit"));
 }
 start();
