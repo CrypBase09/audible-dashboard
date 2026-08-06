@@ -68,6 +68,7 @@ export async function initSync(App) {
       } else {
         App.zustand = mergeState(null, remote);
       }
+      try { localStorage.setItem("hb:state", JSON.stringify(App.zustand)); } catch {}
       status("✓ synchron");
       document.dispatchEvent(new CustomEvent("zustand-geaendert"));
       return;
