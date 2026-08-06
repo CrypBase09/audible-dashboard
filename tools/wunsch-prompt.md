@@ -30,8 +30,8 @@ Du beantwortest **einen** offenen Wunsch aus dem Sync-Speicher. Arbeite zügig �
    ```
    powershell -ExecutionPolicy Bypass -File tools/ausliefern.ps1 -Nachricht "data: Wunsch beantwortet <datum>"
    ```
-   **Nicht einfach `git push`** — Pushes lösen die Pages-Auslieferung bei diesem Repo nicht aus;
-   `ausliefern.ps1` pusht und stößt den Workflow ausdrücklich an.
+   `ausliefern.ps1` pusht **und** stößt den Workflow ausdrücklich an — ein Sicherheitsnetz für
+   den Fall, dass GitHub die Push-Auslöser drosselt (kam am 06.08.2026 während einer Störung vor).
 8. **Fehler:** Findest du nichts Belegbares, setze den Wunsch trotzdem auf `beantwortet`
    und hänge eine Empfehlung mit `titel: "Nichts Passendes gefunden"` NICHT an — schreibe
    stattdessen den Grund nach `F:\Projekte\audible-dashboard-privat\letzter-fehler.txt`.

@@ -1,7 +1,7 @@
 # Pusht den aktuellen Stand und stößt die Pages-Auslieferung ausdrücklich an.
-# Grund: Pushes lösen den Workflow bei diesem Repo nicht zuverlässig aus (geprüft 06.08.2026,
-# Actions aktiv und Workflow scharf, trotzdem null Läufe). Der ausdrückliche Aufruf macht die
-# Auslieferung unabhängig davon.
+# Der ausdrückliche Aufruf ist ein Sicherheitsnetz: Am 06.08.2026 hat eine GitHub-Störung die
+# Push-Webhooks auf ~15 % gedrosselt, sodass Pushes keine Läufe mehr erzeugten. Im Normalbetrieb
+# löst der Push den Workflow selbst aus; dann läuft hier schlicht ein zweiter, harmloser Lauf.
 param([string]$Nachricht = "data: Aktualisierung")
 
 $ErrorActionPreference = "Stop"
