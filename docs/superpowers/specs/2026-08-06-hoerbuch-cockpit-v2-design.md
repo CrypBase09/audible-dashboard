@@ -123,7 +123,22 @@ farbenblind-taugliche Reihe, `prefers-reduced-motion` schaltet alle Animationen 
 - `app.css` → aufgeteilt in `css/basis.css`, `css/welt-sie.css`, `css/welt-er.css`
 - `tools/wunsch-waechter.cmd` + `tools/wunsch-prompt.md` (neu)
 
-## 7. Abnahme v2
+## 7. Abnahme v2 — Ergebnis 06.08.2026
+
+Alle Punkte bestanden. Nachweise:
+
+| Punkt | Nachweis |
+|---|---|
+| 1 Profilwahl + Wechsel | Auswahlschirm erscheint, Wechsel setzt `data-welt` und Farbwelt sofort um |
+| 2 Trennung der Profile | 4 Herzen bei „sie" gesetzt → bei „er" 0 Markierungen, Bibliothek wieder bei 67 |
+| 3 Bibliotheks-Modi | Markieren lässt die Ansicht offen; Umschalten zeigt genau die eigenen Titel |
+| 4 Fortsetzungen | „Die Elftausend Jungfrauen" erschien erst, nachdem Ritter Band 2 ein Herz bekam |
+| 5 Ablehnen | „Der Spurenfinder" verschwand dauerhaft bei „sie", blieb bei „er" sichtbar |
+| 6 Sofort-Wunsch | Echter Durchstich: Wunsch → `in_arbeit` → 4 belegte Antworten in `frisch` und in `recommendations.json` |
+| 7 Kontrast + Layout | dunkel 15.8/15.5, hell 14.3/14.9 für Text; 375 px ohne horizontale Scrollleiste in beiden Welten |
+| 8 Tests | 49 Tests grün, `pruefe-daten.mjs` sauber |
+
+## 7a. Ursprüngliche Abnahmeliste
 
 1. Profilwahl erscheint beim ersten Öffnen; Wechsel funktioniert und ändert Farbwelt sofort.
 2. Herz und Stern auf Profil A gesetzt → auf Profil B unsichtbar, auf zweitem Gerät in A sichtbar.
