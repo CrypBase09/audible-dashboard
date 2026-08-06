@@ -1532,5 +1532,92 @@
   "audible_url": "https://www.audible.de/pd/B004UX0RGK",
   "regal": "wunsch-antwort",
   "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B004V3EZ6W",
+  "asin": "B004V3EZ6W",
+  "titel": "Kishon zum Einschlafen",
+  "autor": "Ephraim Kishon",
+  "sprecher": "Bernd Stephan",
+  "begruendung": "Kishon-Satiren, die vom Schlafen handeln und dabei selbst leise bleiben — gut 75 Minuten, trocken gelesen von Bernd Stephan. Der Titel ist Programm: keine Pointe, die dich wieder hochreißt.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Belletristik"
+   ],
+   "stimmung": [
+    "witzig",
+    "entspannend"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B004V3EZ6W",
+  "regal": "wunsch-antwort",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B086XH3P2V",
+  "asin": "B086XH3P2V",
+  "titel": "Loriots Klassiker",
+  "autor": "Loriot",
+  "sprecher": "Loriot, Evelyn Hamann",
+  "begruendung": "20 Sketche in 58 Minuten, „Die Jodelschule\" und „Herren im Bad\" mittendrin. Du kennst jede Pointe schon, musst also nichts mitdenken — genau das, was Einschlafen braucht.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "entspannend"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B086XH3P2V",
+  "regal": "wunsch-antwort",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B09YR8CLDG",
+  "asin": "B09YR8CLDG",
+  "titel": "Märchen zum einschlafen I",
+  "autor": "Brüder Grimm, Hans Christian Andersen, Clemens Brentano",
+  "sprecher": "Friedrich Schoenfelder, Franziska Pigulla",
+  "begruendung": "56 Minuten alte Märchen — Bremer Stadtmusikanten, standhafter Zinnsoldat, 1001 Nacht — in Friedrich Schoenfelders ruhiger Stimme. Vertraute Geschichten ohne Spannungsbogen, der wachhält.",
+  "tags": {
+   "genres": [
+    "Belletristik"
+   ],
+   "stimmung": [
+    "entspannend"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B09YR8CLDG",
+  "regal": "wunsch-antwort",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-3742408445",
+  "asin": "3742408445",
+  "titel": "Wunderbare Gute-Nacht-Geschichten",
+  "autor": "Erwin Moser",
+  "sprecher": "Laura Maire, Christian Baumann",
+  "begruendung": "Zwanzig warmherzige Tiergeschichten, jede nur ein paar Minuten lang — ein Elefant reißt aus dem Zoo aus, ein Bär trifft einen Frosch. Nach dem NEINhorn die leise Variante, knapp eine Stunde lang.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "entspannend"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/3742408445",
+  "regal": "wunsch-antwort",
+  "aufgenommen_am": "2026-08-06"
  }
 ]
