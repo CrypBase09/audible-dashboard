@@ -26,8 +26,12 @@ Du beantwortest **einen** offenen Wunsch aus dem Sync-Speicher. Arbeite zügig �
    das Dashboard parallel.
 7. **Dauerhaft ablegen:** Dieselben Empfehlungen (ohne `fuer`/`erzeugt_am`) an
    `data/recommendations.json` anhängen, dann
-   `node tools/pruefe-daten.mjs && node --test`. Nur bei Exit 0:
-   `git add -A; git commit -m "data: Wunsch beantwortet <datum>"; git push` (PowerShell).
+   `node tools/pruefe-daten.mjs && node --test`. Nur bei Exit 0 ausliefern:
+   ```
+   powershell -ExecutionPolicy Bypass -File tools/ausliefern.ps1 -Nachricht "data: Wunsch beantwortet <datum>"
+   ```
+   **Nicht einfach `git push`** — Pushes lösen die Pages-Auslieferung bei diesem Repo nicht aus;
+   `ausliefern.ps1` pusht und stößt den Workflow ausdrücklich an.
 8. **Fehler:** Findest du nichts Belegbares, setze den Wunsch trotzdem auf `beantwortet`
    und hänge eine Empfehlung mit `titel: "Nichts Passendes gefunden"` NICHT an — schreibe
    stattdessen den Grund nach `F:\Projekte\audible-dashboard-privat\letzter-fehler.txt`.

@@ -27,6 +27,10 @@ Bash-Sandbox blockiert workers.dev.
 7. `data/meta.json` stempeln: `letzter_lauf` = jetzt (ISO), `naechster_lauf` = nächster
    Di/Fr 07:30 (Europe/Zurich), `profil_kurz` bei Bedarf aktualisieren.
 8. Gate: `node tools/pruefe-daten.mjs && node --test` — nur bei Exit 0 weiter.
-9. `git add -A && git commit -m "data: Auffrisch-Lauf <datum>" && git push`
+9. Ausliefern — **nicht einfach `git push`**, das löst die Pages-Auslieferung nicht aus:
+   ```
+   powershell -ExecutionPolicy Bypass -File tools/ausliefern.ps1 -Nachricht "data: Auffrisch-Lauf <datum>"
+   ```
+   Das Skript pusht, stößt den Workflow an und meldet das Ergebnis der Auslieferung.
 10. Bei Fehlern: nichts committen; Fehlertext nach
     `F:\Projekte\audible-dashboard-privat\letzter-fehler.txt` schreiben.
