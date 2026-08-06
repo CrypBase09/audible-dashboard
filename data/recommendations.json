@@ -1,6 +1,936 @@
 [
-  {"id":"r1","asin":"FIXR01","titel":"Die Nebelkrone – Aschefall","autor":"Mara Winter","sprecher":"Luise Helm","begruendung":"Band 3 deiner Nebelkrone-Reihe – die Geschichte geht weiter.","tags":{"genres":["Fantasy"],"stimmung":["spannend","düster"],"laenge":"episch"},"aehnlich_wie":"FIX001","audible_url":"https://www.audible.de/pd/FIXR01","regal":"serien-fortsetzung","aufgenommen_am":"2026-08-05"},
-  {"id":"r2","asin":"FIXR02","titel":"Winterlichter","autor":"Mara Winter","sprecher":"Vera Teltz","begruendung":"Neu von deiner Lieblingsautorin Mara Winter.","tags":{"genres":["Fantasy"],"stimmung":["herzerwärmend"],"laenge":"mittel"},"aehnlich_wie":null,"audible_url":"https://www.audible.de/pd/FIXR02","regal":"lieblingsautor","aufgenommen_am":"2026-08-05"},
-  {"id":"r3","asin":"FIXR03","titel":"Nordseegrab","autor":"Katrin Fell","sprecher":"Uve Teschner","begruendung":"Weil du ♥ Kaltes Ufer liebst: gleiche raue Küste, gleicher Sprecher.","tags":{"genres":["Krimi"],"stimmung":["spannend","düster"],"laenge":"mittel"},"aehnlich_wie":"FIX003","audible_url":"https://www.audible.de/pd/FIXR03","regal":"geschmacks-match","aufgenommen_am":"2026-08-05"},
-  {"id":"r4","asin":"FIXR04","titel":"Café der zweiten Chancen","autor":"Nora Lieb","sprecher":"Gabrielle Pietermann","begruendung":"Deine Antwort auf den Wunsch „etwas Herzerwärmendes für den Sommer“.","tags":{"genres":["Liebesroman"],"stimmung":["herzerwärmend","entspannend"],"laenge":"kurz"},"aehnlich_wie":null,"audible_url":"https://www.audible.de/pd/FIXR04","regal":"wunsch-antwort","aufgenommen_am":"2026-08-05"}
+ {
+  "id": "r-B0FSRSW3F3",
+  "asin": "B0FSRSW3F3",
+  "titel": "Die Elftausend Jungfrauen",
+  "autor": "Sam Feuerbach, Bernhard Hennen",
+  "sprecher": "Robert Frank",
+  "begruendung": "Der Anfang deiner Ritter-und-Knappe-Reihe – hier startet Ottos Kreuzzug, bevor Band 2 einsetzt.",
+  "tags": {
+   "genres": [
+    "Fantasy"
+   ],
+   "stimmung": [
+    "spannend"
+   ],
+   "laenge": "mittel"
+  },
+  "aehnlich_wie": "B0GWRNB6RY",
+  "audible_url": "https://www.audible.de/pd/B0FSRSW3F3",
+  "regal": "serien-fortsetzung",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0G1SVP79K",
+  "asin": "B0G1SVP79K",
+  "titel": "Ich hasse Menschen. Eine Fortpflanzung",
+  "autor": "Julius Fischer",
+  "sprecher": "Julius Fischer",
+  "begruendung": "Nach der Abschweifung und der Liebesgeschichte fehlt dir nur noch dieser dritte Streich von Julius Fischer.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "3742416960",
+  "audible_url": "https://www.audible.de/pd/B0G1SVP79K",
+  "regal": "serien-fortsetzung",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-3844533923",
+  "asin": "3844533923",
+  "titel": "Tod unter Gurken 2",
+  "autor": "Kai Magnus Sting",
+  "sprecher": "Bastian Pastewka, Kai Magnus Sting, Jochen Malmsheimer, Annette Frier",
+  "begruendung": "Alfons Friedrichsberg ermittelt weiter – genau der schwarze Humor, den du in Teil 1 schon hattest.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "witzig",
+    "spannend"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B06XCFQJ2B",
+  "audible_url": "https://www.audible.de/pd/3844533923",
+  "regal": "serien-fortsetzung",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0BB81DC3H",
+  "asin": "B0BB81DC3H",
+  "titel": "Tod unter Gurken 3",
+  "autor": "Kai Magnus Sting, Leonhard Koppelmann",
+  "sprecher": "Bastian Pastewka, Annette Frier, Kai Magnus Sting, Christoph Maria Herbst",
+  "begruendung": "Der dritte Gurken-Fall führt ins Kloster, diesmal mit Christoph Maria Herbst als Verstärkung.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "witzig",
+    "spannend"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B06XCFQJ2B",
+  "audible_url": "https://www.audible.de/pd/B0BB81DC3H",
+  "regal": "serien-fortsetzung",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B09LMN87M2",
+  "asin": "B09LMN87M2",
+  "titel": "Kohlrabenschwarz 2",
+  "autor": "Tommy Krappweis, Christian von Aster",
+  "sprecher": "Michael Kessler, Bettina Zimmermann, Bettina Lamprecht, Jürgen Tonkel, Götz Otto",
+  "begruendung": "Staffel 2 deiner bayerischen Grusel-Comedy – Schwab und sein Team ermitteln weiter im Übernatürlichen.",
+  "tags": {
+   "genres": [
+    "Hörspiel"
+   ],
+   "stimmung": [
+    "düster",
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B08M3SVD6H",
+  "audible_url": "https://www.audible.de/pd/B09LMN87M2",
+  "regal": "serien-fortsetzung",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0DZNXM2D7",
+  "asin": "B0DZNXM2D7",
+  "titel": "Kohlrabenschwarz 3",
+  "autor": "Christian von Aster, Tommy Krappweis",
+  "sprecher": "Bettina Zimmermann, Michael Kessler, Jürgen Tonkel, Bettina Lamprecht",
+  "begruendung": "Die dritte Staffel Kohlrabenschwarz, falls dich Staffel 1 so gepackt hat wie die meisten Hörer.",
+  "tags": {
+   "genres": [
+    "Hörspiel"
+   ],
+   "stimmung": [
+    "düster",
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B08M3SVD6H",
+  "audible_url": "https://www.audible.de/pd/B0DZNXM2D7",
+  "regal": "serien-fortsetzung",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0DPR5NL76",
+  "asin": "B0DPR5NL76",
+  "titel": "Die Herren von Winterfell",
+  "autor": "George R.R. Martin",
+  "sprecher": "Stefan Kaminski",
+  "begruendung": "Band 1 deiner Eis-und-Feuer-Reihe, in der neuen ungekürzten Produktion mit Stefan Kaminski.",
+  "tags": {
+   "genres": [
+    "Fantasy"
+   ],
+   "stimmung": [
+    "spannend",
+    "düster"
+   ],
+   "laenge": "mittel"
+  },
+  "aehnlich_wie": "B004UZH630",
+  "audible_url": "https://www.audible.de/pd/B0DPR5NL76",
+  "regal": "serien-fortsetzung",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0DPR6QC55",
+  "asin": "B0DPR6QC55",
+  "titel": "Der Thron der Sieben Königreiche",
+  "autor": "George R.R. Martin",
+  "sprecher": "Stefan Kaminski",
+  "begruendung": "Nach dem Erbe von Winterfell geht es hier mit Band 3 direkt weiter.",
+  "tags": {
+   "genres": [
+    "Fantasy"
+   ],
+   "stimmung": [
+    "spannend",
+    "düster"
+   ],
+   "laenge": "mittel"
+  },
+  "aehnlich_wie": "B004UZH630",
+  "audible_url": "https://www.audible.de/pd/B0DPR6QC55",
+  "regal": "serien-fortsetzung",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0DPR75156",
+  "asin": "B0DPR75156",
+  "titel": "Die Saat des goldenen Löwen",
+  "autor": "George R.R. Martin",
+  "sprecher": "Stefan Kaminski",
+  "begruendung": "Band 4 hält den Faden deiner Reihe weiter – der dickste Brocken der ersten Hälfte.",
+  "tags": {
+   "genres": [
+    "Fantasy"
+   ],
+   "stimmung": [
+    "spannend",
+    "düster"
+   ],
+   "laenge": "episch"
+  },
+  "aehnlich_wie": "B004UZH630",
+  "audible_url": "https://www.audible.de/pd/B0DPR75156",
+  "regal": "serien-fortsetzung",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B004JVKG32",
+  "asin": "B004JVKG32",
+  "titel": "Bibi und der Supermarkt",
+  "autor": "Elfie Donnelly",
+  "sprecher": "Susanna Bonaséwicz, Hallgard Bruckhaus, Joachim Nottke",
+  "begruendung": "Eine der bestbewerteten Bibi-Folgen überhaupt – perfekt als nächste Folge nach deinem Einstieg.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig",
+    "herzerwärmend"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B004JVIFYE",
+  "audible_url": "https://www.audible.de/pd/B004JVKG32",
+  "regal": "serien-fortsetzung",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B004JVIGZC",
+  "asin": "B004JVIGZC",
+  "titel": "Bibi in Amerika",
+  "autor": "Elfie Donnelly",
+  "sprecher": "Susanna Bonaséwicz, Hallgard Bruckhaus, Joachim Nottke",
+  "begruendung": "Bibi hebt ab nach Amerika – ein Klassiker der Reihe mit den meisten Hörerstimmen.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig",
+    "herzerwärmend"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B004JVIFYE",
+  "audible_url": "https://www.audible.de/pd/B004JVIGZC",
+  "regal": "serien-fortsetzung",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0CGXFZYNX",
+  "asin": "B0CGXFZYNX",
+  "titel": "Der Spurenfinder",
+  "autor": "Luise Kling, Johanna Kling, Marc-Uwe Kling",
+  "sprecher": "Marc-Uwe Kling",
+  "begruendung": "Von Marc-Uwe Kling, dessen Känguru-Bände du alle fünf im Regal hast – hier aber als echter Krimi mit seiner vertrauten Stimme.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "spannend"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B0FZVDL7K2",
+  "audible_url": "https://www.audible.de/pd/B0CGXFZYNX",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0D9HKQ391",
+  "asin": "B0D9HKQ391",
+  "titel": "Das NEINhorn und der Geburtstag",
+  "autor": "Marc-Uwe Kling",
+  "sprecher": "Marc-Uwe Kling",
+  "begruendung": "Die einzige NEINhorn-Geschichte, die nicht in deiner Sammlung „Das NEINhorn und seine Freunde“ steckt.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B0FZVDL7K2",
+  "audible_url": "https://www.audible.de/pd/B0D9HKQ391",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0DB8WTW9Y",
+  "asin": "B0DB8WTW9Y",
+  "titel": "Verliebt, verlobt, verhaftet",
+  "autor": "Maria Kling",
+  "sprecher": "Marc-Uwe Kling",
+  "begruendung": "Marc-Uwe Kling liest hier den Roman seiner Schwester – mit genau dem trockenen Ton, den du aus den Känguru-Chroniken kennst.",
+  "tags": {
+   "genres": [
+    "Belletristik"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B0DB8WTW9Y",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B09DG6Y6FS",
+  "asin": "B09DG6Y6FS",
+  "titel": "Freddy und Flo gruseln sich vor gar nix!",
+  "autor": "Maria Kling",
+  "sprecher": "Marc-Uwe Kling",
+  "begruendung": "Wenn dir Klings Vorlesestimme aus dem NEINhorn gefällt, ist diese Gruselkomödie der nächste logische Schritt.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B09DG6Y6FS",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B00IFBJVCO",
+  "asin": "B00IFBJVCO",
+  "titel": "Kommt ein Komiker zum Arzt",
+  "autor": "Jürgen von der Lippe, Eckart von Hirschhausen",
+  "sprecher": "Jürgen von der Lippe, Eckart von Hirschhausen",
+  "begruendung": "Jürgen von der Lippe im Duett, nachdem du seinen witzigsten Vorleseabend der Welt schon durchgehört hast.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B0FC2BYFHL",
+  "audible_url": "https://www.audible.de/pd/B00IFBJVCO",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B075GVB8MN",
+  "asin": "B075GVB8MN",
+  "titel": "Wie soll ich sagen …",
+  "autor": "Jürgen von der Lippe",
+  "sprecher": "Jürgen von der Lippe",
+  "begruendung": "Ein Bühnenprogramm von der Lippe, das dir zwischen „Nudel im Wind“ und „Beim Dehnen singe ich Balladen“ noch fehlt.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B0FC2BYFHL",
+  "audible_url": "https://www.audible.de/pd/B075GVB8MN",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B004V294K0",
+  "asin": "B004V294K0",
+  "titel": "Robin Hood",
+  "autor": "Howard Pyle",
+  "sprecher": "Jürgen von der Lippe",
+  "begruendung": "Von der Lippe als Erzähler eines Abenteuerklassikers – ganz wie bei seiner „Kurzen Geschichte der Trunkenheit“.",
+  "tags": {
+   "genres": [
+    "Belletristik"
+   ],
+   "stimmung": [
+    "spannend"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B004V294K0",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B01DWGAINM",
+  "asin": "B01DWGAINM",
+  "titel": "Mörder Anders und seine Freunde nebst dem einen oder anderen Feind",
+  "autor": "Jonas Jonasson",
+  "sprecher": "Jürgen von der Lippe",
+  "begruendung": "Der längste Roman, den von der Lippe eingelesen hat – mit demselben schrägen Humor wie seine eigenen Geschichten und Glossen.",
+  "tags": {
+   "genres": [
+    "Belletristik"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "mittel"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B01DWGAINM",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B00AYE5RZK",
+  "asin": "B00AYE5RZK",
+  "titel": "Der wunderbare Massenselbstmord",
+  "autor": "Arto Paasilinna",
+  "sprecher": "Jürgen von der Lippe",
+  "begruendung": "Schwarzer finnischer Humor in von der Lippes Stimme – passend zu deinem „Im Jenseits ist die Hölle los“.",
+  "tags": {
+   "genres": [
+    "Belletristik"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "3838792122",
+  "audible_url": "https://www.audible.de/pd/B00AYE5RZK",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B01FMANJNW",
+  "asin": "B01FMANJNW",
+  "titel": "Nomen est Omen - Aqua et Vinum",
+  "autor": "Carsten Sebastian Henn",
+  "sprecher": "Jürgen von der Lippe",
+  "begruendung": "Ein Krimi mit von der Lippe am Mikrofon, falls du ihn mal spannend statt nur komisch hören willst.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "spannend"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B01FMANJNW",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0DS2DWQCX",
+  "asin": "B0DS2DWQCX",
+  "titel": "Statt wesentlich die Welt bewegt, hab ich wohl nur das Meer gepflügt",
+  "autor": "Jochen Malmsheimer",
+  "sprecher": "Jochen Malmsheimer",
+  "begruendung": "Malmsheimers letztes großes Soloprogramm – mit noch verschachtelteren Sätzen als in „Wenn Worte reden könnten“.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B09ZYSFJGH",
+  "audible_url": "https://www.audible.de/pd/B0DS2DWQCX",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B004V5NCU0",
+  "asin": "B004V5NCU0",
+  "titel": "Das Schwert im Stein",
+  "autor": "T. H. White",
+  "sprecher": "Jochen Malmsheimer",
+  "begruendung": "Malmsheimer als Vorleser eines Fantasy-Klassikers, genau wie du ihn schon in der „Brautprinzessin“ erlebt hast.",
+  "tags": {
+   "genres": [
+    "Fantasy"
+   ],
+   "stimmung": [
+    "herzerwärmend"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B004V5NCU0",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B004V3SX3S",
+  "asin": "B004V3SX3S",
+  "titel": "Die Königin von Luft und Dunkelheit",
+  "autor": "T. H. White",
+  "sprecher": "Jochen Malmsheimer",
+  "begruendung": "Die Fortsetzung zum „Schwert im Stein“, wieder komplett von Malmsheimer gelesen.",
+  "tags": {
+   "genres": [
+    "Fantasy"
+   ],
+   "stimmung": [
+    "düster"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B004V3SX3S",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B00S9PSSF2",
+  "asin": "B00S9PSSF2",
+  "titel": "Die letzte Gardine",
+  "autor": "Urban Priol, Georg Schramm, Jochen Malmsheimer",
+  "sprecher": "Urban Priol, Georg Schramm, Jochen Malmsheimer",
+  "begruendung": "Kabarett-Gipfeltreffen mit Malmsheimer, wenn dir „Dogensuppe Herzogin“ zu wenig politisch war.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B09ZYSFJGH",
+  "audible_url": "https://www.audible.de/pd/B00S9PSSF2",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B004V6QAYY",
+  "asin": "B004V6QAYY",
+  "titel": "Jauchzet, Frohlocket!",
+  "autor": "Jochen Malmsheimer, Uwe Rössler",
+  "sprecher": "Jochen Malmsheimer",
+  "begruendung": "Malmsheimers Weihnachtsprogramm mit Orchester – ein Fest für alle, die „Halt mal, Schatz“ mochten.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B09ZYSFJGH",
+  "audible_url": "https://www.audible.de/pd/B004V6QAYY",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0BGJF38G7",
+  "asin": "B0BGJF38G7",
+  "titel": "Das Buch HERPES",
+  "autor": "Frank Goosen, Jochen Malmsheimer",
+  "sprecher": "Frank Goosen, Jochen Malmsheimer",
+  "begruendung": "Malmsheimer und Goosen zerlegen die Odyssee im Küchen-Hörspiel – sprachverliebt wie „Flieg Fisch, lies und gesunde“.",
+  "tags": {
+   "genres": [
+    "Hörspiel"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B09ZYSFJGH",
+  "audible_url": "https://www.audible.de/pd/B0BGJF38G7",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0D5MNJRSH",
+  "asin": "B0D5MNJRSH",
+  "titel": "Es ist nie zu spät, unpünktlich zu sein",
+  "autor": "Torsten Sträter",
+  "sprecher": "Torsten Sträter",
+  "begruendung": "Noch ein Live-Abend mit Torsten Sträter, nachdem dir „Schnee, der auf Ceran fällt“ gefallen hat.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B0C9J36Q3Y",
+  "audible_url": "https://www.audible.de/pd/B0D5MNJRSH",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0D5QXR7SW",
+  "asin": "B0D5QXR7SW",
+  "titel": "Der David ist dem Goliath sein Tod",
+  "autor": "Torsten Sträter",
+  "sprecher": "Torsten Sträter",
+  "begruendung": "Sträter liest hier aus seinem Kultbuch – also genau die Mischung, die du auf „Schnee, der auf Ceran fällt“ schon mochtest.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B0C9J36Q3Y",
+  "audible_url": "https://www.audible.de/pd/B0D5QXR7SW",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0GSZ9846C",
+  "asin": "B0GSZ9846C",
+  "titel": "Männer sind nichts ohne die Frauen",
+  "autor": "Mario Barth",
+  "sprecher": "Mario Barth",
+  "begruendung": "Das nächste Männer-Frauen-Programm von Mario Barth, nachdem du „Happy Wife, Happy Life“ und „Männer sind faul“ schon durch hast.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "3803285437",
+  "audible_url": "https://www.audible.de/pd/B0GSZ9846C",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0DZD5N4F9",
+  "asin": "B0DZD5N4F9",
+  "titel": "JA, WIE?! Tacheles und Wurstsalat",
+  "autor": "Kai Magnus Sting",
+  "sprecher": "Kai Magnus Sting",
+  "begruendung": "Frischer Ruhrpott-Nachschlag von Kai Magnus Sting für alle, die „Hömma, so isset“ und „Sonst noch was?!“ geliebt haben.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B06XCFQJ2B",
+  "audible_url": "https://www.audible.de/pd/B0DZD5N4F9",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0CZ79F8PQ",
+  "asin": "B0CZ79F8PQ",
+  "titel": "Wo ist Stieglitz?!",
+  "autor": "Kai Magnus Sting",
+  "sprecher": "Kai Magnus Sting",
+  "begruendung": "Eine alberne Hörspiel-Parodie von Sting, die perfekt zum verspielten Ton von „Tod unter Gurken“ passt.",
+  "tags": {
+   "genres": [
+    "Hörspiel"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B06XCFQJ2B",
+  "audible_url": "https://www.audible.de/pd/B0CZ79F8PQ",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B01G8YGRX0",
+  "asin": "B01G8YGRX0",
+  "titel": "Die schönsten Wanderwege der Wanderhure",
+  "autor": "Julius Fischer",
+  "sprecher": "Julius Fischer",
+  "begruendung": "Kurze Fischer-Geschichten mit Songs dazwischen – ideal für zwischendurch, wenn dir seine „Ich hasse Menschen“-Bände Spaß gemacht haben.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "3742416960",
+  "audible_url": "https://www.audible.de/pd/B01G8YGRX0",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0H5L8V1T5",
+  "asin": "B0H5L8V1T5",
+  "titel": "Hart Backbord - noch ist die Welt zu retten",
+  "autor": "Paul Panzer",
+  "sprecher": "Paul Panzer",
+  "begruendung": "Das neueste Bühnenprogramm von Paul Panzer – nach „Alles auf Anfang!“ und „Midlife Crisis“ der logische nächste Schritt.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B0B1ZT4BW9",
+  "audible_url": "https://www.audible.de/pd/B0H5L8V1T5",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0B1QLWJWC",
+  "asin": "B0B1QLWJWC",
+  "titel": "Glücksritter",
+  "autor": "Paul Panzer",
+  "sprecher": "Paul Panzer",
+  "begruendung": "Panzer über Sinn und Zweck des Daseins – genau der Familien-Alltagswahnsinn, den du aus „Midlife Crisis“ kennst.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B0B1ZT4BW9",
+  "audible_url": "https://www.audible.de/pd/B0B1QLWJWC",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0F18GH7LC",
+  "asin": "B0F18GH7LC",
+  "titel": "Wohin?",
+  "autor": "Dieter Nuhr",
+  "sprecher": "Dieter Nuhr",
+  "begruendung": "Nuhrs Reise von der Mitte der Gesellschaft an die Ränder der Zivilisation – nachdenklicher als „Nuhr auf Tour“.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B0CMQWBR43",
+  "audible_url": "https://www.audible.de/pd/B0F18GH7LC",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B08VKWB1FX",
+  "asin": "B08VKWB1FX",
+  "titel": "Milchbrötchenrechnung - Deluxe Version",
+  "autor": "Johann König",
+  "sprecher": "Johann König",
+  "begruendung": "Johann König live, wenn dir sein trockener Ton in „Familie macht glücklich“ gefallen hat.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B0BTZ4672Z",
+  "audible_url": "https://www.audible.de/pd/B08VKWB1FX",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B08FF1588T",
+  "asin": "B08FF1588T",
+  "titel": "Der tut nix",
+  "autor": "Martin Rütter",
+  "sprecher": "Martin Rütter",
+  "begruendung": "Rütters zweites Live-Programm über Zwei- und Vierbeiner, nachdem du „Freispruch! - Live“ schon gehört hast.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B0B1QLPC9V",
+  "audible_url": "https://www.audible.de/pd/B08FF1588T",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B00CS42VDK",
+  "asin": "B00CS42VDK",
+  "titel": "Lebenslänglich Klassenfahrt",
+  "autor": "Bastian Bielendorfer",
+  "sprecher": "Bastian Bielendorfer",
+  "begruendung": "Noch mehr Schul-Chaos von Bielendorfer, direkt anschlussfähig an „Die große Pause“.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "3833879343",
+  "audible_url": "https://www.audible.de/pd/B00CS42VDK",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B008OEARCA",
+  "asin": "B008OEARCA",
+  "titel": "Lehrerkind",
+  "autor": "Bastian Bielendorfer",
+  "sprecher": "Bastian Bielendorfer",
+  "begruendung": "Der Titel, mit dem bei Bielendorfer alles anfing – Pflichtprogramm nach „Die große Pause“.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "3833879343",
+  "audible_url": "https://www.audible.de/pd/B008OEARCA",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0GY8Q1NKR",
+  "asin": "B0GY8Q1NKR",
+  "titel": "Die zwei Wochen kriegen wir schon rum!",
+  "autor": "André Herrmann",
+  "sprecher": "André Herrmann",
+  "begruendung": "Die Fortsetzung des Eltern-Urlaubs, nachdem dich „Schön war's, aber nicht nochmal“ unterhalten hat.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B0CVQSHGCJ",
+  "audible_url": "https://www.audible.de/pd/B0GY8Q1NKR",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B07KXTV8PX",
+  "asin": "B07KXTV8PX",
+  "titel": "Platzwechsel",
+  "autor": "André Herrmann",
+  "sprecher": "André Herrmann",
+  "begruendung": "Herrmann erzählend statt auf Tour – für alle, die seinen Ton in „Schön war's, aber nicht nochmal“ mochten.",
+  "tags": {
+   "genres": [
+    "Belletristik"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B0CVQSHGCJ",
+  "audible_url": "https://www.audible.de/pd/B07KXTV8PX",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B00H42M5A0",
+  "asin": "B00H42M5A0",
+  "titel": "Hauptsache nichts mit Menschen",
+  "autor": "Paul Bokowski",
+  "sprecher": "Paul Bokowski, Kirsten Fuchs, Uli Hannemann",
+  "begruendung": "Noch eine Lesebühnen-Runde mit Bokowski und Freunden, ganz im Geist von „Feine Auslese“.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "3863912853",
+  "audible_url": "https://www.audible.de/pd/B00H42M5A0",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ },
+ {
+  "id": "r-B0CP4DM9QG",
+  "asin": "B0CP4DM9QG",
+  "titel": "Ist der immer so?",
+  "autor": "Stefan Schwarz",
+  "sprecher": "Stefan Schwarz",
+  "begruendung": "Schwarz erzählt vom leeren Nest – der nächste Ehe- und Familienschritt nach „Wir sollten uns auch mal scheiden lassen“.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "herzerwärmend"
+   ],
+   "laenge": "kurz"
+  },
+  "aehnlich_wie": "B01FK78TEG",
+  "audible_url": "https://www.audible.de/pd/B0CP4DM9QG",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-08-06"
+ }
 ]
