@@ -2373,5 +2373,127 @@
   "audible_url": "https://www.audible.de/pd/Der-Circle-Hoerbuch/3732455297",
   "regal": "wunsch-antwort",
   "aufgenommen_am": "2026-08-07"
+ },
+ {
+  "id": "r-B0CHSK2VHM",
+  "asin": "B0CHSK2VHM",
+  "titel": "Elon Musk: Die Biografie",
+  "autor": "Walter Isaacson",
+  "sprecher": "Christian Baumann",
+  "begruendung": "Dieselbe Person, zehn Jahre später und aus nächster Nähe: Isaacson lief Musk zwei Jahre lang hinterher, saß in Besprechungen und hat die Twitter-Übernahme, die Tesla-Krisen und die SpaceX-Starts noch mitbekommen — alles, was bei Vance 2015 noch nicht passiert war. Wer die Vance-Biografie kennt, bekommt hier die Fortsetzung mit demselben Blick fürs Innenleben, nur ausführlicher und näher dran.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "spannend"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Wissenschaft",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B017K8W5PM",
+  "audible_url": "https://www.audible.de/pd/Elon-Musk-Hoerbuch/B0CHSK2VHM",
+  "regal": "wunsch-antwort",
+  "aufgenommen_am": "2026-08-07"
+ },
+ {
+  "id": "r-B006FZ8X8U",
+  "asin": "B006FZ8X8U",
+  "titel": "Steve Jobs",
+  "autor": "Walter Isaacson",
+  "sprecher": "Frank Arnold",
+  "begruendung": "Der Vorgänger im selben Fach — Isaacson hat Jobs über Jahre begleitet und mit Familie, Weggefährten und Konkurrenten gesprochen. Auch hier ein Gründer, der Mitarbeiter zur Verzweiflung treibt und trotzdem Geräte hervorbringt, die die Welt umkrempeln; die 26 Stunden nehmen sich Zeit für beides, die Produkte und den schwierigen Menschen dahinter.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "spannend"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Wissenschaft",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B017K8W5PM",
+  "audible_url": "https://www.audible.de/pd/Steve-Jobs-Hoerbuch/B006FZ8X8U",
+  "regal": "wunsch-antwort",
+  "aufgenommen_am": "2026-08-07"
+ },
+ {
+  "id": "r-3960923945",
+  "asin": "3960923945",
+  "titel": "Shoe Dog",
+  "autor": "Phil Knight",
+  "sprecher": "Stefan Lehnen",
+  "begruendung": "Die Gründergeschichte einmal aus der Ich-Perspektive: Knight erzählt selbst, wie er 1963 mit 50 geliehenen Dollar japanische Laufschuhe aus dem Kofferraum verkaufte und daraus Nike wurde. Weniger Technik-Vision als die Musk-Biografie, dafür ehrlicher über Beinahe-Pleiten und Selbstzweifel — und mit dem Sportbezug, der auch bei Ibrahimovic im Regal steht.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "spannend",
+    "herzerwärmend"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Abenteuer",
+    "Alltag"
+   ],
+   "anlass": [
+    "lange Reise",
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B017K8W5PM",
+  "audible_url": "https://www.audible.de/pd/Shoe-Dog-Hoerbuch/3960923945",
+  "regal": "wunsch-antwort",
+  "aufgenommen_am": "2026-08-07"
+ },
+ {
+  "id": "r-B0B5HQ61J9",
+  "asin": "B0B5HQ61J9",
+  "titel": "Amazon unaufhaltsam",
+  "autor": "Brad Stone",
+  "sprecher": "Uwe Thoma",
+  "begruendung": "Der zweite große Tech-Gründer der Gegenwart, recherchiert wie die Vance-Biografie von außen und ohne Ehrfurcht: Stone zeichnet nach, wie Bezos den Buchhändler in einen Konzern verwandelte, der Cloud, Logistik, Lebensmittel und Serien gleichzeitig betreibt. Ein Hinweis vorweg — an der Aussprache englischer Begriffe im Vortrag scheiden sich in den Rezensionen die Geister.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "spannend"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Gesellschaft",
+    "Wissenschaft"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B017K8W5PM",
+  "audible_url": "https://www.audible.de/pd/Amazon-unaufhaltsam-Hoerbuch/B0B5HQ61J9",
+  "regal": "wunsch-antwort",
+  "aufgenommen_am": "2026-08-07"
  }
 ]
