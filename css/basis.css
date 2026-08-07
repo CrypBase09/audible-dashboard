@@ -11,7 +11,7 @@ body {
 }
 h1, h2, h3, h4 { font-family: var(--display); font-weight: var(--display-weight); letter-spacing: var(--display-spacing); }
 main, .kopf { max-width: 1100px; margin: 0 auto; padding: 0 18px; }
-section { margin: 30px 0 46px; scroll-margin-top: 68px; }
+section { margin: 30px 0 46px; scroll-margin-top: 64px; }
 a { color: var(--akzent-text); }
 
 /* ---------- Profilwahl ---------- */
@@ -44,8 +44,19 @@ a { color: var(--akzent-text); }
 .zahl strong { font-size: 1.18rem; font-family: var(--zahl-font); font-variant-numeric: tabular-nums; }
 .zahl span { color: var(--gedaempft); font-size: .78rem; }
 .stand { color: var(--gedaempft); font-size: .78rem; margin: 12px 0 0; }
-.springe { display: flex; gap: 16px; border-bottom: 1px solid var(--linie); padding: 14px 0 12px; position: sticky; top: 0; background: var(--bg); z-index: 5; }
-.springe a { text-decoration: none; font-weight: 500; font-size: .9rem; }
+/* Die Sprungleiste steht bewusst außerhalb des Kopfbereichs: ein klebendes Element bleibt
+   nur innerhalb seines Elternteils hängen — im Kopf wäre sie beim Scrollen mit verschwunden. */
+.springe { position: sticky; top: 0; z-index: 20; background: var(--bg);
+  border-bottom: 1px solid var(--linie); }
+.springe-inner { max-width: 1100px; margin: 0 auto; padding: 12px 18px;
+  display: flex; gap: 18px; overflow-x: auto; scrollbar-width: none; }
+.springe-inner::-webkit-scrollbar { display: none; }
+.springe a { text-decoration: none; font-weight: 500; font-size: .9rem; white-space: nowrap;
+  color: var(--gedaempft); padding-bottom: 3px; border-bottom: 2px solid transparent;
+  transition: color var(--dauer), border-color var(--dauer); }
+.springe a:hover { color: var(--text); }
+.springe a.hier { color: var(--akzent-text); border-bottom-color: var(--akzent); }
+@media (max-width: 400px) { .springe-inner { gap: 13px; padding: 11px 14px; font-size: .86rem; } }
 
 /* ---------- Mal wieder hören ---------- */
 .malwieder-karte {

@@ -47,6 +47,30 @@ export const App = {
 
 async function ladeJson(pfad) { return (await fetch(pfad)).json(); }
 
+// Hebt in der Sprungleiste hervor, in welchem Bereich man gerade liest.
+// Bewusst über den Scroll-Stand statt über einen IntersectionObserver: der feuert nur,
+// wenn die Seite wirklich gezeichnet wird, und ist damit schwerer nachprüfbar.
+function beobachteBereiche() {
+  const links = [...document.querySelectorAll(".springe a")];
+  const paare = links.map((a) => ({ a, id: a.getAttribute("href").slice(1) }));
+  const grenze = 80; // knapp unter der klebenden Leiste
+
+  function aktualisiere() {
+    let aktiv = paare[0]?.id;
+    for (const { id } of paare) {
+      const el = document.getElementById(id);
+      if (el && el.getBoundingClientRect().top <= grenze) aktiv = id;
+    }
+    for (const { a, id } of paare) a.classList.toggle("hier", id === aktiv);
+  }
+
+  // Vier Positionsabfragen pro Scroll-Ereignis sind billig genug für den direkten Weg.
+  addEventListener("scroll", aktualisiere, { passive: true });
+  addEventListener("resize", aktualisiere, { passive: true });
+  document.addEventListener("zustand-geaendert", aktualisiere);
+  aktualisiere();
+}
+
 function zeichneKopf() {
   const eigene = App.meineBuecher();
   document.getElementById("gruss").innerHTML = eigene.length
@@ -97,6 +121,7 @@ async function start() {
   initSuche(App);
   initMerkliste(App);
   initBibliothek(App);
+  beobachteBereiche();
   document.getElementById("profil-schalter").addEventListener("click", () => App.wechsleProfil());
   document.addEventListener("zustand-geaendert", () => { zeichneKopf(); zeichneMalWieder(); });
   initSync(App);
