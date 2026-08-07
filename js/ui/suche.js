@@ -212,34 +212,74 @@ function zeichneTreffer(App, pool) {
 function zeichneLeiste(App) {
   const anzahl = document.getElementById("such-anzahl");
   const knopf = document.getElementById("such-neu");
-  const offen = App.meinProfil().wishes.some((w) => w.status === "offen" || w.status === "in_arbeit");
+  anzahl.className = "";
 
+  // Wenn schon Treffer dastehen, muss die Trefferzahl das lauteste Element sein und nicht
+  // der Suchknopf — sonst tippt man auf „suchen“, ohne die Ergebnisse darunter zu bemerken.
   if (istLeer(auswahl)) {
     anzahl.textContent = "Wähle aus, wonach dir ist.";
-    knopf.classList.remove("hervor");
+    anzahl.className = "gedaempft";
+    knopf.className = "primaer";
   } else {
     const pool = sichtbareEmpfehlungen(App.pool(), App.daten.library, App.zustand, App.profil);
     const n = sucheImVorrat(pool, auswahl).length;
-    anzahl.textContent = n === 0 ? "Nichts im Vorrat dabei." : `${n} im Vorrat gefunden`;
-    knopf.classList.toggle("hervor", n === 0);
+    if (n === 0) {
+      anzahl.textContent = "Nichts im Vorrat dabei.";
+      anzahl.className = "gedaempft";
+      knopf.className = "primaer hervor";
+    } else {
+      // Antippbar, damit man von der Zahl direkt zu den Treffern kommt — die Rückmeldung war,
+      // dass die Liste darunter schlicht übersehen wurde.
+      anzahl.innerHTML = `<button type="button" class="such-treffer-sprung">
+        <strong>${n} ${n === 1 ? "Vorschlag passt" : "Vorschläge passen"} schon</strong>
+        <span class="gedaempft">— ansehen ↓</span></button>`;
+      anzahl.className = "such-treffer-hinweis";
+      anzahl.querySelector("button").addEventListener("click", () => {
+        const ziel = document.getElementById("such-treffer");
+        if (!ziel) return;
+        const y = ziel.getBoundingClientRect().top + window.scrollY - 70; // unter der Sprungleiste
+        window.scrollTo({ top: Math.max(0, y), behavior: "smooth" });
+      });
+      knopf.className = "";  // zurückhaltend, solange es schon etwas zu sehen gibt
+    }
   }
 
-  knopf.textContent = offen ? "Suche läuft …" : "Richtig suchen";
-  knopf.disabled = offen;
+  knopf.textContent = "Richtig suchen";
+  knopf.disabled = false;   // eine laufende Suche blockiert keine neue mehr
 
+  const laeuft = App.meinProfil().wishes.some((w) => w.status === "offen" || w.status === "in_arbeit");
   clearTimeout(pollTimer);
-  if (offen && App.syncLaden) pollTimer = setTimeout(() => App.syncLaden(), 30000);
+  if (laeuft && App.syncLaden) pollTimer = setTimeout(() => App.syncLaden(), 30000);
 }
 
 function zeichneAuftraege(App) {
   const TEXT = { offen: "wird gesucht", in_arbeit: "wird recherchiert", beantwortet: "beantwortet" };
   const liste = document.getElementById("auftrag-liste");
-  liste.replaceChildren(...App.meinProfil().wishes.slice(-4).reverse().map((w) => {
+  const p = App.meinProfil();
+  const sichtbar = p.wishes.filter((w) => w.status !== "abgebrochen").slice(-4).reverse();
+
+  liste.replaceChildren(...sichtbar.map((w) => {
     const li = document.createElement("li");
     li.className = `auftrag ${w.status}`;
     li.innerHTML = `<span class="auftrag-punkt" aria-hidden="true"></span>
       <span class="auftrag-text">${w.text}</span>
       <span class="auftrag-status">${TEXT[w.status] ?? w.status}</span>`;
+
+    if (w.status === "offen" || w.status === "in_arbeit") {
+      const abbrechen = document.createElement("button");
+      abbrechen.className = "auftrag-abbrechen";
+      abbrechen.innerHTML = `<span aria-hidden="true">✕</span>`;
+      abbrechen.setAttribute("aria-label", "Diese Suche abbrechen");
+      abbrechen.title = "Suche abbrechen";
+      abbrechen.addEventListener("click", () => {
+        // Läuft die Recherche schon, merkt der Wächter den Abbruch am Status und verwirft
+        // das Ergebnis. Noch nicht gestartete Aufträge sind damit sofort erledigt.
+        const eintrag = p.wishes.find((x) => x.id === w.id);
+        if (eintrag) eintrag.status = "abgebrochen";
+        App.speichern();
+      });
+      li.append(abbrechen);
+    }
     return li;
   }));
 }

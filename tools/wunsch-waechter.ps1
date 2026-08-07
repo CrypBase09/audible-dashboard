@@ -28,6 +28,7 @@ foreach ($p in @("sie", "er")) {
   $wuensche = $state.profile.$p.wishes
   if (-not $wuensche) { continue }
   foreach ($w in $wuensche) {
+    if ($w.status -eq "abgebrochen") { continue }   # zurückgezogen — nicht anfassen
     if ($w.status -eq "offen") {
       $w.status = "in_arbeit"
       $w | Add-Member -NotePropertyName "gestartet" -NotePropertyValue $jetzt.ToString("o") -Force

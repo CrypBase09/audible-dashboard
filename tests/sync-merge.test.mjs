@@ -36,10 +36,11 @@ test("Ablehnungen bleiben erhalten, auch wenn nur eine Seite sie kennt", () => {
   assert.deepEqual(mergeState(lokal, remote).profile.sie.abgelehnt, ["r9"]);
 });
 
-test("Wunsch-Status: beantwortet schlägt in_arbeit schlägt offen", () => {
+test("Wunsch-Status: beantwortet schlägt abgebrochen schlägt in_arbeit schlägt offen", () => {
   const w = (status) => normalisiereState({ profile: { sie: { wishes: [{ id: "x", text: "t", datum: "2026-08-01", status }] }, er: {} } });
   assert.equal(mergeState(w("offen"), w("in_arbeit")).profile.sie.wishes[0].status, "in_arbeit");
-  assert.equal(mergeState(w("in_arbeit"), w("beantwortet")).profile.sie.wishes[0].status, "beantwortet");
+  assert.equal(mergeState(w("in_arbeit"), w("abgebrochen")).profile.sie.wishes[0].status, "abgebrochen");
+  assert.equal(mergeState(w("abgebrochen"), w("beantwortet")).profile.sie.wishes[0].status, "beantwortet");
   assert.equal(mergeState(w("beantwortet"), w("offen")).profile.sie.wishes[0].status, "beantwortet");
 });
 

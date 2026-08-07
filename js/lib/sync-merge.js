@@ -2,7 +2,9 @@ import { PROFILE, normalisiereState } from "./profil.js";
 
 export const LEERE_TOMBSTONES = { sie: { wishlist: [] }, er: { wishlist: [] } };
 
-const RANG = { offen: 0, in_arbeit: 1, beantwortet: 2 };
+// Höherer Rang gewinnt beim Zusammenführen. „abgebrochen" schlägt die laufenden Zustände;
+// ein bereits fertiger Fund gewinnt darüber, denn dann liegen die Ergebnisse ja schon vor.
+const RANG = { offen: 0, in_arbeit: 1, abgebrochen: 2, beantwortet: 3 };
 
 const uniq = (...listen) => [...new Set(listen.flat())];
 

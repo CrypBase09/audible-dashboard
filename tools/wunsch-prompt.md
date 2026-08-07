@@ -10,6 +10,8 @@ Du beantwortest **einen** offenen Wunsch aus dem Sync-Speicher. Arbeite zügig �
 2. **State holen** (`GET /state`). Suche den **ersten** Wunsch mit `status: "in_arbeit"`
    in `profile.sie.wishes` oder `profile.er.wishes`. Merke dir das Profil (`sie`/`er`)
    und die Wunsch-ID. Gibt es keinen, beende ohne Änderung.
+   **Wünsche mit `status: "abgebrochen"` überspringst du immer** — die Person hat die Suche
+   zurückgezogen.
 3. **Kontext bilden:** Lies `data/library.json`. Die markierten Bücher des Profils
    (`profile.<p>.meine`) sind der Geschmack; `profile.<p>.lieblinge` wiegen doppelt.
    `profile.<p>.abgelehnt` und `.gehoert` sind Negativsignale — nichts Ähnliches vorschlagen.
@@ -20,10 +22,14 @@ Du beantwortest **einen** offenen Wunsch aus dem Sync-Speicher. Arbeite zügig �
 5. **Antwort schreiben:** Für jeden Treffer ein Objekt im Empfehlungs-Schema
    (`id: "r-<ASIN>"`, `regal: "wunsch-antwort"`, `aufgenommen_am` = heute) plus die Felder
    `fuer: "<profil>"` und `erzeugt_am` (ISO-Zeit).
-6. **State aktualisieren:** frisch GETten, die neuen Objekte an `frisch` anhängen,
-   den Wunsch auf `status: "beantwortet"` setzen, `version` auf die aktuelle Zeit in
-   Millisekunden, dann PUT. **Keine anderen Felder anfassen** — die Personen bedienen
-   das Dashboard parallel.
+6. **State aktualisieren:** frisch GETten — **und zuerst prüfen, ob der Wunsch inzwischen
+   `abgebrochen` wurde oder fehlt.** Wenn ja: nichts an `frisch` anhängen und den Status nicht
+   ändern; die gefundenen Titel wandern in Schritt 7 trotzdem in die Datei, aber mit
+   `regal: "geschmacks-match"` statt `"wunsch-antwort"` — die Arbeit ist dann nicht umsonst,
+   die Person bekommt aber keine Antwort auf eine zurückgezogene Frage.
+   Sonst: die neuen Objekte an `frisch` anhängen, den Wunsch auf `status: "beantwortet"`
+   setzen, `version` auf die aktuelle Zeit in Millisekunden, dann PUT.
+   **Keine anderen Felder anfassen** — die Personen bedienen das Dashboard parallel.
 7. **Dauerhaft ablegen:** Dieselben Empfehlungen (ohne `fuer`/`erzeugt_am`) an
    `data/recommendations.json` anhängen, dann
    `node tools/pruefe-daten.mjs && node --test`. Nur bei Exit 0 ausliefern:

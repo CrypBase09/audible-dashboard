@@ -195,9 +195,20 @@ select { width: auto; }
 button.hervor { box-shadow: 0 0 0 3px color-mix(in srgb, var(--akzent) 35%, transparent); }
 
 .auftrag-liste { list-style: none; margin: 18px 0 0; padding: 0; display: grid; gap: 8px; }
-.auftrag { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; align-items: center;
+.auftrag { display: grid; grid-template-columns: auto minmax(0, 1fr) auto auto; align-items: center;
   gap: 10px; font-size: .84rem; padding: 9px 13px; border: 1px solid var(--linie);
   border-radius: calc(var(--radius) - 6px); }
+.auftrag-abbrechen { background: none; border: none; color: var(--gedaempft); font-size: .9rem;
+  min-height: 32px; padding: 0 4px; }
+.auftrag-abbrechen:hover { color: var(--text); }
+/* Solange schon Treffer dastehen, trägt die Trefferzahl die Betonung, nicht der Suchknopf. */
+.such-treffer-hinweis { font-size: .88rem; }
+.such-treffer-sprung { background: none; border: none; padding: 4px 0; min-height: 32px;
+  color: var(--akzent-text); font-size: .88rem; text-align: left; }
+.such-treffer-sprung strong { font-weight: 600; }
+.such-treffer-sprung .gedaempft { margin-left: 4px; }
+.such-treffer-sprung:hover { text-decoration: underline; }
+#such-treffer { scroll-margin-top: 70px; }
 .auftrag-punkt { width: 7px; height: 7px; border-radius: 50%; background: var(--gedaempft); }
 .auftrag.beantwortet .auftrag-punkt { background: var(--akzent); }
 .auftrag-text { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
