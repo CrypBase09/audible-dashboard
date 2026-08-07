@@ -16,16 +16,28 @@ Bash-Sandbox blockiert workers.dev.
    echte ASIN aus der Produktseiten-URL, Begründung nimmt Bezug auf den Wunschtext.
    Danach im State den Wunsch auf `beantwortet` setzen: erst frisch GETten, NUR den
    wishes-Status ändern, dann PUT (Merge-Disziplin — keine anderen Felder anfassen).
-5. Turnus-Auffrischung: `geschmacks-match`-Einträge mit `aufgenommen_am` älter als 6 Wochen
-   entfernen, sofern in keiner der beiden Wunschlisten; 5–10 frische kuratieren — je nach
-   Geschmack beider Profile, damit niemand leer ausgeht. Nichts aufnehmen, was schon in
-   `library.json` steht (ASIN-Abgleich). Pool-Deckel 100.
+5. Turnus-Auffrischung (läuft **täglich**): `geschmacks-match`-Einträge mit `aufgenommen_am`
+   älter als **4 Wochen** entfernen, sofern in keiner der beiden Wunschlisten und nicht
+   abgelehnt; **5–8 frische** kuratieren — je nach Geschmack beider Profile, damit niemand
+   leer ausgeht. Nichts aufnehmen, was schon in `library.json` steht (ASIN- **und**
+   Titelabgleich). **Pool-Deckel 150.**
+
+5a. **Blickwinkel je Wochentag**, damit nicht täglich dieselbe Ecke abgegrast wird:
+   Mo Neuerscheinungen · Di ein Thema, das im Vorrat unterrepräsentiert ist · Mi ein Sprecher
+   aus den markierten Büchern · Do Hörspiele und Bühnenprogramme · Fr Serien und Fortsetzungen ·
+   Sa etwas für die Kinder oder zum gemeinsamen Hören · So etwas Ruhiges zum Einschlafen.
+
+5c. **Jede neue Empfehlung braucht `tags.themen` (1–3), `tags.form` (Lesung | Hörspiel |
+   Bühnenprogramm | Podcast) und nach Möglichkeit `tags.anlass`** (zum Einschlafen, fürs Auto,
+   beim Bügeln, mit den Kindern, lange Reise). Ohne `themen` und `form` schlägt die
+   Datenprüfung fehl. Vorhandene Themenworte stehen in `data/schlagworte.tsv`; passende
+   wiederverwenden statt neue zu erfinden.
 5b. `frisch`-Einträge im State, die inzwischen in `data/recommendations.json` stehen,
    aus dem State entfernen — sie werden sonst doppelt vorgehalten.
 6. Cover für neue Empfehlungen: URLs in `data/covers-manifest.json` ergänzen und
    `powershell -ExecutionPolicy Bypass -File tools/cover-shrink.ps1` laufen lassen (best effort).
-7. `data/meta.json` stempeln: `letzter_lauf` = jetzt (ISO), `naechster_lauf` = nächster
-   Di/Fr 07:30 (Europe/Zurich), `profil_kurz` bei Bedarf aktualisieren.
+7. `data/meta.json` stempeln: `letzter_lauf` = jetzt (ISO), `naechster_lauf` = **morgen 07:30**
+   (Europe/Zurich), `profil_kurz` bei Bedarf aktualisieren.
 8. Gate: `node tools/pruefe-daten.mjs && node --test` — nur bei Exit 0 weiter.
 9. Ausliefern über das Skript (pusht und stößt die Auslieferung ausdrücklich an):
    ```

@@ -147,3 +147,31 @@ select { width: auto; }
   * { animation: none !important; transition: none !important; }
   .buch:hover .cover { transform: none; }
 }
+
+/* ---------- Suche ---------- */
+.such-gruppen { display: grid; gap: 14px; margin: 16px 0; }
+.such-gruppe h4 { margin: 0 0 6px; font-size: .88rem; font-family: var(--sans); font-weight: 500; color: var(--gedaempft); }
+.such-gruppe .chips { margin: 0; }
+.sprecher-frei { margin-top: 8px; max-width: 280px; }
+.such-frei { display: grid; gap: 6px; margin: 18px 0 14px; }
+.such-frei span { font-size: .88rem; }
+.such-fuss { display: flex; gap: 14px; align-items: center; flex-wrap: wrap; margin-bottom: 14px; }
+.such-fuss p { margin: 0; flex: 1 1 220px; }
+button.hervor { box-shadow: 0 0 0 3px color-mix(in srgb, var(--akzent) 35%, transparent); }
+#auftrag-liste { margin: 16px 0 0; padding-left: 18px; font-size: .9rem; }
+#auftrag-liste .offen, #auftrag-liste .in_arbeit { color: var(--gedaempft); }
+#auftrag-liste .beantwortet { color: var(--akzent-text); }
+.empf-marken { margin: 0 0 9px; display: flex; gap: 6px; flex-wrap: wrap; }
+.empf-marken span { font-size: .72rem; color: var(--gedaempft); border: 1px solid var(--linie);
+  border-radius: 999px; padding: 2px 9px; }
+
+/* ---------- Bibliothek als Aufklapp-Bereich ---------- */
+#bib-details { border: 1px solid var(--linie); border-radius: var(--radius); background: var(--flaeche); }
+#bib-summary { cursor: pointer; padding: 16px 18px; font-family: var(--display); font-size: 1.1rem;
+  list-style: none; display: flex; align-items: center; gap: 10px; }
+#bib-summary::-webkit-details-marker { display: none; }
+#bib-summary::before { content: "▸"; color: var(--akzent-text); transition: transform var(--dauer); }
+#bib-details[open] #bib-summary::before { transform: rotate(90deg); }
+#bib-summary .gedaempft { font-family: var(--sans); font-size: .84rem; font-weight: 400; }
+.bib-inhalt { padding: 0 18px 20px; }
+.bib-zahlen-titel { margin-top: 28px; }

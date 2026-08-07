@@ -1,13 +1,10 @@
-import {
-  LEERER_STATE, PROFILE, normalisiereState, holeProfil,
-  setzeHerz, setzeStern, hatMarkierungen,
-} from "./lib/profil.js";
+import { LEERER_STATE, PROFILE, normalisiereState, holeProfil, setzeHerz, setzeStern } from "./lib/profil.js";
 import { meineBuecher } from "./lib/empfehlungs-filter.js";
-import { berechneStatistik, formatiereDauer } from "./lib/statistik.js";
 import { malWiederHeute } from "./lib/heute.js";
-import { initBibliothek } from "./ui/bibliothek.js";
 import { initEntdecken } from "./ui/entdecken.js";
-import { initWunschliste } from "./ui/wunschliste.js";
+import { initSuche } from "./ui/suche.js";
+import { initMerkliste } from "./ui/merkliste.js";
+import { initBibliothek } from "./ui/bibliothek.js";
 import { frageProfilAb, setzeWelt } from "./ui/profil-wahl.js";
 import { initSync } from "./sync.js";
 
@@ -20,7 +17,7 @@ export const App = {
 
   meinProfil() { return holeProfil(this.zustand, this.profil); },
   meineBuecher() { return meineBuecher(this.daten.library, this.zustand, this.profil); },
-  // Der Empfehlungspool ist die Datei plus die Sofort-Antworten des Wächters für dieses Profil.
+  // Der Vorrat ist die Datei plus die Sofort-Antworten des Wächters für dieses Profil.
   pool() {
     const frisch = (this.zustand.frisch ?? []).filter((f) => f.fuer === this.profil);
     const bekannt = new Set(this.daten.recommendations.map((e) => e.id));
@@ -52,20 +49,14 @@ async function ladeJson(pfad) { return (await fetch(pfad)).json(); }
 
 function zeichneKopf() {
   const eigene = App.meineBuecher();
-  const basis = eigene.length ? eigene : App.daten.library;
-  const s = berechneStatistik(basis);
-  const lieblinge = App.meinProfil().lieblinge.length;
   document.getElementById("gruss").innerHTML = eigene.length
-    ? `Schön, dass du da bist —<br><strong>deine Hörbuchwelt wartet.</strong>`
-    : `Schön, dass du da bist —<br><strong>markier dir, was dir gehört.</strong>`;
-  document.getElementById("kopf-zahlen").innerHTML =
-    `<div class="zahl"><strong>${s.anzahl}</strong><span>${eigene.length ? "meine Hörbücher" : "Hörbücher"}</span></div>
-     <div class="zahl"><strong>${formatiereDauer(s.gesamt_min)}</strong><span>Hörzeit</span></div>
-     <div class="zahl"><strong>${lieblinge}</strong><span>Lieblinge ★</span></div>`;
+    ? `Schön, dass du da bist —<br><strong>hier wartet neuer Hörstoff.</strong>`
+    : `Schön, dass du da bist —<br><strong>zeig mir, was dir gefällt.</strong>`;
   const m = App.daten.meta;
   const d = (iso) => iso ? new Date(iso).toLocaleDateString("de-DE", { day: "numeric", month: "short" }) : "–";
+  const anzahl = App.pool().length;
   document.getElementById("stand").textContent =
-    `Zuletzt aufgefrischt: ${d(m.letzter_lauf)} · Nächster Turnus-Lauf: ${d(m.naechster_lauf)}`;
+    `${anzahl} Vorschläge im Vorrat · zuletzt aufgefrischt ${d(m.letzter_lauf)} · nächster Lauf ${d(m.naechster_lauf)}`;
   const schalter = document.getElementById("profil-schalter");
   schalter.hidden = false;
   schalter.textContent = `${BESCHRIFTUNG[App.profil]} · wechseln`;
@@ -77,22 +68,20 @@ function zeichneMalWieder() {
   const auswahl = p.lieblinge.length ? p.lieblinge : p.meine;
   const asin = malWiederHeute(new Date().toISOString().slice(0, 10), auswahl);
   const buch = App.daten.library.find((b) => b.asin === asin);
-  ziel.innerHTML = buch
-    ? `<article class="malwieder-karte">
-         <img src="${buch.cover}" alt="" loading="lazy">
-         <div><p class="etikett">Lange nicht gehört</p>
-         <h2>Zeit für „${buch.titel}“?</h2>
-         <p class="gedaempft">${buch.autor}${buch.sprecher ? ` · gelesen von ${buch.sprecher}` : ""}</p></div>
-       </article>`
-    : `<article class="malwieder-karte"><div><p class="etikett">Mal wieder hören</p>
-       <p>Markier deine Bücher mit ♥ und die schönsten mit ★ — dann schlage ich dir hier täglich einen vor.</p></div></article>`;
+  if (!buch) { ziel.replaceChildren(); return; }
+  ziel.innerHTML = `<article class="malwieder-karte">
+      <img src="${buch.cover}" alt="" loading="lazy">
+      <div><p class="etikett">Lange nicht gehört</p>
+      <h2>Zeit für „${buch.titel}“?</h2>
+      <p class="gedaempft">${buch.autor}${buch.sprecher ? ` · gelesen von ${buch.sprecher}` : ""}</p></div>
+    </article>`;
   ziel.querySelector("img")?.addEventListener("error", (e) => e.target.remove());
 }
 
 async function start() {
   App.profil = localStorage.getItem("hb:profil") ?? await frageProfilAb({});
-  localStorage.setItem("hb:profil", App.profil);
   if (!PROFILE.includes(App.profil)) App.profil = "sie";
+  localStorage.setItem("hb:profil", App.profil);
   setzeWelt(App.profil);
 
   try { App.zustand = normalisiereState(JSON.parse(localStorage.getItem("hb:state"))); } catch {}
@@ -104,13 +93,12 @@ async function start() {
 
   zeichneKopf();
   zeichneMalWieder();
-  initBibliothek(App);
   initEntdecken(App);
-  initWunschliste(App);
+  initSuche(App);
+  initMerkliste(App);
+  initBibliothek(App);
   document.getElementById("profil-schalter").addEventListener("click", () => App.wechsleProfil());
   document.addEventListener("zustand-geaendert", () => { zeichneKopf(); zeichneMalWieder(); });
   initSync(App);
 }
 start();
-
-export { hatMarkierungen };
