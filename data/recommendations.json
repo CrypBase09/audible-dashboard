@@ -2250,5 +2250,128 @@
   "audible_url": "https://www.audible.de/pd/B075R33QJH",
   "regal": "wunsch-antwort",
   "aufgenommen_am": "2026-08-07"
+ },
+ {
+  "id": "r-B07C7TXJ5G",
+  "asin": "B07C7TXJ5G",
+  "titel": "Die Optimierer",
+  "autor": "Theresa Hannig",
+  "sprecher": "Richard Barenberg",
+  "begruendung": "Die deutsche Antwort auf QualityLand: 2052, Bundesrepublik Europa, ein System namens Optimalwohlökonomie weist jedem seinen perfekten Platz zu. Lebensberater Samson Freitag glaubt daran — bis die Maschine ihn selbst durchrechnet. Dieselbe Frage wie bei Kling, ob man Freiheit gegen Bequemlichkeit tauscht, nur mit trockenerem Beamtenhumor statt Slapstick.",
+  "tags": {
+   "genres": [
+    "Science-Fiction"
+   ],
+   "stimmung": [
+    "spannend",
+    "düster"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Gesellschaft",
+    "Politik"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B075F1VM93",
+  "audible_url": "https://www.audible.de/pd/Die-Optimierer-Hoerbuch/B07C7TXJ5G",
+  "regal": "wunsch-antwort",
+  "aufgenommen_am": "2026-08-07"
+ },
+ {
+  "id": "r-B004V68T1G",
+  "asin": "B004V68T1G",
+  "titel": "Per Anhalter durch die Galaxis",
+  "autor": "Douglas Adams",
+  "sprecher": "Christian Ulmen",
+  "begruendung": "Der Urahn dieser Art Humor — Kling hat bei Adams gelernt. Arthur Dents Haus soll einer Umgehungsstraße weichen, dann wird die Erde für eine Hyperraum-Trasse gesprengt, und der Rest ist Bürokratie im Weltall. Christian Ulmen liest das lakonisch, knapp sechs Stunden, und die Nähe zum Känguru ist in jedem zweiten Satz zu hören.",
+  "tags": {
+   "genres": [
+    "Science-Fiction",
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Abenteuer",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "lange Reise",
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B075F1VM93",
+  "audible_url": "https://www.audible.de/pd/Per-Anhalter-durch-die-Galaxis-Hoerbuch/B004V68T1G",
+  "regal": "wunsch-antwort",
+  "aufgenommen_am": "2026-08-07"
+ },
+ {
+  "id": "r-B00K7BMOBA",
+  "asin": "B00K7BMOBA",
+  "titel": "Drohnenland",
+  "autor": "Tom Hillenbrand",
+  "sprecher": "Uve Teschner",
+  "begruendung": "Ein Europol-Ermittler in einem Brüssel, das jeden Schritt aufzeichnet — bis die Datenspuren im Mordfall an einem Parlamentarier gefälscht sind. Die Überwachungswelt aus QualityLand, aber als Krimi erzählt und angenehm kurz (gut sechs Stunden, gekürzte Fassung). Passt zu den Krimi-Ausflügen im Regal, ohne den satirischen Blick zu verlieren.",
+  "tags": {
+   "genres": [
+    "Science-Fiction",
+    "Krimi"
+   ],
+   "stimmung": [
+    "spannend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle",
+    "Politik",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B075F1VM93",
+  "audible_url": "https://www.audible.de/pd/Drohnenland-Hoerbuch/B00K7BMOBA",
+  "regal": "wunsch-antwort",
+  "aufgenommen_am": "2026-08-07"
+ },
+ {
+  "id": "r-3732455297",
+  "asin": "3732455297",
+  "titel": "Der Circle",
+  "autor": "Dave Eggers",
+  "sprecher": "Torben Kessler",
+  "begruendung": "Der Konzern, den QualityLand parodiert, hier ganz ernst gemeint: Mae Holland macht Karriere bei einem Unternehmen, das Google, Facebook und Apple in sich vereint und Transparenz zur Pflicht erklärt. Kein Gag pro Seite, dafür wird einem beim Zuhören langsam mulmig — die dunkle Variante desselben Themas, mit gut fünfzehn Stunden auch die längste.",
+  "tags": {
+   "genres": [
+    "Science-Fiction",
+    "Belletristik"
+   ],
+   "stimmung": [
+    "düster",
+    "spannend"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Gesellschaft",
+    "Alltag"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B075F1VM93",
+  "audible_url": "https://www.audible.de/pd/Der-Circle-Hoerbuch/3732455297",
+  "regal": "wunsch-antwort",
+  "aufgenommen_am": "2026-08-07"
  }
 ]
