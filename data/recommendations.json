@@ -13,7 +13,15 @@
    "stimmung": [
     "spannend"
    ],
-   "laenge": "mittel"
+   "laenge": "mittel",
+   "themen": [
+    "Geschichte",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": "B0GWRNB6RY",
   "audible_url": "https://www.audible.de/pd/B0FSRSW3F3",
@@ -34,7 +42,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": "3742416960",
   "audible_url": "https://www.audible.de/pd/B0G1SVP79K",
@@ -56,7 +70,14 @@
     "witzig",
     "spannend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
   },
   "aehnlich_wie": "B06XCFQJ2B",
   "audible_url": "https://www.audible.de/pd/3844533923",
@@ -78,7 +99,14 @@
     "witzig",
     "spannend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
   },
   "aehnlich_wie": "B06XCFQJ2B",
   "audible_url": "https://www.audible.de/pd/B0BB81DC3H",
@@ -100,7 +128,15 @@
     "düster",
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Hörspiel"
   },
   "aehnlich_wie": "B08M3SVD6H",
   "audible_url": "https://www.audible.de/pd/B09LMN87M2",
@@ -122,7 +158,15 @@
     "düster",
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Hörspiel"
   },
   "aehnlich_wie": "B08M3SVD6H",
   "audible_url": "https://www.audible.de/pd/B0DZNXM2D7",
@@ -144,7 +188,15 @@
     "spannend",
     "düster"
    ],
-   "laenge": "mittel"
+   "laenge": "mittel",
+   "themen": [
+    "Geschichte",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": "B004UZH630",
   "audible_url": "https://www.audible.de/pd/B0DPR5NL76",
@@ -166,7 +218,15 @@
     "spannend",
     "düster"
    ],
-   "laenge": "mittel"
+   "laenge": "mittel",
+   "themen": [
+    "Geschichte",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": "B004UZH630",
   "audible_url": "https://www.audible.de/pd/B0DPR6QC55",
@@ -188,7 +248,15 @@
     "spannend",
     "düster"
    ],
-   "laenge": "episch"
+   "laenge": "episch",
+   "themen": [
+    "Geschichte",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": "B004UZH630",
   "audible_url": "https://www.audible.de/pd/B0DPR75156",
@@ -210,7 +278,14 @@
     "witzig",
     "herzerwärmend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
   },
   "aehnlich_wie": "B004JVIFYE",
   "audible_url": "https://www.audible.de/pd/B004JVKG32",
@@ -232,7 +307,15 @@
     "witzig",
     "herzerwärmend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer",
+    "Reisen"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
   },
   "aehnlich_wie": "B004JVIFYE",
   "audible_url": "https://www.audible.de/pd/B004JVIGZC",
@@ -253,7 +336,14 @@
    "stimmung": [
     "spannend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": "B0FZVDL7K2",
   "audible_url": "https://www.audible.de/pd/B0CGXFZYNX",
@@ -274,7 +364,14 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": "B0FZVDL7K2",
   "audible_url": "https://www.audible.de/pd/B0D9HKQ391",
@@ -295,7 +392,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Beziehung",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B0DB8WTW9Y",
@@ -316,7 +419,14 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B09DG6Y6FS",
@@ -337,7 +447,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Wissenschaft"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
   },
   "aehnlich_wie": "B0FC2BYFHL",
   "audible_url": "https://www.audible.de/pd/B00IFBJVCO",
@@ -358,7 +474,12 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
   },
   "aehnlich_wie": "B0FC2BYFHL",
   "audible_url": "https://www.audible.de/pd/B075GVB8MN",
@@ -379,7 +500,15 @@
    "stimmung": [
     "spannend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Geschichte",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B004V294K0",
@@ -400,7 +529,15 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "mittel"
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B01DWGAINM",
@@ -421,7 +558,15 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Gesellschaft",
+    "Reisen"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": "3838792122",
   "audible_url": "https://www.audible.de/pd/B00AYE5RZK",
@@ -442,7 +587,14 @@
    "stimmung": [
     "spannend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B01FMANJNW",
@@ -463,7 +615,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
   },
   "aehnlich_wie": "B09ZYSFJGH",
   "audible_url": "https://www.audible.de/pd/B0DS2DWQCX",
@@ -484,7 +642,15 @@
    "stimmung": [
     "herzerwärmend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Geschichte",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B004V5NCU0",
@@ -505,7 +671,13 @@
    "stimmung": [
     "düster"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Geschichte",
+    "Abenteuer"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B004V3SX3S",
@@ -526,7 +698,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Politik",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
   },
   "aehnlich_wie": "B09ZYSFJGH",
   "audible_url": "https://www.audible.de/pd/B00S9PSSF2",
@@ -547,7 +725,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
   },
   "aehnlich_wie": "B09ZYSFJGH",
   "audible_url": "https://www.audible.de/pd/B004V6QAYY",
@@ -568,7 +752,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Geschichte",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Hörspiel"
   },
   "aehnlich_wie": "B09ZYSFJGH",
   "audible_url": "https://www.audible.de/pd/B0BGJF38G7",
@@ -589,7 +779,14 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Bühnenprogramm"
   },
   "aehnlich_wie": "B0C9J36Q3Y",
   "audible_url": "https://www.audible.de/pd/B0D5MNJRSH",
@@ -610,7 +807,15 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Ruhrpott"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": "B0C9J36Q3Y",
   "audible_url": "https://www.audible.de/pd/B0D5QXR7SW",
@@ -631,7 +836,12 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Beziehung"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
   },
   "aehnlich_wie": "3803285437",
   "audible_url": "https://www.audible.de/pd/B0GSZ9846C",
@@ -652,7 +862,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Ruhrpott",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
   },
   "aehnlich_wie": "B06XCFQJ2B",
   "audible_url": "https://www.audible.de/pd/B0DZD5N4F9",
@@ -673,7 +889,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Ruhrpott",
+    "Krimi-Fälle"
+   ],
+   "anlass": [],
+   "form": "Hörspiel"
   },
   "aehnlich_wie": "B06XCFQJ2B",
   "audible_url": "https://www.audible.de/pd/B0CZ79F8PQ",
@@ -694,7 +916,12 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": "3742416960",
   "audible_url": "https://www.audible.de/pd/B01G8YGRX0",
@@ -715,7 +942,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
   },
   "aehnlich_wie": "B0B1ZT4BW9",
   "audible_url": "https://www.audible.de/pd/B0H5L8V1T5",
@@ -736,7 +969,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
   },
   "aehnlich_wie": "B0B1ZT4BW9",
   "audible_url": "https://www.audible.de/pd/B0B1QLWJWC",
@@ -757,7 +996,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Reisen",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": "B0CMQWBR43",
   "audible_url": "https://www.audible.de/pd/B0F18GH7LC",
@@ -778,7 +1023,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Familie"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
   },
   "aehnlich_wie": "B0BTZ4672Z",
   "audible_url": "https://www.audible.de/pd/B08VKWB1FX",
@@ -799,7 +1050,12 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Tiere"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
   },
   "aehnlich_wie": "B0B1QLPC9V",
   "audible_url": "https://www.audible.de/pd/B08FF1588T",
@@ -820,7 +1076,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": "3833879343",
   "audible_url": "https://www.audible.de/pd/B00CS42VDK",
@@ -841,7 +1103,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": "3833879343",
   "audible_url": "https://www.audible.de/pd/B008OEARCA",
@@ -862,7 +1130,15 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Reisen"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": "B0CVQSHGCJ",
   "audible_url": "https://www.audible.de/pd/B0GY8Q1NKR",
@@ -883,7 +1159,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Ruhrpott"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": "B0CVQSHGCJ",
   "audible_url": "https://www.audible.de/pd/B07KXTV8PX",
@@ -904,7 +1186,12 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": "3863912853",
   "audible_url": "https://www.audible.de/pd/B00H42M5A0",
@@ -926,7 +1213,13 @@
     "witzig",
     "herzerwärmend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Beziehung"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": "B01FK78TEG",
   "audible_url": "https://www.audible.de/pd/B0CP4DM9QG",
@@ -947,7 +1240,14 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B01N4K24ZB",
@@ -968,7 +1268,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B09NPT8W69",
@@ -989,7 +1295,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Beziehung"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B00TSR3SQE",
@@ -1010,7 +1322,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Gesellschaft",
+    "Politik"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B0CFFWDZNQ",
@@ -1032,7 +1350,13 @@
     "witzig",
     "herzerwärmend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Gesellschaft",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B09NPTJRDM",
@@ -1053,7 +1377,14 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Familie"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B0DWMW5KQ5",
@@ -1075,7 +1406,13 @@
     "witzig",
     "herzerwärmend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Reisen"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B004V7TNYC",
@@ -1096,7 +1433,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "mittel"
+   "laenge": "mittel",
+   "themen": [
+    "Gesellschaft",
+    "Politik"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B09FLY9ZDY",
@@ -1117,7 +1460,12 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B0788S7M78",
@@ -1138,7 +1486,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Wissenschaft",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B01BD3T8SC",
@@ -1159,7 +1513,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Wissenschaft",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B004V5T7KO",
@@ -1181,7 +1541,15 @@
     "witzig",
     "entspannend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Familie"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B004V1YKZK",
@@ -1203,7 +1571,15 @@
     "witzig",
     "herzerwärmend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Beziehung",
+    "Alltag"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B004UVHHW4",
@@ -1224,7 +1600,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Gesellschaft",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B00CEVSHUS",
@@ -1246,7 +1628,15 @@
     "witzig",
     "spannend"
    ],
-   "laenge": "mittel"
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle",
+    "Politik"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/3732455351",
@@ -1267,7 +1657,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Beziehung",
+    "Familie"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B004V7M8TY",
@@ -1289,7 +1685,13 @@
     "witzig",
     "herzerwärmend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B09CZC6BMH",
@@ -1310,7 +1712,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Ruhrpott",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B09Z65PYXT",
@@ -1331,7 +1739,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B004V1YQUY",
@@ -1352,7 +1766,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Geschichte"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B07CQ2XXWW",
@@ -1373,7 +1793,15 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Beziehung"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Hörspiel"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B087V6Y24C",
@@ -1395,7 +1823,13 @@
     "witzig",
     "entspannend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Geschichte"
+   ],
+   "anlass": [],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B004V2QCSW",
@@ -1416,7 +1850,13 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Reisen",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Hörspiel"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B00X5ORHSG",
@@ -1437,7 +1877,15 @@
    "stimmung": [
     "witzig"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle",
+    "Tiere"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B007N3275I",
@@ -1460,7 +1908,15 @@
     "witzig",
     "entspannend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Ruhrpott",
+    "Familie"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B004UXE5N6",
@@ -1482,7 +1938,15 @@
     "witzig",
     "entspannend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Ruhrpott",
+    "Alltag"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Bühnenprogramm"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B0053OI8C0",
@@ -1504,7 +1968,14 @@
     "witzig",
     "entspannend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B0D6GL5Y9C",
@@ -1526,7 +1997,15 @@
     "witzig",
     "entspannend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Ruhrpott",
+    "Alltag"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Bühnenprogramm"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B004UX0RGK",
@@ -1549,7 +2028,15 @@
     "witzig",
     "entspannend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Alltag"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B004V3EZ6W",
@@ -1571,7 +2058,15 @@
     "witzig",
     "entspannend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Beziehung"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B086XH3P2V",
@@ -1592,7 +2087,15 @@
    "stimmung": [
     "entspannend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Geschichte"
+   ],
+   "anlass": [
+    "zum Einschlafen",
+    "mit den Kindern"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B09YR8CLDG",
@@ -1613,7 +2116,16 @@
    "stimmung": [
     "entspannend"
    ],
-   "laenge": "kurz"
+   "laenge": "kurz",
+   "themen": [
+    "Tiere",
+    "Familie"
+   ],
+   "anlass": [
+    "zum Einschlafen",
+    "mit den Kindern"
+   ],
+   "form": "Lesung"
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/3742408445",

@@ -12,8 +12,16 @@ test("gültiges Buch → keine Fehler; kaputtes Buch → benannte Fehler", () =>
   assert.ok(fehler.some((f) => f.includes("audible_url")));
 });
 test("Empfehlung: Regal und Tags werden geprüft", () => {
-  const ok = { id: "r9", asin: null, titel: "T", autor: "A", sprecher: null, begruendung: "Weil.", tags: { genres: ["Krimi"], stimmung: ["spannend"], laenge: "kurz" }, aehnlich_wie: null, audible_url: "https://www.audible.de/pd/Y", regal: "geschmacks-match", aufgenommen_am: "2026-08-05" };
+  const ok = { id: "r9", asin: null, titel: "T", autor: "A", sprecher: null, begruendung: "Weil.", tags: { genres: ["Krimi"], stimmung: ["spannend"], laenge: "kurz", themen: ["Alltag"], anlass: [], form: "Lesung" }, aehnlich_wie: null, audible_url: "https://www.audible.de/pd/Y", regal: "geschmacks-match", aufgenommen_am: "2026-08-05" };
   assert.deepEqual(pruefeEmpfehlung(ok), []);
   assert.ok(pruefeEmpfehlung({ ...ok, regal: "quatsch" }).some((f) => f.includes("regal")));
-  assert.ok(pruefeEmpfehlung({ ...ok, tags: { genres: [], stimmung: [], laenge: "riesig" } }).some((f) => f.includes("laenge")));
+  assert.ok(pruefeEmpfehlung({ ...ok, tags: { ...ok.tags, laenge: "riesig" } }).some((f) => f.includes("laenge")));
+});
+test("Empfehlung: Thema und Erzählform sind Pflicht, Anlass darf leer sein", () => {
+  const basis = { id: "r9", titel: "T", autor: "A", begruendung: "Weil.", audible_url: "https://www.audible.de/pd/Y", regal: "geschmacks-match", aufgenommen_am: "2026-08-07",
+    tags: { genres: ["Krimi"], stimmung: ["spannend"], laenge: "kurz", themen: ["Alltag"], form: "Hörspiel" } };
+  assert.deepEqual(pruefeEmpfehlung(basis), [], "ohne anlass gültig");
+  assert.ok(pruefeEmpfehlung({ ...basis, tags: { ...basis.tags, themen: [] } }).some((f) => f.includes("themen")));
+  assert.ok(pruefeEmpfehlung({ ...basis, tags: { ...basis.tags, form: "Vortrag" } }).some((f) => f.includes("form")));
+  assert.ok(pruefeEmpfehlung({ ...basis, tags: { ...basis.tags, anlass: "fürs Auto" } }).some((f) => f.includes("anlass")));
 });

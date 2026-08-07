@@ -1,5 +1,6 @@
 const REGALE = ["wunsch-antwort", "serien-fortsetzung", "lieblingsautor", "geschmacks-match"];
 const LAENGEN = ["kurz", "mittel", "episch"];
+export const FORMEN = ["Lesung", "Hörspiel", "Bühnenprogramm", "Podcast"];
 const istText = (w) => typeof w === "string" && w.length > 0;
 const istUrl = (w) => istText(w) && w.startsWith("https://www.audible.de/");
 
@@ -27,5 +28,8 @@ export function pruefeEmpfehlung(e) {
   if (!Array.isArray(e.tags?.genres)) fehler.push("tags.genres fehlt");
   if (!Array.isArray(e.tags?.stimmung)) fehler.push("tags.stimmung fehlt");
   if (!LAENGEN.includes(e.tags?.laenge)) fehler.push(`tags.laenge muss eins sein von: ${LAENGEN.join(", ")}`);
+  if (!Array.isArray(e.tags?.themen) || e.tags.themen.length === 0) fehler.push("tags.themen fehlt oder ist leer");
+  if (!FORMEN.includes(e.tags?.form)) fehler.push(`tags.form muss eins sein von: ${FORMEN.join(", ")}`);
+  if (e.tags?.anlass !== undefined && !Array.isArray(e.tags.anlass)) fehler.push("tags.anlass muss eine Liste sein");
   return fehler;
 }
