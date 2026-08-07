@@ -6,7 +6,7 @@ import { listeMitMehr, SCHRITT } from "./mehr-liste.js";
 const STIMMUNGEN = ["spannend", "herzerwärmend", "witzig", "düster", "entspannend"];
 const ANLAESSE = ["zum Einschlafen", "fürs Auto", "beim Bügeln", "mit den Kindern", "lange Reise"];
 const FORMEN = ["Lesung", "Hörspiel", "Bühnenprogramm", "Podcast"];
-const LAENGEN = { kurz: "Kurz (unter 8 Std.)", mittel: "Mittel", episch: "Episch (über 20 Std.)" };
+const LAENGEN = { kurz: "kurz", mittel: "mittel", episch: "episch" };
 
 const auswahl = { stimmung: [], anlass: [], themen: [], form: [], sprecher: [], laenge: null, aehnlichWie: null, freitext: "" };
 let pollTimer = null;
@@ -16,21 +16,17 @@ export function initSuche(App) {
   const wurzel = document.getElementById("suche");
   wurzel.innerHTML = `
     <h2>Finde etwas Neues</h2>
-    <p class="gedaempft">Wähle aus, wonach dir ist — ich zeige sofort, was schon da ist, und suche auf Wunsch frisch danach.</p>
-    <div id="such-gruppen" class="such-gruppen"></div>
-    <label class="such-frei"><span class="gedaempft">Sonst noch etwas?</span>
-      <textarea id="such-freitext" rows="2" placeholder="z.B. „nichts Politisches“ oder „gern von einer Frau gelesen“"></textarea></label>
-    <div class="such-fuss">
-      <p id="such-anzahl" class="gedaempft"></p>
-      <button id="such-neu" class="primaer">Danach richtig suchen</button>
+    <div class="such-karte">
+      <div id="such-gewaehlt" class="such-gewaehlt" hidden></div>
+      <div id="such-zeilen" class="such-zeilen"></div>
+      <div class="such-leiste">
+        <p id="such-anzahl" class="gedaempft"></p>
+        <button id="such-neu" class="primaer">Richtig suchen</button>
+      </div>
     </div>
-    <div id="such-treffer" class="empf-liste"></div>
-    <ul id="auftrag-liste"></ul>`;
+    <div id="such-treffer"></div>
+    <ul id="auftrag-liste" class="auftrag-liste"></ul>`;
 
-  wurzel.querySelector("#such-freitext").addEventListener("input", (e) => {
-    auswahl.freitext = e.target.value;
-    zeichneFuss(App);
-  });
   wurzel.querySelector("#such-neu").addEventListener("click", () => {
     const titel = App.daten.library.find((b) => b.asin === auswahl.aehnlichWie)?.titel;
     App.meinProfil().wishes.push({
@@ -46,96 +42,163 @@ export function initSuche(App) {
   zeichne(App);
 }
 
-function gruppe(titel, werte, gewaehlt, mehrfach, beiKlick) {
-  const box = document.createElement("div");
-  box.className = "such-gruppe";
-  const h = document.createElement("h4");
-  h.textContent = titel;
-  const chips = document.createElement("div");
-  chips.className = "chips";
+// Eine Zeile je Kriterium: Beschriftung links, Auswahl rechts in einer seitlich wischbaren
+// Reihe. So bleibt die Höhe fest, statt dass die Pillen über mehrere Reihen umbrechen.
+function zeile(beschriftung, inhalt) {
+  const z = document.createElement("div");
+  z.className = "such-zeile";
+  const b = document.createElement("span");
+  b.className = "such-label";
+  b.textContent = beschriftung;
+  z.append(b, inhalt);
+  return z;
+}
+
+function chipReihe(werte, istGewaehlt, beiKlick) {
+  const reihe = document.createElement("div");
+  reihe.className = "such-chips";
   for (const wert of werte) {
     const chip = document.createElement("button");
-    const aktiv = mehrfach ? gewaehlt.includes(wert) : gewaehlt === wert;
-    chip.className = "chip" + (aktiv ? " aktiv" : "");
+    const aktiv = istGewaehlt(wert);
+    chip.className = "such-chip" + (aktiv ? " aktiv" : "");
     chip.textContent = wert;
     chip.setAttribute("aria-pressed", String(aktiv));
     chip.addEventListener("click", () => beiKlick(wert, aktiv));
-    chips.append(chip);
+    reihe.append(chip);
   }
-  box.append(h, chips);
-  return box;
+  return reihe;
 }
 
 function zeichne(App) {
-  const ziel = document.getElementById("such-gruppen");
+  const ziel = document.getElementById("such-zeilen");
   const pool = sichtbareEmpfehlungen(App.pool(), App.daten.library, App.zustand, App.profil);
-  // Jede Änderung der Auswahl ist eine neue Suche — die Trefferliste fängt wieder bei fünf an.
   const geaendert = () => { trefferGezeigt = SCHRITT; zeichne(App); };
   const umschalten = (feld) => (wert, aktiv) => {
-    if (aktiv) auswahl[feld] = auswahl[feld].filter((w) => w !== wert);
-    else auswahl[feld] = [...auswahl[feld], wert];
+    auswahl[feld] = aktiv ? auswahl[feld].filter((w) => w !== wert) : [...auswahl[feld], wert];
     geaendert();
   };
+  const drin = (feld) => (wert) => auswahl[feld].includes(wert);
 
   ziel.replaceChildren();
-  ziel.append(gruppe("Stimmung", STIMMUNGEN, auswahl.stimmung, true, umschalten("stimmung")));
-  ziel.append(gruppe("Anlass", ANLAESSE, auswahl.anlass, true, umschalten("anlass")));
+  ziel.append(zeile("Stimmung", chipReihe(STIMMUNGEN, drin("stimmung"), umschalten("stimmung"))));
+  ziel.append(zeile("Anlass", chipReihe(ANLAESSE, drin("anlass"), umschalten("anlass"))));
 
   const themen = [...new Set(pool.flatMap((e) => e.tags?.themen ?? []))].sort((a, b) => a.localeCompare(b, "de"));
-  if (themen.length) ziel.append(gruppe("Thema", themen, auswahl.themen, true, umschalten("themen")));
+  if (themen.length) ziel.append(zeile("Thema", chipReihe(themen, drin("themen"), umschalten("themen"))));
 
-  ziel.append(gruppe("Erzählform", FORMEN, auswahl.form, true, umschalten("form")));
+  ziel.append(zeile("Erzählform", chipReihe(FORMEN, drin("form"), umschalten("form"))));
 
-  // Sprecher: die häufigsten aus den eigenen Büchern, damit die Auswahl nach ihr klingt.
-  const eigene = App.meineBuecher();
+  // Sprecher: die häufigsten Stimmen der eigenen Bücher, dahinter ein Feld für alles andere.
   const zaehler = new Map();
-  for (const b of eigene) {
+  for (const b of App.meineBuecher()) {
     for (const s of String(b.sprecher ?? "").split(",").map((x) => x.trim()).filter(Boolean)) {
       zaehler.set(s, (zaehler.get(s) ?? 0) + 1);
     }
   }
   const topSprecher = [...zaehler.entries()].sort((a, b) => b[1] - a[1]).slice(0, 8).map(([n]) => n);
   if (topSprecher.length) {
-    const box = gruppe("Sprecher", topSprecher, auswahl.sprecher, true, umschalten("sprecher"));
+    const reihe = chipReihe(topSprecher, drin("sprecher"), umschalten("sprecher"));
     const frei = document.createElement("input");
     frei.type = "search";
-    frei.placeholder = "andere Stimme suchen …";
-    frei.className = "sprecher-frei";
+    frei.className = "such-frei-feld";
+    frei.placeholder = "andere Stimme …";
     frei.value = auswahl.sprecher.find((s) => !topSprecher.includes(s)) ?? "";
     frei.addEventListener("change", (e) => {
       auswahl.sprecher = auswahl.sprecher.filter((s) => topSprecher.includes(s));
       if (e.target.value.trim()) auswahl.sprecher.push(e.target.value.trim());
       geaendert();
     });
-    box.append(frei);
-    ziel.append(box);
+    reihe.append(frei);
+    ziel.append(zeile("Sprecher", reihe));
   }
 
-  ziel.append(gruppe("Länge", Object.values(LAENGEN), auswahl.laenge ? LAENGEN[auswahl.laenge] : null, false,
+  ziel.append(zeile("Länge", chipReihe(Object.values(LAENGEN),
+    (w) => auswahl.laenge === Object.keys(LAENGEN).find((k) => LAENGEN[k] === w),
     (anzeige, aktiv) => {
       auswahl.laenge = aktiv ? null : Object.keys(LAENGEN).find((k) => LAENGEN[k] === anzeige);
       geaendert();
-    }));
+    })));
 
+  // Buchtitel sind zu lang für Pillen — hier gehört ein Auswahlfeld hin.
   const lieblinge = App.meinProfil().lieblinge
-    .map((asin) => App.daten.library.find((b) => b.asin === asin)).filter(Boolean);
+    .map((asin) => App.daten.library.find((b) => b.asin === asin)).filter(Boolean)
+    .sort((a, b) => a.titel.localeCompare(b.titel, "de"));
   if (lieblinge.length) {
-    const aktuellerTitel = lieblinge.find((b) => b.asin === auswahl.aehnlichWie)?.titel ?? null;
-    ziel.append(gruppe("Ähnlich wie", lieblinge.slice(0, 12).map((b) => b.titel), aktuellerTitel, false,
-      (titel, aktiv) => {
-        auswahl.aehnlichWie = aktiv ? null : lieblinge.find((b) => b.titel === titel)?.asin ?? null;
-        geaendert();
-      }));
+    const feld = document.createElement("select");
+    feld.className = "such-select";
+    feld.innerHTML = `<option value="">Buch wählen …</option>` +
+      lieblinge.map((b) => `<option value="${b.asin}"${b.asin === auswahl.aehnlichWie ? " selected" : ""}>${b.titel}</option>`).join("");
+    feld.addEventListener("change", (e) => { auswahl.aehnlichWie = e.target.value || null; geaendert(); });
+    ziel.append(zeile("Ähnlich wie", feld));
   }
 
+  const frei = document.createElement("input");
+  frei.type = "text";
+  frei.className = "such-frei-feld breit";
+  frei.placeholder = "z.B. nichts Politisches";
+  frei.value = auswahl.freitext;
+  frei.addEventListener("input", (e) => { auswahl.freitext = e.target.value; zeichneLeiste(App); });
+  ziel.append(zeile("Sonst noch", frei));
+
+  zeichneGewaehlt(App);
   zeichneTreffer(App, pool);
-  zeichneFuss(App);
+  zeichneLeiste(App);
   zeichneAuftraege(App);
+}
+
+// Die getroffene Auswahl als wegtippbare Marken — sonst muss man die Zeilen absuchen,
+// um zu sehen, wonach gerade gefiltert wird.
+function zeichneGewaehlt(App) {
+  const ziel = document.getElementById("such-gewaehlt");
+  const marken = [];
+  const sammle = (feld, werte) => werte.forEach((w) => marken.push({ feld, wert: w, text: w }));
+  sammle("stimmung", auswahl.stimmung);
+  sammle("anlass", auswahl.anlass);
+  sammle("themen", auswahl.themen);
+  sammle("form", auswahl.form);
+  sammle("sprecher", auswahl.sprecher);
+  if (auswahl.laenge) marken.push({ feld: "laenge", wert: null, text: LAENGEN[auswahl.laenge] });
+  if (auswahl.aehnlichWie) {
+    const b = App.daten.library.find((x) => x.asin === auswahl.aehnlichWie);
+    marken.push({ feld: "aehnlichWie", wert: null, text: `wie ${b?.titel.split(":")[0] ?? "…"}` });
+  }
+
+  ziel.hidden = marken.length === 0;
+  if (!marken.length) return;
+
+  ziel.replaceChildren();
+  const titel = document.createElement("span");
+  titel.className = "such-gewaehlt-titel";
+  titel.textContent = "Gewählt";
+  ziel.append(titel);
+
+  for (const m of marken) {
+    const knopf = document.createElement("button");
+    knopf.className = "such-marke";
+    knopf.innerHTML = `${m.text} <span aria-hidden="true">✕</span>`;
+    knopf.setAttribute("aria-label", `${m.text} entfernen`);
+    knopf.addEventListener("click", () => {
+      if (m.wert === null) auswahl[m.feld] = null;
+      else auswahl[m.feld] = auswahl[m.feld].filter((w) => w !== m.wert);
+      trefferGezeigt = SCHRITT;
+      zeichne(App);
+    });
+    ziel.append(knopf);
+  }
+
+  const zurueck = document.createElement("button");
+  zurueck.className = "such-zuruecksetzen";
+  zurueck.textContent = "zurücksetzen";
+  zurueck.addEventListener("click", () => {
+    Object.assign(auswahl, { stimmung: [], anlass: [], themen: [], form: [], sprecher: [], laenge: null, aehnlichWie: null, freitext: "" });
+    trefferGezeigt = SCHRITT;
+    zeichne(App);
+  });
+  ziel.append(zurueck);
 }
 
 function zeichneTreffer(App, pool) {
   const ziel = document.getElementById("such-treffer");
-  ziel.className = "";
   if (istLeer(auswahl)) { ziel.replaceChildren(); return; }
   const treffer = sucheImVorrat(pool, auswahl);
   ziel.replaceChildren(listeMitMehr({
@@ -146,24 +209,22 @@ function zeichneTreffer(App, pool) {
   }));
 }
 
-function zeichneFuss(App) {
+function zeichneLeiste(App) {
   const anzahl = document.getElementById("such-anzahl");
   const knopf = document.getElementById("such-neu");
   const offen = App.meinProfil().wishes.some((w) => w.status === "offen" || w.status === "in_arbeit");
 
   if (istLeer(auswahl)) {
-    anzahl.textContent = "Noch nichts gewählt — oben stehen deine Vorschläge.";
+    anzahl.textContent = "Wähle aus, wonach dir ist.";
     knopf.classList.remove("hervor");
   } else {
     const pool = sichtbareEmpfehlungen(App.pool(), App.daten.library, App.zustand, App.profil);
     const n = sucheImVorrat(pool, auswahl).length;
-    anzahl.textContent = n === 0
-      ? "Im Vorrat ist nichts dabei — soll ich richtig danach suchen?"
-      : `${n} ${n === 1 ? "Treffer" : "Treffer"} im Vorrat — oder richtig danach suchen?`;
+    anzahl.textContent = n === 0 ? "Nichts im Vorrat dabei." : `${n} im Vorrat gefunden`;
     knopf.classList.toggle("hervor", n === 0);
   }
 
-  knopf.textContent = offen ? "Suche läuft …" : "Danach richtig suchen";
+  knopf.textContent = offen ? "Suche läuft …" : "Richtig suchen";
   knopf.disabled = offen;
 
   clearTimeout(pollTimer);
@@ -171,11 +232,14 @@ function zeichneFuss(App) {
 }
 
 function zeichneAuftraege(App) {
-  const TEXT = { offen: "wird gerade gesucht …", in_arbeit: "ich recherchiere gerade …", beantwortet: "beantwortet ✓" };
+  const TEXT = { offen: "wird gesucht", in_arbeit: "wird recherchiert", beantwortet: "beantwortet" };
   const liste = document.getElementById("auftrag-liste");
-  liste.replaceChildren(...App.meinProfil().wishes.slice(-5).map((w) => {
+  liste.replaceChildren(...App.meinProfil().wishes.slice(-4).reverse().map((w) => {
     const li = document.createElement("li");
-    li.innerHTML = `„${w.text}“ — <span class="${w.status}">${TEXT[w.status] ?? w.status}</span>`;
+    li.className = `auftrag ${w.status}`;
+    li.innerHTML = `<span class="auftrag-punkt" aria-hidden="true"></span>
+      <span class="auftrag-text">${w.text}</span>
+      <span class="auftrag-status">${TEXT[w.status] ?? w.status}</span>`;
     return li;
   }));
 }
