@@ -1,6 +1,7 @@
 import { sucheImVorrat, sichtbareEmpfehlungen } from "../lib/empfehlungs-filter.js";
 import { formuliereAuftrag, istLeer } from "../lib/suchauftrag.js";
 import { empfKarte } from "./empf-karte.js";
+import { listeMitMehr, SCHRITT } from "./mehr-liste.js";
 
 const STIMMUNGEN = ["spannend", "herzerwärmend", "witzig", "düster", "entspannend"];
 const ANLAESSE = ["zum Einschlafen", "fürs Auto", "beim Bügeln", "mit den Kindern", "lange Reise"];
@@ -9,6 +10,7 @@ const LAENGEN = { kurz: "Kurz (unter 8 Std.)", mittel: "Mittel", episch: "Episch
 
 const auswahl = { stimmung: [], anlass: [], themen: [], form: [], sprecher: [], laenge: null, aehnlichWie: null, freitext: "" };
 let pollTimer = null;
+let trefferGezeigt = SCHRITT;
 
 export function initSuche(App) {
   const wurzel = document.getElementById("suche");
@@ -67,10 +69,12 @@ function gruppe(titel, werte, gewaehlt, mehrfach, beiKlick) {
 function zeichne(App) {
   const ziel = document.getElementById("such-gruppen");
   const pool = sichtbareEmpfehlungen(App.pool(), App.daten.library, App.zustand, App.profil);
+  // Jede Änderung der Auswahl ist eine neue Suche — die Trefferliste fängt wieder bei fünf an.
+  const geaendert = () => { trefferGezeigt = SCHRITT; zeichne(App); };
   const umschalten = (feld) => (wert, aktiv) => {
     if (aktiv) auswahl[feld] = auswahl[feld].filter((w) => w !== wert);
     else auswahl[feld] = [...auswahl[feld], wert];
-    zeichne(App);
+    geaendert();
   };
 
   ziel.replaceChildren();
@@ -101,7 +105,7 @@ function zeichne(App) {
     frei.addEventListener("change", (e) => {
       auswahl.sprecher = auswahl.sprecher.filter((s) => topSprecher.includes(s));
       if (e.target.value.trim()) auswahl.sprecher.push(e.target.value.trim());
-      zeichne(App);
+      geaendert();
     });
     box.append(frei);
     ziel.append(box);
@@ -110,7 +114,7 @@ function zeichne(App) {
   ziel.append(gruppe("Länge", Object.values(LAENGEN), auswahl.laenge ? LAENGEN[auswahl.laenge] : null, false,
     (anzeige, aktiv) => {
       auswahl.laenge = aktiv ? null : Object.keys(LAENGEN).find((k) => LAENGEN[k] === anzeige);
-      zeichne(App);
+      geaendert();
     }));
 
   const lieblinge = App.meinProfil().lieblinge
@@ -120,7 +124,7 @@ function zeichne(App) {
     ziel.append(gruppe("Ähnlich wie", lieblinge.slice(0, 12).map((b) => b.titel), aktuellerTitel, false,
       (titel, aktiv) => {
         auswahl.aehnlichWie = aktiv ? null : lieblinge.find((b) => b.titel === titel)?.asin ?? null;
-        zeichne(App);
+        geaendert();
       }));
   }
 
@@ -131,9 +135,15 @@ function zeichne(App) {
 
 function zeichneTreffer(App, pool) {
   const ziel = document.getElementById("such-treffer");
+  ziel.className = "";
   if (istLeer(auswahl)) { ziel.replaceChildren(); return; }
   const treffer = sucheImVorrat(pool, auswahl);
-  ziel.replaceChildren(...treffer.map((e) => empfKarte(App, e)));
+  ziel.replaceChildren(listeMitMehr({
+    eintraege: treffer,
+    gezeigt: trefferGezeigt,
+    karte: (e) => empfKarte(App, e),
+    beiMehr: (neu) => { trefferGezeigt = neu; zeichne(App); },
+  }));
 }
 
 function zeichneFuss(App) {

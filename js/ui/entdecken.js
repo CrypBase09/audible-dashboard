@@ -1,5 +1,10 @@
 import { sichtbareEmpfehlungen } from "../lib/empfehlungs-filter.js";
 import { empfKarte } from "./empf-karte.js";
+import { listeMitMehr, SCHRITT } from "./mehr-liste.js";
+
+// Wie viele Einträge je Regal gerade offen sind. Bleibt über das Neuzeichnen hinweg stehen,
+// damit ein „Merken“-Klick die aufgeklappte Liste nicht wieder zusammenklappt.
+const gezeigt = new Map();
 
 const REGAL_TITEL = {
   "wunsch-antwort": "Auf deine Suche hin gefunden",
@@ -10,6 +15,7 @@ const REGAL_TITEL = {
 
 export function initEntdecken(App) {
   document.addEventListener("zustand-geaendert", () => zeichne(App));
+  document.addEventListener("profil-gewechselt", () => { gezeigt.clear(); zeichne(App); });
   zeichne(App);
 }
 
@@ -31,11 +37,15 @@ function zeichne(App) {
     const eintraege = sichtbar.filter((e) => e.regal === regal);
     if (!eintraege.length) continue;
     const h = document.createElement("h3");
-    h.textContent = REGAL_TITEL[regal];
-    const liste = document.createElement("div");
-    liste.className = "empf-liste";
-    liste.append(...eintraege.map((e) => empfKarte(App, e)));
-    regale.append(h, liste);
+    h.textContent = eintraege.length > SCHRITT
+      ? `${REGAL_TITEL[regal]} (${eintraege.length})`
+      : REGAL_TITEL[regal];
+    regale.append(h, listeMitMehr({
+      eintraege,
+      gezeigt: gezeigt.get(regal) ?? SCHRITT,
+      karte: (e) => empfKarte(App, e),
+      beiMehr: (neu) => { gezeigt.set(regal, neu); zeichne(App); },
+    }));
   }
   if (!sichtbar.length) {
     const leer = document.createElement("p");

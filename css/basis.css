@@ -186,3 +186,8 @@ button.hervor { box-shadow: 0 0 0 3px color-mix(in srgb, var(--akzent) 35%, tran
 #bib-summary .gedaempft { font-family: var(--sans); font-size: .84rem; font-weight: 400; }
 .bib-inhalt { padding: 0 18px 20px; }
 .bib-zahlen-titel { margin-top: 28px; }
+
+.mehr-knopf { display: block; width: 100%; margin: -12px 0 26px; font-size: .88rem;
+  background: transparent; border-style: dashed; color: var(--akzent-text); }
+.mehr-knopf:hover { background: var(--flaeche); }
+.mehr-knopf .gedaempft { font-size: .82rem; }
