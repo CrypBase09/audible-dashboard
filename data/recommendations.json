@@ -2495,5 +2495,226 @@
   "audible_url": "https://www.audible.de/pd/Amazon-unaufhaltsam-Hoerbuch/B0B5HQ61J9",
   "regal": "wunsch-antwort",
   "aufgenommen_am": "2026-08-07"
+ },
+ {
+  "id": "r-3844924264",
+  "asin": "3844924264",
+  "titel": "Der Räuber Hotzenplotz - Das Hörspiel",
+  "autor": "Otfried Preußler",
+  "sprecher": "Charly Hübner, Felix von Manteuffel, Hedi Kriegeskotte, Julian Greis, Tim Kreuer",
+  "begruendung": "Die geklaute Kaffeemühle, Kasperl und Seppel hinterher — der Klassiker in einer frisch produzierten Hörspielfassung mit Charly Hübner als Räuber. Wenn bei euch Bibi Blocksberg und die Pettersson-und-Findus-Box laufen, ist das dieselbe Machart, nur mit mehr Krawall, und an einem Nachmittag durchgehört.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig",
+    "spannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer",
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0BHZJB8W6",
+  "audible_url": "https://www.audible.de/pd/Der-Raeuber-Hotzenplotz-Hoerbuch/3844924264",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-08"
+ },
+ {
+  "id": "r-B07X7WYR6Y",
+  "asin": "B07X7WYR6Y",
+  "titel": "Die Schule der magischen Tiere - Das Hörspiel",
+  "autor": "Margit Auer",
+  "sprecher": "Wolfgang Riehm, Achim Buch, Verena Herkewitz, Lino Böttcher, Stefan Brönneke",
+  "begruendung": "Erster Schultag an der Wintersteinschule, und wer Glück hat, bekommt ein sprechendes Tier zugeteilt — die schüchterne Ida ausgerechnet den vorlauten Fuchs Rabbat. Band 1 als Hörspiel mit vollem Ensemble statt einer Vorlesestimme. Nach dem NEINhorn und Freddy und Flo genau die Ecke: Tiere mit Meinung, und nebenbei geht es ums Dazugehören.",
+  "tags": {
+   "genres": [
+    "Kinder",
+    "Fantasy"
+   ],
+   "stimmung": [
+    "herzerwärmend",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer",
+    "Tiere",
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0CW9WXKDF",
+  "audible_url": "https://www.audible.de/pd/Die-Schule-der-magischen-Tiere-Hoerbuch/B07X7WYR6Y",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-08"
+ },
+ {
+  "id": "r-B005ZS4ODG",
+  "asin": "B005ZS4ODG",
+  "titel": "Jim Knopf und Lukas der Lokomotivführer. Die Komplettlesung",
+  "autor": "Michael Ende",
+  "sprecher": "Robert Missler",
+  "begruendung": "Lummerland ist zu klein geworden, also stechen Jim, Lukas und die Lokomotive Emma in See — Scheinriese, Halbdrache und Kaiser von Mandala inklusive. Robert Missler liest die ungekürzte Fassung und wechselt die Stimmen so, dass Erwachsene beim Mithören genauso hängen bleiben. Der Stoff fürs Auto, wenn die Fahrt länger dauert.",
+  "tags": {
+   "genres": [
+    "Kinder",
+    "Fantasy"
+   ],
+   "stimmung": [
+    "witzig",
+    "spannend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Abenteuer",
+    "Reisen"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Lummerland-Jim-Knopf-und-Lukas-der-Lokomotivfuehrer-1-Hoerbuch/B005ZS4ODG",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-08"
+ },
+ {
+  "id": "r-B0CBCVMNPH",
+  "asin": "B0CBCVMNPH",
+  "titel": "Momo - Das Hörspiel",
+  "autor": "Michael Ende",
+  "sprecher": "Friedhelm Ptok, Paula Drescher, Andreas Fröhlich",
+  "begruendung": "Die grauen Herren stehlen den Leuten die Zeit, und ein Mädchen, das wirklich zuhören kann, hält dagegen. Zum 50. Jubiläum neu inszeniert, mit Andreas Fröhlich als Meister Hora — dieselbe Stimme, die bei euch schon Obamas „Ein verheißenes Land\" liest. Ein Stoff, bei dem Kinder und Erwachsene an ganz unterschiedlichen Stellen hellhörig werden.",
+  "tags": {
+   "genres": [
+    "Kinder",
+    "Fantasy"
+   ],
+   "stimmung": [
+    "spannend",
+    "herzerwärmend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer",
+    "Gesellschaft",
+    "Alltag"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Momo-Das-Hoerspiel-Hoerbuch/B0CBCVMNPH",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-08"
+ },
+ {
+  "id": "r-B00LLHZ132",
+  "asin": "B00LLHZ132",
+  "titel": "Ronja Räubertochter",
+  "autor": "Astrid Lindgren",
+  "sprecher": "Ulrich Noethen",
+  "begruendung": "Ronja wächst im Wald zwischen Räubern auf und freundet sich ausgerechnet mit Birk vom verfeindeten Clan an — eine Geschichte über die Sturheit von Vätern und Kindern, die nie kindisch wird. Ulrich Noethen liest ruhig und ohne Kinderstimmchen. Passt neben „Das Schwert im Stein\", das schon auf der Wunschliste steht.",
+  "tags": {
+   "genres": [
+    "Kinder",
+    "Fantasy"
+   ],
+   "stimmung": [
+    "spannend",
+    "herzerwärmend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Abenteuer",
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "3864846293",
+  "audible_url": "https://www.audible.de/pd/Ronja-Raeubertochter-Hoerbuch/B00LLHZ132",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-08"
+ },
+ {
+  "id": "r-B0BHZLGDJV",
+  "asin": "B0BHZLGDJV",
+  "titel": "Die Olchis. 10er Box",
+  "autor": "Erhard Dietl",
+  "sprecher": "Robert Missler, Eva Michaelis, Rainer Schmitt",
+  "begruendung": "Zehn Hörspiele am Stück, von „Die Olchis sind da\" bis „Im Land der Dinos\" — grün, stinkend und mit ausgeprägter Vorliebe für Müll. Genau das Boxen-Prinzip, das bei Pettersson und Findus schon aufgeht: einmal geholt, wochenlang Nachschub für die Kinderzimmer-Runde.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Abenteuer",
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "lange Reise"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0BHZJB8W6",
+  "audible_url": "https://www.audible.de/pd/Die-Olchis-10er-Box-Hoerbuch/B0BHZLGDJV",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-08"
+ },
+ {
+  "id": "r-B0G1YWYMMF",
+  "asin": "B0G1YWYMMF",
+  "titel": "Die unendliche Geschichte",
+  "autor": "Michael Ende",
+  "sprecher": "Stefan Kaminski",
+  "begruendung": "Bastian klaut ein Buch, verkriecht sich auf dem Dachboden und liest sich nach Phantásien hinein. Die neue ungekürzte Aufnahme spielt Stefan Kaminski über fünfzehn Stunden lang allein, stellenweise klingt das eher nach Ein-Personen-Hörspiel als nach Lesung. Für alle, die die Brautprinzessin mochten — dieselbe Idee einer Geschichte in der Geschichte, nur mit deutlich mehr Anlauf.",
+  "tags": {
+   "genres": [
+    "Fantasy",
+    "Kinder"
+   ],
+   "stimmung": [
+    "spannend",
+    "herzerwärmend"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Abenteuer",
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "3864846293",
+  "audible_url": "https://www.audible.de/pd/Die-unendliche-Geschichte-Hoerbuch/B0G1YWYMMF",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-08"
  }
 ]
