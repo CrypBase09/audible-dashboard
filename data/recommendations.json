@@ -3803,5 +3803,156 @@
   "audible_url": "https://www.audible.de/pd/B07N442R8T",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-08-14"
+ },
+ {
+  "id": "r-B0B1QKF361",
+  "asin": "B0B1QKF361",
+  "titel": "Die drei ??? und der Super-Papagei",
+  "autor": "H.G. Francis",
+  "sprecher": "Oliver Rohrbeck, Jens Wawrczeck, Andreas Fröhlich",
+  "begruendung": "Die Urserie der Kinder-Krimi-Hörspiele – wenn dir „Tod unter Gurken” gefällt, ist das hier die Familienversion davon, seit 1979 im Programm und immer noch die Nummer 1.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "spannend",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "fürs Auto",
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B06XCFQJ2B",
+  "audible_url": "https://www.audible.de/pd/Die-drei-und-der-Super-Papagei-Hoerbuch/B0B1QKF361",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-27"
+ },
+ {
+  "id": "r-B006ZYZBBI",
+  "asin": "B006ZYZBBI",
+  "titel": "Frei nach Karl May - Ja uff erstmal Winnetou unter Comedy-Geiern",
+  "autor": "Karl May",
+  "sprecher": "Jürgen von der Lippe, Dirk Bach, Rüdiger Hoffmann u. a.",
+  "begruendung": "Jürgen von der Lippe mitten unter 40 Comedians, die sich durch Winnetou blödeln – seine Stimme kennst du aus fünf Bühnenprogrammen im Regal, hier trifft sie auf Dirk Bach und Bastian Pastewka.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Abenteuer",
+    "Alltag"
+   ],
+   "anlass": [
+    "fürs Auto",
+    "lange Reise"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0FC2BYFHL",
+  "audible_url": "https://www.audible.de/pd/Frei-nach-Karl-May-Ja-uff-erstmal-Winnetou-unter-Comedy-Geiern-Hoerbuch/B006ZYZBBI",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-27"
+ },
+ {
+  "id": "r-B0B1QL5ZZF",
+  "asin": "B0B1QL5ZZF",
+  "titel": "Fünf Freunde beim Wanderzirkus",
+  "autor": "Enid Blyton",
+  "sprecher": "Sprecherensemble",
+  "begruendung": "Der Auftakt der zweiten großen EUROPA-Krimireihe neben den drei Fragezeichen – kürzer als eine Bibi-Blocksberg-Folge und genau die richtige Länge fürs Auto.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "spannend",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer",
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0BHZJB8W6",
+  "audible_url": "https://www.audible.de/pd/Fuenf-Freunde-beim-Wanderzirkus-Hoerbuch/B0B1QL5ZZF",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-27"
+ },
+ {
+  "id": "r-B01GG79MLI",
+  "asin": "B01GG79MLI",
+  "titel": "Das Abschiedskonzert",
+  "autor": "Rainald Grebe",
+  "sprecher": "Rainald Grebe",
+  "begruendung": "Komisch-melancholische Lieder statt Pointen am Fließband – für die Momente zwischen Torsten Sträters „Schnee, der auf Ceran fällt” und Nuhrs Nachdenklichkeit, wenn es auch mal leiser sein darf.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "entspannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B0C9J36Q3Y",
+  "audible_url": "https://www.audible.de/pd/Das-Abschiedskonzert-Hoerbuch/B01GG79MLI",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-27"
+ },
+ {
+  "id": "r-B08QJ3LZR1",
+  "asin": "B08QJ3LZR1",
+  "titel": "Made in Germany",
+  "autor": "Kaya Yanar",
+  "sprecher": "Kaya Yanar",
+  "begruendung": "Sein Klassiker-Programm live aus der Frankfurter Jahrhunderthalle – Kulturen-Humor auf Augenhöhe, in der Tonlage von „Naked at Lunch”.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Gesellschaft",
+    "Alltag"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B01CSUN5GA",
+  "audible_url": "https://www.audible.de/pd/Made-in-Germany-Hoerbuch/B08QJ3LZR1",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-27"
  }
 ]
