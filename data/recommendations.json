@@ -3954,5 +3954,157 @@
   "audible_url": "https://www.audible.de/pd/Made-in-Germany-Hoerbuch/B08QJ3LZR1",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-08-27"
+ },
+ {
+  "id": "r-B0DPR4Z3MF",
+  "asin": "B0DPR4Z3MF",
+  "titel": "Sturm der Schwerter",
+  "autor": "George R.R. Martin",
+  "sprecher": "Stefan Kaminski",
+  "begruendung": "Dein Eis-und-Feuer-Marathon geht in die fünfte Runde – nach der „Saat des goldenen Löwen“ wird es mit Stefan Kaminski noch mal ordentlich dicker.",
+  "tags": {
+   "genres": [
+    "Fantasy"
+   ],
+   "stimmung": [
+    "spannend",
+    "düster"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Geschichte",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B004UZH630",
+  "audible_url": "https://www.audible.de/pd/Sturm-der-Schwerter-Hoerbuch/B0DPR4Z3MF",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-28"
+ },
+ {
+  "id": "r-B0DPR6XHTW",
+  "asin": "B0DPR6XHTW",
+  "titel": "Die Königin der Drachen",
+  "autor": "George R.R. Martin",
+  "sprecher": "Stefan Kaminski",
+  "begruendung": "Band 6 hält den Faden direkt nach dem „Sturm der Schwerter“ weiter, falls dir die ersten fünf Bände noch nicht genug waren.",
+  "tags": {
+   "genres": [
+    "Fantasy"
+   ],
+   "stimmung": [
+    "spannend",
+    "düster"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Geschichte",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B004UZH630",
+  "audible_url": "https://www.audible.de/pd/Die-Koenigin-der-Drachen-Hoerbuch/B0DPR6XHTW",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-28"
+ },
+ {
+  "id": "r-B0B1QKF5QZ",
+  "asin": "B0B1QKF5QZ",
+  "titel": "Die drei ??? und der Phantomsee",
+  "autor": "H.G. Francis",
+  "sprecher": "Oliver Rohrbeck, Jens Wawrczeck, Andreas Fröhlich",
+  "begruendung": "Nach dem „Super-Papagei“ ermitteln Justus, Peter und Bob im zweiten Fall am Phantomsee – dieselbe Krimi-Hörspiel-Mischung wie bei „Tod unter Gurken“, nur für die ganze Familie.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "spannend",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "fürs Auto",
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B06XCFQJ2B",
+  "audible_url": "https://www.audible.de/pd/Die-drei-und-der-Phantomsee-Hoerbuch/B0B1QKF5QZ",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-28"
+ },
+ {
+  "id": "r-B0B1QKB7XP",
+  "asin": "B0B1QKB7XP",
+  "titel": "Fünf Freunde im Zeltlager",
+  "autor": "Enid Blyton",
+  "sprecher": "Sprecherensemble",
+  "begruendung": "Die zweite Folge deiner neuen Fünf-Freunde-Entdeckung – ein Geisterzug und ein Geheimnis im Zeltlager, genau die EUROPA-Klassiker-Stimmung wie bei „Pettersson und Findus“.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "spannend",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer",
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0BHZJB8W6",
+  "audible_url": "https://www.audible.de/pd/Fuenf-Freunde-im-Zeltlager-Hoerbuch/B0B1QKB7XP",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-28"
+ },
+ {
+  "id": "r-B004JVDABM",
+  "asin": "B004JVDABM",
+  "titel": "Hexerei in der Schule",
+  "autor": "Elfie Donnelly",
+  "sprecher": "Susanna Bonaséwicz, Hallgard Bruckhaus, Joachim Nottke",
+  "begruendung": "Die zweite Folge nach deinem Bibi-Blocksberg-Einstieg – dieselbe Zauberformel-Situationskomik wie in „Hexen gibt es doch“.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig",
+    "herzerwärmend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B004JVIFYE",
+  "audible_url": "https://www.audible.de/pd/Hexerei-in-der-Schule-Hoerbuch/B004JVDABM",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-28"
  }
 ]
