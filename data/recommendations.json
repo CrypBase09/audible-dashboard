@@ -4291,5 +4291,88 @@
   "audible_url": "https://www.audible.de/pd/Tatort-Zirkus-Hoerbuch/B0C9TRCLLB",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-08-29"
+ },
+ {
+  "id": "r-B005OPPARO",
+  "asin": "B005OPPARO",
+  "titel": "So geht's",
+  "autor": "Jürgen von der Lippe",
+  "sprecher": "Jürgen von der Lippe",
+  "begruendung": "Ein Comedy-Crashkurs live von der Lippe – im selben Ton wie „Nudel im Wind“, nur mit neuen Nummern.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "3837153142",
+  "audible_url": "https://www.audible.de/pd/B005OPPARO",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-30"
+ },
+ {
+  "id": "r-3844531211",
+  "asin": "3844531211",
+  "titel": "BECOMING",
+  "autor": "Michelle Obama",
+  "sprecher": "Katrin Fröhlich",
+  "begruendung": "Nach Barack Obamas „Ein verheißenes Land“ fehlt dir nur noch ihre Seite der Geschichte – genauso eindrücklich erzählt.",
+  "tags": {
+   "genres": [
+    "Biografie"
+   ],
+   "stimmung": [
+    "herzerwärmend"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Gesellschaft",
+    "Politik"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "3844542078",
+  "audible_url": "https://www.audible.de/pd/3844531211",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-30"
+ },
+ {
+  "id": "r-B074JDSLHN",
+  "asin": "B074JDSLHN",
+  "titel": "Das geheime Netzwerk der Natur",
+  "autor": "Peter Wohlleben",
+  "sprecher": "Peter Kaempfe",
+  "begruendung": "Für einen ruhigen Sonntagabend: Wohllebens sanfte Naturkunde liest sich so entspannt wie Leschs „Was hat das Universum mit mir zu tun?“.",
+  "tags": {
+   "genres": [
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "ruhig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Wissenschaft"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "3955671631",
+  "audible_url": "https://www.audible.de/pd/B074JDSLHN",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-30"
  }
 ]
