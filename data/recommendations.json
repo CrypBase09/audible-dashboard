@@ -1255,33 +1255,6 @@
   "aufgenommen_am": "2026-08-06"
  },
  {
-  "id": "r-B09NPT8W69",
-  "asin": "B09NPT8W69",
-  "titel": "Nur noch eine Folge!",
-  "autor": "Michael Mittermeier",
-  "sprecher": "Michael Mittermeier",
-  "begruendung": "Mario Barth und Torsten Sträter stehen bei dir im Regal, Mittermeier fehlt – dabei läuft sein Fernseh-Programm beim zweiten Hören noch besser.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag",
-    "Gesellschaft"
-   ],
-   "anlass": [],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/B09NPT8W69",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-06"
- },
- {
   "id": "r-B00TSR3SQE",
   "asin": "B00TSR3SQE",
   "titel": "Vollidiot",
@@ -1305,117 +1278,6 @@
   },
   "aehnlich_wie": null,
   "audible_url": "https://www.audible.de/pd/B00TSR3SQE",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-06"
- },
- {
-  "id": "r-B0CFFWDZNQ",
-  "asin": "B0CFFWDZNQ",
-  "titel": "Zeit für Rebellen",
-  "autor": "Olaf Schubert",
-  "sprecher": "Olaf Schubert",
-  "begruendung": "Nach Paul Panzers Figurenkomik ist Olaf Schuberts Pullunder-Philosoph genau der Bühnentyp, den man immer wieder hören will.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Gesellschaft",
-    "Politik"
-   ],
-   "anlass": [],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/B0CFFWDZNQ",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-06"
- },
- {
-  "id": "r-B09NPTJRDM",
-  "asin": "B09NPTJRDM",
-  "titel": "Du darfst nicht alles glauben, was du denkst",
-  "autor": "Kurt Krömer",
-  "sprecher": "Kurt Krömer",
-  "begruendung": "Krömer erzählt von seiner Depression – so komisch und ehrlich, wie es sonst nur Torsten Sträter zwischen zwei Pointen hinbekommt.",
-  "tags": {
-   "genres": [
-    "Biografie"
-   ],
-   "stimmung": [
-    "witzig",
-    "herzerwärmend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Gesellschaft",
-    "Alltag"
-   ],
-   "anlass": [],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/B09NPTJRDM",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-06"
- },
- {
-  "id": "r-B0DWMW5KQ5",
-  "asin": "B0DWMW5KQ5",
-  "titel": "Die ganze Welt der Pubertiere",
-  "autor": "Jan Weiler",
-  "sprecher": "Jan Weiler",
-  "begruendung": "Wenn dich Bastian Bielendorfers Familienchaos zum Lachen bringt, sind Jan Weilers Pubertiere exakt deine Wellenlänge – hier gleich drei Bestseller am Stück.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Familie"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/B0DWMW5KQ5",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-06"
- },
- {
-  "id": "r-B004V7TNYC",
-  "asin": "B004V7TNYC",
-  "titel": "Maria, ihm schmeckt's nicht",
-  "autor": "Jan Weiler",
-  "sprecher": "Angela Kübrich, Jan Weiler",
-  "begruendung": "Warmherzig und spöttisch zugleich – so wie Hape Kerkeling klingt, wenn er über die eigene Verwandtschaft herzieht.",
-  "tags": {
-   "genres": [
-    "Belletristik"
-   ],
-   "stimmung": [
-    "witzig",
-    "herzerwärmend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Familie",
-    "Reisen"
-   ],
-   "anlass": [],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/B004V7TNYC",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-08-06"
  },
@@ -4374,5 +4236,155 @@
   "audible_url": "https://www.audible.de/pd/B074JDSLHN",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-08-30"
+ },
+ {
+  "id": "r-B0HCZN81D2",
+  "asin": "B0HCZN81D2",
+  "titel": "So Jung brechen wir nicht mehr zusammen",
+  "autor": "Dagmar Schönleber",
+  "sprecher": "Dagmar Schönleber",
+  "begruendung": "Genauso bissig-selbstironisch wie Kling und Malmsheimer, nur diesmal übers Älterwerden – kurze Bühnentexte zum Immer-wieder-Reinhören.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Kabarett"
+   ],
+   "stimmung": [
+    "nachdenklich",
+    "humorvoll"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/So-Jung-brechen-wir-nicht-mehr-zusammen-Hoerbuch/B0HCZN81D2",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-31"
+ },
+ {
+  "id": "r-B0HD74JXMS",
+  "asin": "B0HD74JXMS",
+  "titel": "Im Fluss - Live 2026",
+  "autor": "Urban Priol",
+  "sprecher": "Urban Priol",
+  "begruendung": "Politisches Kabarett mit Tempo und Wortwitz – frisch von der Live-Bühne 2026, für alle Abende zwischen Krömer und Sträter.",
+  "tags": {
+   "genres": [
+    "Kabarett",
+    "Politsatire"
+   ],
+   "stimmung": [
+    "bissig",
+    "aktuell"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Politik",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Im-Fluss-Live-2026-Hoerbuch/B0HD74JXMS",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-31"
+ },
+ {
+  "id": "r-B0FL2WLWT7",
+  "asin": "B0FL2WLWT7",
+  "titel": "Nie war Früher schöner als Jetzt",
+  "autor": "Oliver Kalkofe",
+  "sprecher": "Oliver Kalkofe",
+  "begruendung": "Boomer-Nostalgie mit Kalkofes typisch bissigem Wortwitz – passt genau in die Comedy-Ecke, die du am liebsten hörst.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Satire"
+   ],
+   "stimmung": [
+    "nostalgisch",
+    "witzig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Nie-war-Frueher-schoener-als-Jetzt-Hoerbuch/B0FL2WLWT7",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-31"
+ },
+ {
+  "id": "r-B0GWJ8QJ8M",
+  "asin": "B0GWJ8QJ8M",
+  "titel": "Das Buch des Charlie Sheen",
+  "autor": "Charlie Sheen",
+  "sprecher": "Michael J. Diekmann",
+  "begruendung": "Schonungslos-ehrliche Hollywood-Beichte, gelesen von Michael J. Diekmann, der auch Elon Musks Biografie für dich vertont hat.",
+  "tags": {
+   "genres": [
+    "Biografie"
+   ],
+   "stimmung": [
+    "schonungslos",
+    "ehrlich"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B017K8W5PM",
+  "audible_url": "https://www.audible.de/pd/Das-Buch-des-Charlie-Sheen-Hoerbuch/B0GWJ8QJ8M",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-31"
+ },
+ {
+  "id": "r-B0H9XY6P51",
+  "asin": "B0H9XY6P51",
+  "titel": "GLAUBE, LIEBE, KLOPP: Jürgen Klopp und die Neuerfindung des Fußballs - Die Biographie",
+  "autor": "Michael Horeni",
+  "sprecher": "Martin May",
+  "begruendung": "Eine Sportler-Biografie mit Tiefgang, wie Zlatans und Obamas Bücher in deinem Regal – diesmal übers Trainerleben und den Glauben dahinter.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Sport"
+   ],
+   "stimmung": [
+    "inspirierend"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B09VPYXHRC",
+  "audible_url": "https://www.audible.de/pd/GLAUBE-LIEBE-KLOPP-Hoerbuch/B0H9XY6P51",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-08-31"
  }
 ]
