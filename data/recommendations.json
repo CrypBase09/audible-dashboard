@@ -4386,5 +4386,183 @@
   "audible_url": "https://www.audible.de/pd/GLAUBE-LIEBE-KLOPP-Hoerbuch/B0H9XY6P51",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-08-31"
+ },
+ {
+  "id": "r-B01FXMYXXY",
+  "asin": "B01FXMYXXY",
+  "titel": "In dubio pro Vino",
+  "autor": "Carsten Sebastian Henn",
+  "sprecher": "Jürgen von der Lippe",
+  "begruendung": "Von der Lippe liest hier nicht seine eigenen Pointen, sondern einen kulinarischen Weinkrimi – dieselbe warme Stimme, diesmal mit Mordfall im Weinberg.",
+  "tags": {
+   "genres": [
+    "Krimi",
+    "Comedy"
+   ],
+   "stimmung": [
+    "kurzweilig",
+    "humorvoll"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle",
+    "Reisen"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B01FXMYXXY",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-02"
+ },
+ {
+  "id": "r-B00L2FO7ZG",
+  "asin": "B00L2FO7ZG",
+  "titel": "Der Mann mit den schönen Füßen",
+  "autor": "Arto Paasilinna",
+  "sprecher": "Jürgen von der Lippe",
+  "begruendung": "Nach „Im Jenseits ist die Hölle los“ wieder Paasilinnas skurriler finnischer Humor, wieder von der Lippes trockener Vortrag.",
+  "tags": {
+   "genres": [
+    "Belletristik",
+    "Comedy"
+   ],
+   "stimmung": [
+    "skurril",
+    "witzig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "3838792122",
+  "audible_url": "https://www.audible.de/pd/B00L2FO7ZG",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-02"
+ },
+ {
+  "id": "r-B07BMR6FTX",
+  "asin": "B07BMR6FTX",
+  "titel": "Selbstfreundschaft: Wie das Leben leichter wird",
+  "autor": "Wilhelm Schmid",
+  "sprecher": "Jürgen von der Lippe",
+  "begruendung": "Von der Lippe liest hier mal kein Comedy-Programm, sondern leise Lebensphilosophie – thematisch nah an seiner eigenen „Kurzen Geschichte der Trunkenheit“.",
+  "tags": {
+   "genres": [
+    "Sachbuch",
+    "Ratgeber"
+   ],
+   "stimmung": [
+    "nachdenklich",
+    "beruhigend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B07BMR6FTX",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-02"
+ },
+ {
+  "id": "r-3960928505",
+  "asin": "3960928505",
+  "titel": "Losing My Virginity: Die Autobiografie",
+  "autor": "Richard Branson",
+  "sprecher": "Michael J. Diekmann",
+  "begruendung": "Diekmann, der schon Elon Musks Biografie liest, erzählt hier Bransons Weg vom Schulabbrecher zum Virgin-Imperium – Unternehmertum mit demselben Wow-Faktor.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Wirtschaft"
+   ],
+   "stimmung": [
+    "inspirierend"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Losing-My-Virginity-Hoerbuch/3960928505",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-02"
+ },
+ {
+  "id": "r-B09D42GHCD",
+  "asin": "B09D42GHCD",
+  "titel": "David Rockefeller - Erinnerungen eines Weltbankiers",
+  "autor": "David Rockefeller",
+  "sprecher": "Michael J. Diekmann",
+  "begruendung": "Wieder Diekmanns Stimme, wieder große Wirtschaftsgeschichte – diesmal aus erster Hand von einem der einflussreichsten Bankiers des 20. Jahrhunderts.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Wirtschaft"
+   ],
+   "stimmung": [
+    "informativ"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Gesellschaft",
+    "Geschichte"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/David-Rockefeller-Erinnerungen-eines-Weltbankiers-Hoerbuch/B09D42GHCD",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-02"
+ },
+ {
+  "id": "r-B0B68VB4W5",
+  "asin": "B0B68VB4W5",
+  "titel": "Money: Die 7 einfachen Schritte zur finanziellen Freiheit",
+  "autor": "Tony Robbins",
+  "sprecher": "Michael J. Diekmann",
+  "begruendung": "Nach den Unternehmer-Biografien der Praxisteil: Robbins destilliert Interviews mit Warren Buffett & Co. zu handfesten Finanz-Strategien, wieder von Diekmann gelesen.",
+  "tags": {
+   "genres": [
+    "Sachbuch",
+    "Wirtschaft"
+   ],
+   "stimmung": [
+    "motivierend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Money-Hoerbuch/B0B68VB4W5",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-02"
  }
 ]
