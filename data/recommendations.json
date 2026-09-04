@@ -4286,5 +4286,91 @@
   "audible_url": "https://www.audible.de/pd/Roger-Federer-Hoerbuch/394449167X",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-09-03"
+ },
+ {
+  "id": "r-3844530959",
+  "asin": "3844530959",
+  "titel": "Tod unter Lametta",
+  "autor": "Kai Magnus Sting",
+  "sprecher": "Bastian Pastewka, Kai Magnus Sting, Jochen Malmsheimer, Annette Frier",
+  "begruendung": "Alfons Friedrichsberg in seinem allerersten Fall, bevor er sich durch \"Tod unter Gurken\" ermittelt: ein weihnachtlicher Krimi-Spaß von derselben Truppe.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "witzig",
+    "spannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B06XCFQJ2B",
+  "audible_url": "https://www.audible.de/pd/3844530959",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-09-04"
+ },
+ {
+  "id": "r-3844535667",
+  "asin": "3844535667",
+  "titel": "Tod unter Lametta 2",
+  "autor": "Kai Magnus Sting",
+  "sprecher": "Bastian Pastewka, Kai Magnus Sting, Jochen Malmsheimer, Annette Frier",
+  "begruendung": "Zweiter Teil der Weihnachts-Krimikomödie: verschneites Schwarzwaldhotel, Yeti-Gerücht und eine mörderische Schneeballschlacht.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "witzig",
+    "spannend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "3844530959",
+  "audible_url": "https://www.audible.de/pd/3844535667",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-09-04"
+ },
+ {
+  "id": "r-B0D6GKLGTJ",
+  "asin": "B0D6GKLGTJ",
+  "titel": "Das Hörbuch - Live",
+  "autor": "Torsten Sträter",
+  "sprecher": "Torsten Sträter",
+  "begruendung": "Ein verregneter August-Sonntag, 15 Bestengeschichten live und exklusives Material aus \"Selbstbeherrschung umständehalber abzugeben\" – Sträter pur, live erzählt.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B0C9J36Q3Y",
+  "audible_url": "https://www.audible.de/pd/B0D6GKLGTJ",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-09-04"
  }
 ]
