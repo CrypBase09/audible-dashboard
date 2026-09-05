@@ -1944,164 +1944,6 @@
   "aufgenommen_am": "2026-08-08"
  },
  {
-  "id": "r-B07X7WYR6Y",
-  "asin": "B07X7WYR6Y",
-  "titel": "Die Schule der magischen Tiere - Das Hörspiel",
-  "autor": "Margit Auer",
-  "sprecher": "Wolfgang Riehm, Achim Buch, Verena Herkewitz, Lino Böttcher, Stefan Brönneke",
-  "begruendung": "Erster Schultag an der Wintersteinschule, und wer Glück hat, bekommt ein sprechendes Tier zugeteilt — die schüchterne Ida ausgerechnet den vorlauten Fuchs Rabbat. Band 1 als Hörspiel mit vollem Ensemble statt einer Vorlesestimme. Nach dem NEINhorn und Freddy und Flo genau die Ecke: Tiere mit Meinung, und nebenbei geht es ums Dazugehören.",
-  "tags": {
-   "genres": [
-    "Kinder",
-    "Fantasy"
-   ],
-   "stimmung": [
-    "herzerwärmend",
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Abenteuer",
-    "Tiere",
-    "Familie"
-   ],
-   "anlass": [
-    "mit den Kindern"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": "B0CW9WXKDF",
-  "audible_url": "https://www.audible.de/pd/Die-Schule-der-magischen-Tiere-Hoerbuch/B07X7WYR6Y",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-08"
- },
- {
-  "id": "r-B005ZS4ODG",
-  "asin": "B005ZS4ODG",
-  "titel": "Jim Knopf und Lukas der Lokomotivführer. Die Komplettlesung",
-  "autor": "Michael Ende",
-  "sprecher": "Robert Missler",
-  "begruendung": "Lummerland ist zu klein geworden, also stechen Jim, Lukas und die Lokomotive Emma in See — Scheinriese, Halbdrache und Kaiser von Mandala inklusive. Robert Missler liest die ungekürzte Fassung und wechselt die Stimmen so, dass Erwachsene beim Mithören genauso hängen bleiben. Der Stoff fürs Auto, wenn die Fahrt länger dauert.",
-  "tags": {
-   "genres": [
-    "Kinder",
-    "Fantasy"
-   ],
-   "stimmung": [
-    "witzig",
-    "spannend"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Abenteuer",
-    "Reisen"
-   ],
-   "anlass": [
-    "mit den Kindern",
-    "lange Reise"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/Lummerland-Jim-Knopf-und-Lukas-der-Lokomotivfuehrer-1-Hoerbuch/B005ZS4ODG",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-08"
- },
- {
-  "id": "r-B0CBCVMNPH",
-  "asin": "B0CBCVMNPH",
-  "titel": "Momo - Das Hörspiel",
-  "autor": "Michael Ende",
-  "sprecher": "Friedhelm Ptok, Paula Drescher, Andreas Fröhlich",
-  "begruendung": "Die grauen Herren stehlen den Leuten die Zeit, und ein Mädchen, das wirklich zuhören kann, hält dagegen. Zum 50. Jubiläum neu inszeniert, mit Andreas Fröhlich als Meister Hora — dieselbe Stimme, die bei euch schon Obamas „Ein verheißenes Land\" liest. Ein Stoff, bei dem Kinder und Erwachsene an ganz unterschiedlichen Stellen hellhörig werden.",
-  "tags": {
-   "genres": [
-    "Kinder",
-    "Fantasy"
-   ],
-   "stimmung": [
-    "spannend",
-    "herzerwärmend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Abenteuer",
-    "Gesellschaft",
-    "Alltag"
-   ],
-   "anlass": [
-    "mit den Kindern"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/Momo-Das-Hoerspiel-Hoerbuch/B0CBCVMNPH",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-08"
- },
- {
-  "id": "r-B00LLHZ132",
-  "asin": "B00LLHZ132",
-  "titel": "Ronja Räubertochter",
-  "autor": "Astrid Lindgren",
-  "sprecher": "Ulrich Noethen",
-  "begruendung": "Ronja wächst im Wald zwischen Räubern auf und freundet sich ausgerechnet mit Birk vom verfeindeten Clan an — eine Geschichte über die Sturheit von Vätern und Kindern, die nie kindisch wird. Ulrich Noethen liest ruhig und ohne Kinderstimmchen. Passt neben „Das Schwert im Stein\", das schon auf der Wunschliste steht.",
-  "tags": {
-   "genres": [
-    "Kinder",
-    "Fantasy"
-   ],
-   "stimmung": [
-    "spannend",
-    "herzerwärmend"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Abenteuer",
-    "Familie"
-   ],
-   "anlass": [
-    "mit den Kindern",
-    "lange Reise"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "3864846293",
-  "audible_url": "https://www.audible.de/pd/Ronja-Raeubertochter-Hoerbuch/B00LLHZ132",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-08"
- },
- {
-  "id": "r-B0BHZLGDJV",
-  "asin": "B0BHZLGDJV",
-  "titel": "Die Olchis. 10er Box",
-  "autor": "Erhard Dietl",
-  "sprecher": "Robert Missler, Eva Michaelis, Rainer Schmitt",
-  "begruendung": "Zehn Hörspiele am Stück, von „Die Olchis sind da\" bis „Im Land der Dinos\" — grün, stinkend und mit ausgeprägter Vorliebe für Müll. Genau das Boxen-Prinzip, das bei Pettersson und Findus schon aufgeht: einmal geholt, wochenlang Nachschub für die Kinderzimmer-Runde.",
-  "tags": {
-   "genres": [
-    "Kinder"
-   ],
-   "stimmung": [
-    "witzig"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Abenteuer",
-    "Familie"
-   ],
-   "anlass": [
-    "mit den Kindern",
-    "lange Reise"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": "B0BHZJB8W6",
-  "audible_url": "https://www.audible.de/pd/Die-Olchis-10er-Box-Hoerbuch/B0BHZLGDJV",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-08"
- },
- {
   "id": "r-B0G1YWYMMF",
   "asin": "B0G1YWYMMF",
   "titel": "Die unendliche Geschichte",
@@ -4372,5 +4214,188 @@
   "audible_url": "https://www.audible.de/pd/B0D6GKLGTJ",
   "regal": "lieblingsautor",
   "aufgenommen_am": "2026-09-04"
+ },
+ {
+  "id": "r-B004FNANQE",
+  "asin": "B004FNANQE",
+  "titel": "Der kleine Drache Kokosnuss",
+  "autor": "Ingo Siegner",
+  "sprecher": "Philipp Schepmann",
+  "begruendung": "Ein neugieriger kleiner Drache lernt fliegen – dieselbe warmherzige Vorlese-Stimmung wie beim NEINhorn, nur mit einem waschechten Fabelwesen als Helden.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig",
+    "herzerwärmend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0CW9WXKDF",
+  "audible_url": "https://www.audible.de/pd/Der-kleine-Drache-Kokosnuss-Hoerbuch/B004FNANQE",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-05"
+ },
+ {
+  "id": "r-B004JVMDWE",
+  "asin": "B004JVMDWE",
+  "titel": "Benjamin in der Steinzeit",
+  "autor": "Elfie Donnelly",
+  "sprecher": "Edgar Ott, Katja Primel, Joachim Nottke",
+  "begruendung": "Band 62 der Benjamin-Blümchen-Reihe, in dem der Elefant von der Steinzeit träumt – derselbe ruhige Familienhumor, den du schon bei „Hexen gibt es doch“ kennengelernt hast.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig",
+    "herzerwärmend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer",
+    "Geschichte"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B004JVIFYE",
+  "audible_url": "https://www.audible.de/pd/Benjamin-in-der-Steinzeit-Hoerbuch/B004JVMDWE",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-05"
+ },
+ {
+  "id": "r-B0B1QKFC9R",
+  "asin": "B0B1QKFC9R",
+  "titel": "Die drei ??? und der Karpatenhund",
+  "autor": "H.G. Francis",
+  "sprecher": "Oliver Rohrbeck, Jens Wawrczeck, Andreas Fröhlich",
+  "begruendung": "Der dritte Fall der drei Fragezeichen aus dem Gründungsjahr 1979 – dieselbe Krimi-Hörspiel-Mischung wie bei „Tod unter Gurken“, diesmal für die ganze Familie.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "spannend",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "fürs Auto",
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B06XCFQJ2B",
+  "audible_url": "https://www.audible.de/pd/Die-drei-und-der-Karpatenhund-Hoerbuch/B0B1QKFC9R",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-05"
+ },
+ {
+  "id": "r-B0DHVD9LLJ",
+  "asin": "B0DHVD9LLJ",
+  "titel": "Das kleine Gespenst",
+  "autor": "Otfried Preußler, Jürgen Nola, Marco Nola",
+  "sprecher": "Michael Habeck, Claus Fuchs, Fritz Lichtenhahn u. a.",
+  "begruendung": "Preußlers Kult-Gespenst als Original-Hörspiel von 2008 – vom selben Autor wie dein „Räuber Hotzenplotz“ im Regal, nur diesmal auf Burg Eulenstein.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig",
+    "herzerwärmend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer",
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "3844924264",
+  "audible_url": "https://www.audible.de/pd/Das-kleine-Gespenst-Hoerbuch/B0DHVD9LLJ",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-05"
+ },
+ {
+  "id": "r-B0B1QNPR2S",
+  "asin": "B0B1QNPR2S",
+  "titel": "Fünf Freunde auf dem Leuchtturm",
+  "autor": "Enid Blyton",
+  "sprecher": "Sprecherensemble",
+  "begruendung": "Die dritte Station eurer Fünf-Freunde-Entdeckung – ein Leuchtturm-Geheimnis in derselben EUROPA-Klassiker-Stimmung wie bei „Pettersson und Findus“.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "spannend",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer",
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0BHZJB8W6",
+  "audible_url": "https://www.audible.de/pd/Fuenf-Freunde-auf-dem-Leuchtturm-Hoerbuch/B0B1QNPR2S",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-05"
+ },
+ {
+  "id": "r-B0B1QKQGFP",
+  "asin": "B0B1QKQGFP",
+  "titel": "Fünf Freunde in der Höhle des Urmenschen",
+  "autor": "Enid Blyton, Katrin McClean",
+  "sprecher": "Sprecherensemble",
+  "begruendung": "Noch ein Fünf-Freunde-Abenteuer, diesmal an der Fundstätte eines Urzeit-Rätsels – kurz genug für die nächste Autofahrt mit den Kindern.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "spannend",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer",
+    "Geschichte"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0BHZJB8W6",
+  "audible_url": "https://www.audible.de/pd/Fuenf-Freunde-in-der-Hoehle-des-Urmenschen-Hoerbuch/B0B1QKQGFP",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-05"
  }
 ]
