@@ -4206,5 +4206,155 @@
   "audible_url": "https://www.audible.de/pd/Hoeness-Hoerbuch/3745312015",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-09-08"
+ },
+ {
+  "id": "r-B004V1RFDO",
+  "asin": "B004V1RFDO",
+  "titel": "Resturlaub",
+  "autor": "Tommy Jaud",
+  "sprecher": "Christoph Maria Herbst",
+  "begruendung": "Christoph Maria Herbst liest hier genauso trocken wie in „Vollidiot\" und „Millionär\", die schon in deinem Regal liegen — nur flüchtet der Held diesmal aus der Midlife-Crisis nach Buenos Aires, wo alles noch schiefer läuft als geplant.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Belletristik"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Reisen"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B00TSR3SQE",
+  "audible_url": "https://www.audible.de/pd/B004V1RFDO",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-09"
+ },
+ {
+  "id": "r-B06XH1H3GR",
+  "asin": "B06XH1H3GR",
+  "titel": "Bullenbrüder - Tote haben keine Freunde",
+  "autor": "Hans Rath, Edgar Rai",
+  "sprecher": "Christoph Maria Herbst",
+  "begruendung": "Zwei zerstrittene Brüder, ein Berliner Unterweltboss und Herbsts trockener Ton — der Serienauftakt zu einer Krimikomödie, genauso schwarzhumorig wie dein „Tod unter Gurken\".",
+  "tags": {
+   "genres": [
+    "Krimi",
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "spannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle",
+    "Familie"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B06XCFQJ2B",
+  "audible_url": "https://www.audible.de/pd/B06XH1H3GR",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-09"
+ },
+ {
+  "id": "r-B00NGRGR7E",
+  "asin": "B00NGRGR7E",
+  "titel": "Der Wunschpunsch",
+  "autor": "Michael Ende",
+  "sprecher": "Christoph Maria Herbst",
+  "begruendung": "Herbst kann mehr als schrägen Alltagshumor: Hier liest er Michael Endes Silvester-Klassiker über einen missglückten Zauberspruch — mit demselben Biss wie in seinen Jaud-Lesungen, aber diesmal zum gemeinsamen Vorlesen.",
+  "tags": {
+   "genres": [
+    "Kinder",
+    "Fantasy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B00NGRGR7E",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-09"
+ },
+ {
+  "id": "r-B00UN0J5CQ",
+  "asin": "B00UN0J5CQ",
+  "titel": "Menschen lesen",
+  "autor": "Joe Navarro",
+  "sprecher": "Michael J. Diekmann",
+  "begruendung": "Michael J. Diekmann, dessen Stimme du schon aus „Wie Elon Musk die Welt verändert\" kennst, liest hier den Ex-FBI-Agenten Joe Navarro: 25 Jahre Erfahrung im Enttarnen von Lügen über Körpersprache, kompakt und praxisnah.",
+  "tags": {
+   "genres": [
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "spannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Wissenschaft",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B017K8W5PM",
+  "audible_url": "https://www.audible.de/pd/B00UN0J5CQ",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-09"
+ },
+ {
+  "id": "r-B07FQVN37P",
+  "asin": "B07FQVN37P",
+  "titel": "Dein Ego ist dein Feind",
+  "autor": "Ryan Holiday",
+  "sprecher": "Michael J. Diekmann",
+  "begruendung": "Noch einmal Diekmanns ruhige Stimme aus der Musk-Biografie, diesmal an Ryan Holidays Klassiker über die eigene Eitelkeit als größten Gegner — mit historischen Beispielen statt drögem Ratgeber-Ton.",
+  "tags": {
+   "genres": [
+    "Sachbuch",
+    "Wirtschaft"
+   ],
+   "stimmung": [
+    "motivierend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Wissenschaft"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B017K8W5PM",
+  "audible_url": "https://www.audible.de/pd/B07FQVN37P",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-09"
  }
 ]
