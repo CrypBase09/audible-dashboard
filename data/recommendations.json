@@ -4222,5 +4222,156 @@
   "audible_url": "https://www.audible.de/pd/Der-Raeuber-Hotzenplotz-Hoerbuch/3844924264",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-09-12"
+ },
+ {
+  "id": "r-B077T49YDQ",
+  "asin": "B077T49YDQ",
+  "titel": "Astrid Lindgren: Eine Biographie",
+  "autor": "Birgit Dankert",
+  "sprecher": "Thomas Krause, Jule Vollmer",
+  "begruendung": "Bevor bei euch die Känguru-Werke und Bibi Blocksberg einzogen, gab es Astrid Lindgren – Birgit Dankert erzählt leise und einfühlsam, wie aus ihrem Leben lauter berühmte Kinderfiguren wurden, genauso eindrücklich wie die Musk-Biografie im Regal, nur über eine ganz andere Art Weltveränderung.",
+  "tags": {
+   "genres": [
+    "Biografie"
+   ],
+   "stimmung": [
+    "entspannend",
+    "herzerwärmend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Geschichte",
+    "Familie"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B017K8W5PM",
+  "audible_url": "https://www.audible.de/pd/Astrid-Lindgren-Eine-Biographie-Hoerbuch/B077T49YDQ",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-13"
+ },
+ {
+  "id": "r-3844928219",
+  "asin": "3844928219",
+  "titel": "Pfoten vom Tisch! Meine Katzen, andere Katzen und ich",
+  "autor": "Hape Kerkeling",
+  "sprecher": "Hape Kerkeling",
+  "begruendung": "Kerkeling erzählt hier nicht von seiner Karriere, sondern ganz privat von seinen Katzen – dieselbe warme Erzählstimme wie in „Gebt mir etwas Zeit“, nur leiser und ganz ohne Chronik-Tempo.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "herzerwärmend",
+    "entspannend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Tiere",
+    "Familie"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0D9JWWYVX",
+  "audible_url": "https://www.audible.de/pd/Pfoten-vom-Tisch-Hoerbuch/3844928219",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-13"
+ },
+ {
+  "id": "r-B004V4FZFG",
+  "asin": "B004V4FZFG",
+  "titel": "Wie isset?",
+  "autor": "Konrad Beikircher",
+  "sprecher": "Konrad Beikircher",
+  "begruendung": "Beikircher seziert das Rheinische mit derselben liebevollen Sprachlust, mit der Kai Magnus Sting den Ruhrpott in „Hömma, so isset“ seziert – nur eine Dativ-Regel weiter westlich, und angenehm leise erzählt.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "entspannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "3844539832",
+  "audible_url": "https://www.audible.de/pd/Wie-isset-Hoerbuch/B004V4FZFG",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-13"
+ },
+ {
+  "id": "r-B0778G5JPZ",
+  "asin": "B0778G5JPZ",
+  "titel": "Thomas Mann: Leben und Werk",
+  "autor": "Christian Liederer",
+  "sprecher": "Axel Thielmann",
+  "begruendung": "Nach den 1600 Minuten Thomas-Mann-Lesungen im Regal jetzt der Blick hinter den Autor – Christian Liederer zeichnet ruhig nach, wie Schopenhauer, Nietzsche und Wagner den Zauberberg-Erzähler geprägt haben.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "entspannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Geschichte",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B01MFC2XE2",
+  "audible_url": "https://www.audible.de/pd/Thomas-Mann-Leben-und-Werk-Hoerbuch/B0778G5JPZ",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-13"
+ },
+ {
+  "id": "r-B09WHCWZ93",
+  "asin": "B09WHCWZ93",
+  "titel": "Die menschliche Tragödie",
+  "autor": "Rüdiger Hoffmann, Andreas Hutzler",
+  "sprecher": "Rüdiger Hoffmann, Andreas Hutzler",
+  "begruendung": "Rüdiger Hoffmann ist berühmt für seine gemütlich-langsame Erzählweise – hier nimmt er sich Liebe, Ehe und Kinderwunsch vor, genauso selbstironisch wie Stefan Schwarz in „Wir sollten uns auch mal scheiden lassen“, nur mit noch mehr Ruhe in der Stimme.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "entspannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Beziehung",
+    "Familie"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B01FK78TEG",
+  "audible_url": "https://www.audible.de/pd/Die-menschliche-Tragoedie-Hoerbuch/B09WHCWZ93",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-13"
  }
 ]
