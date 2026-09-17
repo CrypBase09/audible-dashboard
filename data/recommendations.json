@@ -4545,5 +4545,123 @@
   "audible_url": "https://www.audible.de/pd/B0CJCMM31Y",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-09-15"
+ },
+ {
+  "id": "r-B0GTVWM8LV",
+  "asin": "B0GTVWM8LV",
+  "titel": "Der Erlöser - Live",
+  "autor": "Atze Schröder",
+  "sprecher": "Atze Schröder",
+  "begruendung": "Frisch aus 2026: Atze Schröder spielt sich zum Messias hoch – bissige Live-Comedy in der Kerbe von Mario Barths „Männer sind nichts ohne die Frauen“.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "frech",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Gesellschaft",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B0GSZ9846C",
+  "audible_url": "https://www.audible.de/pd/B0GTVWM8LV",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-17"
+ },
+ {
+  "id": "r-B00OME8FE8",
+  "asin": "B00OME8FE8",
+  "titel": "Bastian Pastewka und Komplizen in \"Paul Temple und der Fall Gregory\"",
+  "autor": "Francis Durbridge",
+  "sprecher": "Bastian Pastewka, Janina Sachau, Kai Magnus Sting, Alexis Kara, Inga Busch",
+  "begruendung": "Kai Magnus Sting, den du aus „Tod unter Gurken“ kennst, spielt hier an Pastewkas Seite in einem wiederbelebten Radio-Krimi-Klassiker von 1949 – Krimi-Spaß mit Augenzwinkern.",
+  "tags": {
+   "genres": [
+    "Krimi",
+    "Hörspiel"
+   ],
+   "stimmung": [
+    "spannend",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B06XCFQJ2B",
+  "audible_url": "https://www.audible.de/pd/B00OME8FE8",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-17"
+ },
+ {
+  "id": "r-B01FUMR7Q2",
+  "asin": "B01FUMR7Q2",
+  "titel": "Auf Anfang",
+  "autor": "Sebastian Pufpaff",
+  "sprecher": "Sebastian Pufpaff",
+  "begruendung": "Kabarett mit Tiefgang statt reinem Klamauk – wer Urban Priols „Im Fluss“ mag, findet bei Pufpaff dieselbe bissige Gesellschaftsbeobachtung.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Kabarett"
+   ],
+   "stimmung": [
+    "bissig",
+    "nachdenklich"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B01FUMR7Q2",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-17"
+ },
+ {
+  "id": "r-B00FG1IIZC",
+  "asin": "B00FG1IIZC",
+  "titel": "Ich bin Zlatan",
+  "autor": "Zlatan Ibrahimovic, David Lagercrantz",
+  "sprecher": "Mark Bremer",
+  "begruendung": "Bevor „Adrenalin“ weitererzählt, hier der Anfang: Zlatans schonungslose eigene Geschichte, gelesen vom selben Sprecher.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Sport"
+   ],
+   "stimmung": [
+    "ehrlich",
+    "selbstbewusst"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Sport"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B09VPYXHRC",
+  "audible_url": "https://www.audible.de/pd/B00FG1IIZC",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-09-17"
  }
 ]
