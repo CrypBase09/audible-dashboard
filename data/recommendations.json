@@ -4663,5 +4663,130 @@
   "audible_url": "https://www.audible.de/pd/B00FG1IIZC",
   "regal": "lieblingsautor",
   "aufgenommen_am": "2026-09-17"
+ },
+ {
+  "id": "r-B09D3SFRXG",
+  "asin": "B09D3SFRXG",
+  "titel": "Milchgeld",
+  "autor": "Volker Klüpfel, Michael Kobr",
+  "sprecher": "Götz Otto, Wolfgang Krebs, Martin Bonvicini u. a.",
+  "begruendung": "Der Allgäu-Gegenpart zu deinem Ruhrpott-Krimihumor à la Kai Magnus Sting: Kommissar Kluftinger ermittelt bärbeißig-witzig in einem Mordfall im Käsebetrieb – Auftakt einer der größten deutschen Krimikomödien-Reihen.",
+  "tags": {
+   "genres": [
+    "Krimi",
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "spannend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle",
+    "Alltag"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B09D3SFRXG",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-18"
+ },
+ {
+  "id": "r-B0H2N6CJHJ",
+  "asin": "B0H2N6CJHJ",
+  "titel": "Die drei ??? und die schwarze Rose",
+  "autor": "Ben Nevis",
+  "sprecher": "Oliver Rohrbeck, Jens Wawrczeck, Andreas Fröhlich",
+  "begruendung": "Folge 240, druckfrisch: Eine mysteriöse schwarze Rose führt Justus, Peter und Bob in ein altes Klosteranwesen. Genau die Krimi-Kids-Ecke, die du mit Phantomsee und Karpatenhund schon angefangen hast.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "spannend",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "fürs Auto",
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Folge-240-und-die-schwarze-Rose-Hoerbuch/B0H2N6CJHJ",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-18"
+ },
+ {
+  "id": "r-B0D9BX72KM",
+  "asin": "B0D9BX72KM",
+  "titel": "Elon Musk und die Zerstörung von Twitter",
+  "autor": "Kate Conger, Ryan Mac",
+  "sprecher": "Olaf Pessler",
+  "begruendung": "Die Fortsetzung der Geschichte, die Ashlee Vance in deiner Biografie aufhört zu erzählen: Twitter-Übernahme, Massenentlassungen, Umbenennung zu X – investigativ aus hunderten Interviews mit (Ex-)Mitarbeitern.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Sachbuch",
+    "Wirtschaft"
+   ],
+   "stimmung": [
+    "spannend",
+    "informativ"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Gesellschaft",
+    "Politik"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B017K8W5PM",
+  "audible_url": "https://www.audible.de/pd/Elon-Musk-und-die-Zerstoerung-von-Twitter-Hoerbuch/B0D9BX72KM",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-18"
+ },
+ {
+  "id": "r-B07CY3CC3T",
+  "asin": "B07CY3CC3T",
+  "titel": "Bad Blood",
+  "autor": "John Carreyrou",
+  "sprecher": "Mark Bremer",
+  "begruendung": "Der nächste Silicon-Valley-Skandal nach Steve Jobs: Elizabeth Holmes wurde als \"die weibliche Steve Jobs\" gefeiert, bis der Bluttest-Betrug bei Theranos aufflog. Investigativ-packend, genau dein Isaacson-Terrain.",
+  "tags": {
+   "genres": [
+    "Sachbuch",
+    "Wirtschaft"
+   ],
+   "stimmung": [
+    "spannend",
+    "informativ"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Gesellschaft",
+    "Wissenschaft"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Bad-Blood-Hoerbuch/B07CY3CC3T",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-18"
  }
 ]
