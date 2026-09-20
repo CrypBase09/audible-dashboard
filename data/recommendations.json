@@ -4970,5 +4970,157 @@
   "audible_url": "https://www.audible.de/pd/Hummeldumm-Hoerbuch/B004V0ZHE4",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-09-19"
+ },
+ {
+  "id": "r-B004V3EX46",
+  "asin": "B004V3EX46",
+  "titel": "Zwischen Himmel un Ääd",
+  "autor": "Konrad Beikircher",
+  "sprecher": "Konrad Beikircher",
+  "begruendung": "Nachdem dir Beikirchers „Wie isset?“ gefallen hat: hier seziert er statt des Ruhrpotts das Rheinische – dieselbe leise, liebevolle Sprachlust, eine Dativ-Regel weiter östlich.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "entspannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "3844539832",
+  "audible_url": "https://www.audible.de/pd/Zwischen-Himmel-un-Aeaed-Hoerbuch/B004V3EX46",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-20"
+ },
+ {
+  "id": "r-B004V1NXAI",
+  "asin": "B004V1NXAI",
+  "titel": "Liegen lernen",
+  "autor": "Frank Goosen",
+  "sprecher": "Frank Goosen",
+  "begruendung": "Goosen erzählt hier seine eigene Ruhrpott-Coming-of-Age-Geschichte – derselbe warme, trockene Ton wie in „Radio Heimat“, nur als durchgehender Roman statt in Häppchen.",
+  "tags": {
+   "genres": [
+    "Belletristik",
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "herzerwärmend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Alltag",
+    "Familie"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B004UXE5N6",
+  "audible_url": "https://www.audible.de/pd/Liegen-lernen-Hoerbuch/B004V1NXAI",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-20"
+ },
+ {
+  "id": "r-B004V25Z6W",
+  "asin": "B004V25Z6W",
+  "titel": "Russendisko",
+  "autor": "Wladimir Kaminer",
+  "sprecher": "Wladimir Kaminer",
+  "begruendung": "Kurze, schrägkomische Alltagsgeschichten aus Berlin, vom Autor selbst gelesen – die Produktbeschreibung nennt ihn in einem Atemzug mit Kishon, den du schon zum Einschlafen hörst.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Belletristik"
+   ],
+   "stimmung": [
+    "witzig",
+    "entspannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B004V3EZ6W",
+  "audible_url": "https://www.audible.de/pd/Russendisko-Hoerbuch/B004V25Z6W",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-20"
+ },
+ {
+  "id": "r-B00EY81Z80",
+  "asin": "B00EY81Z80",
+  "titel": "Eine kurze Geschichte der Menschheit",
+  "autor": "Yuval Noah Harari",
+  "sprecher": "Jürgen Holdorf",
+  "begruendung": "Nach Source Code und Bad Blood ein ruhigerer, größerer Bogen: Harari erzählt die Menschheitsgeschichte als Sachbuch zum Reinhören statt als Firmen- oder Skandalgeschichte.",
+  "tags": {
+   "genres": [
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "informativ",
+    "nachdenklich"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Wissenschaft",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Eine-kurze-Geschichte-der-Menschheit-Hoerbuch/B00EY81Z80",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-20"
+ },
+ {
+  "id": "r-B0BRY3VKZ2",
+  "asin": "B0BRY3VKZ2",
+  "titel": "Reserve",
+  "autor": "Prinz Harry",
+  "sprecher": "Steffen Groth",
+  "begruendung": "Noch eine royale Innenansicht nach „Ein verheißenes Land“ – Harrys sehr persönliche, oft ruhige Aufarbeitung von Verlust und Familie statt Politik.",
+  "tags": {
+   "genres": [
+    "Biografie"
+   ],
+   "stimmung": [
+    "persönlich",
+    "nachdenklich"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Gesellschaft",
+    "Familie"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "3844542078",
+  "audible_url": "https://www.audible.de/pd/Reserve-Spare-Hoerbuch/B0BRY3VKZ2",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-20"
  }
 ]
