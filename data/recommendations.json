@@ -5122,5 +5122,155 @@
   "audible_url": "https://www.audible.de/pd/Reserve-Spare-Hoerbuch/B0BRY3VKZ2",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-09-20"
+ },
+ {
+  "id": "r-B004V5HEOU",
+  "asin": "B004V5HEOU",
+  "titel": "Vom Himmel in die Traufe",
+  "autor": "Arto Paasilinna",
+  "sprecher": "Jürgen von der Lippe",
+  "begruendung": "Derselbe Autor-Sprecher-Zweiklang wie bei „Im Jenseits ist die Hölle los“ – wieder Paasilinnas schräger finnischer Humor, wieder von der Lippes trockener Ton.",
+  "tags": {
+   "genres": [
+    "Belletristik"
+   ],
+   "stimmung": [
+    "witzig",
+    "skurril"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Vom-Himmel-in-die-Traufe-Hoerbuch/B004V5HEOU",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-23"
+ },
+ {
+  "id": "r-B01FXN6YYE",
+  "asin": "B01FXN6YYE",
+  "titel": "Vinum Mysterium",
+  "autor": "Carsten Sebastian Henn",
+  "sprecher": "Jürgen von der Lippe",
+  "begruendung": "Von der Lippe verlässt mal die Comedy-Bühne und liest einen Krimi – Henns Ahrtal-Fall um Sternekoch Eichendorff bringt die vertraute Stimme in neues Terrain.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "spannend",
+    "witzig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Vinum-Mysterium-Hoerbuch/B01FXN6YYE",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-23"
+ },
+ {
+  "id": "r-B00JBFQ4Y6",
+  "asin": "B00JBFQ4Y6",
+  "titel": "Männopause",
+  "autor": "Linus Höke",
+  "sprecher": "Jürgen von der Lippe",
+  "begruendung": "Von der Lippe liest hier nicht seine eigenen Texte, sondern Linus Hökes bitterböse Midlife-Satire – passt neben „Midlife Crisis“ und „Wir sollten uns auch mal scheiden lassen“ nahtlos ins Bügel-Regal.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "bissig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Maennopause-Hoerbuch/B00JBFQ4Y6",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-23"
+ },
+ {
+  "id": "r-3954717441",
+  "asin": "3954717441",
+  "titel": "Total Recall: Die wahre Geschichte meines Lebens",
+  "autor": "Arnold Schwarzenegger",
+  "sprecher": "Sebastian Pappenberger",
+  "begruendung": "Vom Bodybuilding-Weltmeister zum Gouverneur – Schwarzenegger erzählt so schonungslos wie Boris Becker in „Inside“, nur mit noch größerer Bühne.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Sport"
+   ],
+   "stimmung": [
+    "inspirierend",
+    "spannend"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Sport",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Total-Recall-Hoerbuch/3954717441",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-23"
+ },
+ {
+  "id": "r-B09RGBQQQR",
+  "asin": "B09RGBQQQR",
+  "titel": "Der Allesverkäufer",
+  "autor": "Brad Stone",
+  "sprecher": "Sebastian Pappenberger",
+  "begruendung": "Derselbe Sprecher wie bei Schwarzeneggers Memoiren, diesmal Brad Stones zweites großes Firmenporträt nach „Amazon unaufhaltsam“ – diesmal mit Fokus auf Bezos selbst statt dem Konzern.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Wirtschaft",
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "informativ",
+    "spannend"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Gesellschaft",
+    "Wissenschaft"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Der-Allesverkaeufer-Hoerbuch/B09RGBQQQR",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-23"
  }
 ]
