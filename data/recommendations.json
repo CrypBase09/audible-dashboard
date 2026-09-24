@@ -5272,5 +5272,143 @@
   "audible_url": "https://www.audible.de/pd/Der-Allesverkaeufer-Hoerbuch/B09RGBQQQR",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-09-23"
+ },
+ {
+  "id": "r-B07D4JQZDV",
+  "asin": "B07D4JQZDV",
+  "titel": "Kronk",
+  "autor": "Bülent Ceylan, Roland Junghans",
+  "sprecher": "Bülent Ceylan",
+  "begruendung": "Ceylan holt mit Kopfnicken und Headbanging genau die Halle-voll-Energie ab, die dir bei Paul Panzers Bühnenprogrammen schon gefällt.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B0B1ZT4BW9",
+  "audible_url": "https://www.audible.de/pd/B07D4JQZDV",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-24"
+ },
+ {
+  "id": "r-3837153711",
+  "asin": "3837153711",
+  "titel": "Intensiv",
+  "autor": "Bülent Ceylan",
+  "sprecher": "Bülent Ceylan",
+  "begruendung": "Ceylan blickt hier ganz persönlich auf 21 Jahre Bühne zurück – dieselbe warme Familien-Rückschau, die dir bei Johann Königs „Familie macht glücklich\" gefällt.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "herzerwärmend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B0BTZ4672Z",
+  "audible_url": "https://www.audible.de/pd/3837153711",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-24"
+ },
+ {
+  "id": "r-B08FF1K6R5",
+  "asin": "B08FF1K6R5",
+  "titel": "Die Live-Kronjuwelen",
+  "autor": "Atze Schröder",
+  "sprecher": "Atze Schröder",
+  "begruendung": "Highlights aus „Atze im Wunderland\" vor 1500 Zuschauern – dieselbe Arena-Wucht wie bei Mario Barths Bühnenprogrammen.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B0B1QKNFH2",
+  "audible_url": "https://www.audible.de/pd/B08FF1K6R5",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-24"
+ },
+ {
+  "id": "r-B0B1QLLH9R",
+  "asin": "B0B1QLLH9R",
+  "titel": "Paranoid",
+  "autor": "Michael Mittermeier",
+  "sprecher": "Michael Mittermeier",
+  "begruendung": "Mittermeiers preisgekröntes drittes Programm – nachdenklicher deutscher Solo-Humor wie bei Dieter Nuhrs „Nuhr auf Tour\".",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B0CMQWBR43",
+  "audible_url": "https://www.audible.de/pd/B0B1QLLH9R",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-24"
+ },
+ {
+  "id": "r-3844535047",
+  "asin": "3844535047",
+  "titel": "Das ABC des schönen Mordens",
+  "autor": "Kai Magnus Sting, Leonhard Koppelmann",
+  "sprecher": "Felix von Manteuffel, Leslie Malton",
+  "begruendung": "Vom „Tod unter Gurken\"-Autor: ein Ehepaar mordet sich durchs Alphabet – derselbe schwarze Humor, nur als kompaktes 79-Minuten-Hörspiel.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "witzig",
+    "spannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle",
+    "Beziehung"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B06XCFQJ2B",
+  "audible_url": "https://www.audible.de/pd/3844535047",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-24"
  }
 ]
