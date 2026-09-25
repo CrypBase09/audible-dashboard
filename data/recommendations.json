@@ -5410,5 +5410,151 @@
   "audible_url": "https://www.audible.de/pd/3844535047",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-09-24"
+ },
+ {
+  "id": "r-B08CY8QB46",
+  "asin": "B08CY8QB46",
+  "titel": "Vino Furioso",
+  "autor": "Carsten Sebastian Henn",
+  "sprecher": "Carsten Sebastian Henn",
+  "begruendung": "Ein weiterer Fall für Julius Eichendorff aus der Weinberg-Krimireihe, von der du schon mehrere Bände im Regal hast – diesmal liest und singt Henn sogar selbst.",
+  "tags": {
+   "genres": [
+    "Krimi",
+    "Comedy"
+   ],
+   "stimmung": [
+    "kurzweilig",
+    "humorvoll"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B01FXMYXXY",
+  "audible_url": "https://www.audible.de/pd/Vino-Furioso-Hoerbuch/B08CY8QB46",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-25"
+ },
+ {
+  "id": "r-B004V3VAHY",
+  "asin": "B004V3VAHY",
+  "titel": "Millionär",
+  "autor": "Tommy Jaud",
+  "sprecher": "Christoph Maria Herbst",
+  "begruendung": "Direkte Fortsetzung von „Vollidiot\" – derselbe Antiheld, diesmal auf dem Weg zum schnellen Reichtum, wieder trocken gelesen von Christoph Maria Herbst.",
+  "tags": {
+   "genres": [
+    "Belletristik"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B00TSR3SQE",
+  "audible_url": "https://www.audible.de/pd/Millionaer-Hoerbuch/B004V3VAHY",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-25"
+ },
+ {
+  "id": "r-B0G2SDMB2Y",
+  "asin": "B0G2SDMB2Y",
+  "titel": "Bakterien – die heimlichen Helden",
+  "autor": "Peter Wohlleben",
+  "sprecher": "Thomas Loibl",
+  "begruendung": "Wohllebens neuestes Sachbuch, genauso ruhig erzählt wie „Das geheime Netzwerk der Natur\" – diesmal geht es um die unsichtbare Welt der Bakterien.",
+  "tags": {
+   "genres": [
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "ruhig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Wissenschaft"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B074JDSLHN",
+  "audible_url": "https://www.audible.de/pd/Bakterien-die-heimlichen-Helden-Hoerbuch/B0G2SDMB2Y",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-25"
+ },
+ {
+  "id": "r-B0D4B3M246",
+  "asin": "B0D4B3M246",
+  "titel": "Sprachkurs Hund von Martin Rütter",
+  "autor": "Martin Rütter",
+  "sprecher": "Peter Veit",
+  "begruendung": "Diesmal kein Live-Programm, sondern ein Ratgeber: Rütter erklärt Körpersprache und Kommunikation von Hunden – passend, nachdem dir „Der tut nix\" schon gefallen hat.",
+  "tags": {
+   "genres": [
+    "Ratgeber"
+   ],
+   "stimmung": [
+    "kurzweilig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Tiere"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B08FF1588T",
+  "audible_url": "https://www.audible.de/pd/Sprachkurs-Hund-von-Martin-Ruetter-Hoerbuch/B0D4B3M246",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-25"
+ },
+ {
+  "id": "r-B008XWSKMM",
+  "asin": "B008XWSKMM",
+  "titel": "Onkel Wanja kommt",
+  "autor": "Wladimir Kaminer",
+  "sprecher": "Wladimir Kaminer",
+  "begruendung": "Wieder schrägkomische, kurze Alltagsgeschichten von Kaminer selbst gelesen, ganz wie „Russendisko\" – diesmal ein nächtlicher Spaziergang durch Berlin mit dem Onkel im Gepäck.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Belletristik"
+   ],
+   "stimmung": [
+    "witzig",
+    "entspannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B004V25Z6W",
+  "audible_url": "https://www.audible.de/pd/Onkel-Wanja-kommt-Hoerbuch/B008XWSKMM",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-25"
  }
 ]
