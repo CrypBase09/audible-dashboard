@@ -1913,158 +1913,6 @@
   "aufgenommen_am": "2026-08-07"
  },
  {
-  "id": "r-B0DPR4Z3MF",
-  "asin": "B0DPR4Z3MF",
-  "titel": "Sturm der Schwerter",
-  "autor": "George R.R. Martin",
-  "sprecher": "Stefan Kaminski",
-  "begruendung": "Dein Eis-und-Feuer-Marathon geht in die fünfte Runde – nach der „Saat des goldenen Löwen“ wird es mit Stefan Kaminski noch mal ordentlich dicker.",
-  "tags": {
-   "genres": [
-    "Fantasy"
-   ],
-   "stimmung": [
-    "spannend",
-    "düster"
-   ],
-   "laenge": "episch",
-   "themen": [
-    "Geschichte",
-    "Abenteuer"
-   ],
-   "anlass": [
-    "lange Reise"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B004UZH630",
-  "audible_url": "https://www.audible.de/pd/Sturm-der-Schwerter-Hoerbuch/B0DPR4Z3MF",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-28"
- },
- {
-  "id": "r-B0DPR6XHTW",
-  "asin": "B0DPR6XHTW",
-  "titel": "Die Königin der Drachen",
-  "autor": "George R.R. Martin",
-  "sprecher": "Stefan Kaminski",
-  "begruendung": "Band 6 hält den Faden direkt nach dem „Sturm der Schwerter“ weiter, falls dir die ersten fünf Bände noch nicht genug waren.",
-  "tags": {
-   "genres": [
-    "Fantasy"
-   ],
-   "stimmung": [
-    "spannend",
-    "düster"
-   ],
-   "laenge": "episch",
-   "themen": [
-    "Geschichte",
-    "Abenteuer"
-   ],
-   "anlass": [
-    "lange Reise"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B004UZH630",
-  "audible_url": "https://www.audible.de/pd/Die-Koenigin-der-Drachen-Hoerbuch/B0DPR6XHTW",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-28"
- },
- {
-  "id": "r-B0B1QKF5QZ",
-  "asin": "B0B1QKF5QZ",
-  "titel": "Die drei ??? und der Phantomsee",
-  "autor": "H.G. Francis",
-  "sprecher": "Oliver Rohrbeck, Jens Wawrczeck, Andreas Fröhlich",
-  "begruendung": "Nach dem „Super-Papagei“ ermitteln Justus, Peter und Bob im zweiten Fall am Phantomsee – dieselbe Krimi-Hörspiel-Mischung wie bei „Tod unter Gurken“, nur für die ganze Familie.",
-  "tags": {
-   "genres": [
-    "Krimi"
-   ],
-   "stimmung": [
-    "spannend",
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Krimi-Fälle",
-    "Abenteuer"
-   ],
-   "anlass": [
-    "fürs Auto",
-    "mit den Kindern"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": "B06XCFQJ2B",
-  "audible_url": "https://www.audible.de/pd/Die-drei-und-der-Phantomsee-Hoerbuch/B0B1QKF5QZ",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-28"
- },
- {
-  "id": "r-B0B1QKB7XP",
-  "asin": "B0B1QKB7XP",
-  "titel": "Fünf Freunde im Zeltlager",
-  "autor": "Enid Blyton",
-  "sprecher": "Sprecherensemble",
-  "begruendung": "Die zweite Folge deiner neuen Fünf-Freunde-Entdeckung – ein Geisterzug und ein Geheimnis im Zeltlager, genau die EUROPA-Klassiker-Stimmung wie bei „Pettersson und Findus“.",
-  "tags": {
-   "genres": [
-    "Kinder"
-   ],
-   "stimmung": [
-    "spannend",
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Abenteuer",
-    "Familie"
-   ],
-   "anlass": [
-    "mit den Kindern",
-    "fürs Auto"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": "B0BHZJB8W6",
-  "audible_url": "https://www.audible.de/pd/Fuenf-Freunde-im-Zeltlager-Hoerbuch/B0B1QKB7XP",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-28"
- },
- {
-  "id": "r-B004JVDABM",
-  "asin": "B004JVDABM",
-  "titel": "Hexerei in der Schule",
-  "autor": "Elfie Donnelly",
-  "sprecher": "Susanna Bonaséwicz, Hallgard Bruckhaus, Joachim Nottke",
-  "begruendung": "Die zweite Folge nach deinem Bibi-Blocksberg-Einstieg – dieselbe Zauberformel-Situationskomik wie in „Hexen gibt es doch“.",
-  "tags": {
-   "genres": [
-    "Kinder"
-   ],
-   "stimmung": [
-    "witzig",
-    "herzerwärmend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Familie",
-    "Abenteuer"
-   ],
-   "anlass": [
-    "mit den Kindern"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": "B004JVIFYE",
-  "audible_url": "https://www.audible.de/pd/Hexerei-in-der-Schule-Hoerbuch/B004JVDABM",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-28"
- },
- {
   "id": "r-B004JVIQ0M",
   "asin": "B004JVIQ0M",
   "titel": "Benjamin und Bibi Blocksberg",
@@ -5556,5 +5404,156 @@
   "audible_url": "https://www.audible.de/pd/Onkel-Wanja-kommt-Hoerbuch/B008XWSKMM",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-09-25"
+ },
+ {
+  "id": "r-B073JS64J5",
+  "asin": "B073JS64J5",
+  "titel": "Eine Woche voller Samstage",
+  "autor": "Paul Maar",
+  "sprecher": "Monty Arnold",
+  "begruendung": "Der Auftakt der Sams-Reihe – freches, warmherziges Kinderhörbuch fürs gemeinsame Hören am Wochenende, in der Tonart von \"Das NEINhorn\".",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig",
+    "frech"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0CW9WXKDF",
+  "audible_url": "https://www.audible.de/pd/B073JS64J5",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-26"
+ },
+ {
+  "id": "r-B006YNAKBG",
+  "asin": "B006YNAKBG",
+  "titel": "Die Olchis sind da",
+  "autor": "Erhard Dietl",
+  "sprecher": "Rainer Schmitt, Stephanie Kirchberger, Maritna Mank",
+  "begruendung": "Der Serienstart der Olchis – schräg-witziges Familienhörspiel, passend zum gemeinsamen Wochenend-Hören mit den Kindern.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig",
+    "herzerwärmend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer",
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0CW9WXKDF",
+  "audible_url": "https://www.audible.de/pd/B006YNAKBG",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-26"
+ },
+ {
+  "id": "r-3837367193",
+  "asin": "3837367193",
+  "titel": "Alles von Pippi Langstrumpf",
+  "autor": "Astrid Lindgren",
+  "sprecher": "Josefine Preuß",
+  "begruendung": "Alle drei Pippi-Abenteuer ungekürzt in einer Box – über 7 Stunden für gemütliches Zuhören mit der ganzen Familie, auch auf längeren Fahrten.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "frech",
+    "herzerwärmend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Abenteuer",
+    "Reisen"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0CW9WXKDF",
+  "audible_url": "https://www.audible.de/pd/3837367193",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-26"
+ },
+ {
+  "id": "r-B00CM6VWVG",
+  "asin": "B00CM6VWVG",
+  "titel": "Momo",
+  "autor": "Michael Ende",
+  "sprecher": "Gert Heidenreich",
+  "begruendung": "Zeitloser Kinderbuch-Klassiker über ein Mädchen, das den grauen Herren die gestohlene Zeit wieder abjagt – wunderbar zum gemeinsamen Hören am Wochenende.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "nachdenklich",
+    "geheimnisvoll"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Abenteuer",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0CW9WXKDF",
+  "audible_url": "https://www.audible.de/pd/B00CM6VWVG",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-26"
+ },
+ {
+  "id": "r-B0927QYPQC",
+  "asin": "B0927QYPQC",
+  "titel": "Der Grüffelo. Das Original-Hörspiel zum Film",
+  "autor": "Thomas Karallus",
+  "sprecher": "Susanne Sternberg, Christian Ulmen, Wolfgang Hess, Heike Makatsch, Edgar Selge, Gerd Voss, Otto Sander",
+  "begruendung": "Starbesetztes Hörspiel zum Bilderbuch-Klassiker – kurz genug für einen gemeinsamen Hörabend mit den Kindern am Samstag.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "spannend",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Tiere",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0CW9WXKDF",
+  "audible_url": "https://www.audible.de/pd/B0927QYPQC",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-26"
  }
 ]
