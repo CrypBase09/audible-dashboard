@@ -1913,191 +1913,6 @@
   "aufgenommen_am": "2026-08-07"
  },
  {
-  "id": "r-B004JVIQ0M",
-  "asin": "B004JVIQ0M",
-  "titel": "Benjamin und Bibi Blocksberg",
-  "autor": "Elfie Donnelly",
-  "sprecher": "Edgar Ott, Frank Schaff-Langhans, Susanna Bonaséwicz",
-  "begruendung": "Zwei deiner Familien-Favoriten treffen aufeinander – Benjamin Blümchen besucht die Blocksbergs, direkt von der Autorin deiner „Hexen gibt es doch\"-Folge.",
-  "tags": {
-   "genres": [
-    "Kinder"
-   ],
-   "stimmung": [
-    "witzig",
-    "herzerwärmend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Familie",
-    "Abenteuer"
-   ],
-   "anlass": [
-    "mit den Kindern",
-    "fürs Auto"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": "B004JVIFYE",
-  "audible_url": "https://www.audible.de/pd/Benjamin-und-Bibi-Blocksberg-Hoerbuch/B004JVIQ0M",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-29"
- },
- {
-  "id": "r-B004JVIPIA",
-  "asin": "B004JVIPIA",
-  "titel": "Benjamin im Krankenhaus",
-  "autor": "Elfie Donnelly",
-  "sprecher": "Edgar Ott, Frank Schaff-Langhans, Joachim Nottke",
-  "begruendung": "Klassiker Nummer 13 der Reihe – die ruhige, warmherzige Benjamin-Blümchen-Stimmung für einen gemeinsamen Hörnachmittag.",
-  "tags": {
-   "genres": [
-    "Kinder"
-   ],
-   "stimmung": [
-    "herzerwärmend",
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Familie",
-    "Abenteuer"
-   ],
-   "anlass": [
-    "mit den Kindern"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": "B004JVIFYE",
-  "audible_url": "https://www.audible.de/pd/Benjamin-im-Krankenhaus-Hoerbuch/B004JVIPIA",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-29"
- },
- {
-  "id": "r-B004JVF1L4",
-  "asin": "B004JVF1L4",
-  "titel": "Benjamin auf hoher See",
-  "autor": "Elfie Donnelly",
-  "sprecher": "Edgar Ott, Alexander Rosenberg, Joachim Nottke",
-  "begruendung": "Benjamin und Otto kapern aus Versehen ein Schiff – ein kurzweiliges Abenteuer zum gemeinsamen Hören, genau in eurer Bibi-Blocksberg-Familienstimmung.",
-  "tags": {
-   "genres": [
-    "Kinder"
-   ],
-   "stimmung": [
-    "witzig",
-    "spannend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Familie",
-    "Abenteuer"
-   ],
-   "anlass": [
-    "mit den Kindern",
-    "fürs Auto"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": "B004JVIFYE",
-  "audible_url": "https://www.audible.de/pd/Benjamin-auf-hoher-See-Hoerbuch/B004JVF1L4",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-29"
- },
- {
-  "id": "r-B0B1QH3LFB",
-  "asin": "B0B1QH3LFB",
-  "titel": "Der Unsichtbare",
-  "autor": "Stefan Wolf",
-  "sprecher": "Sprecherensemble",
-  "begruendung": "Die zweite große EUROPA-Krimireihe neben den drei Fragezeichen – Falschgeld und ein unsichtbarer Dieb, dieselbe Krimi-Spannung wie bei „Tod unter Gurken”, nur für die ganze Familie.",
-  "tags": {
-   "genres": [
-    "Krimi"
-   ],
-   "stimmung": [
-    "spannend",
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Krimi-Fälle",
-    "Abenteuer"
-   ],
-   "anlass": [
-    "fürs Auto",
-    "mit den Kindern"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": "B06XCFQJ2B",
-  "audible_url": "https://www.audible.de/pd/Der-Unsichtbare-Hoerbuch/B0B1QH3LFB",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-29"
- },
- {
-  "id": "r-B0B1QSTK65",
-  "asin": "B0B1QSTK65",
-  "titel": "Verbrechen im Moorsteiner Wald",
-  "autor": "Stefan Wolf",
-  "sprecher": "Sprecherensemble",
-  "begruendung": "Ein Hilferuf über Social Media und ein Fall am See – spannende TKKG-Ermittlung zum gemeinsamen Hören im Auto.",
-  "tags": {
-   "genres": [
-    "Krimi"
-   ],
-   "stimmung": [
-    "spannend",
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Krimi-Fälle",
-    "Abenteuer"
-   ],
-   "anlass": [
-    "fürs Auto",
-    "mit den Kindern"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": "B06XCFQJ2B",
-  "audible_url": "https://www.audible.de/pd/Verbrechen-im-Moorsteiner-Wald-Hoerbuch/B0B1QSTK65",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-29"
- },
- {
-  "id": "r-B0C9TRCLLB",
-  "asin": "B0C9TRCLLB",
-  "titel": "Tatort Zirkus",
-  "autor": "Stefan Wolf",
-  "sprecher": "Sprecherensemble",
-  "begruendung": "Die kindgerechte Junior-Reihe von TKKG – ein verschwundener Zirkuselefant, genau die Pettersson-und-Findus-Familienstimmung, nur mit Krimi-Kick.",
-  "tags": {
-   "genres": [
-    "Kinder"
-   ],
-   "stimmung": [
-    "witzig",
-    "spannend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Abenteuer",
-    "Familie"
-   ],
-   "anlass": [
-    "mit den Kindern",
-    "fürs Auto"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": "B0BHZJB8W6",
-  "audible_url": "https://www.audible.de/pd/Tatort-Zirkus-Hoerbuch/B0C9TRCLLB",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-29"
- },
- {
   "id": "r-B005OPPARO",
   "asin": "B005OPPARO",
   "titel": "So geht's",
@@ -5555,5 +5370,150 @@
   "audible_url": "https://www.audible.de/pd/B0927QYPQC",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-09-26"
+ },
+ {
+  "id": "r-3844536248",
+  "asin": "3844536248",
+  "titel": "Das geheime Band",
+  "autor": "Peter Wohlleben",
+  "sprecher": "Peter Kaempfe",
+  "begruendung": "Wieder ein ruhig erzähltes Wohlleben-Sachbuch, diesmal über die biologische Verbindung zwischen Mensch und Wald – genau die Tonart, die schon bei „Bakterien – die heimlichen Helden\" gut ankam.",
+  "tags": {
+   "genres": [
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "ruhig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Wissenschaft"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0G2SDMB2Y",
+  "audible_url": "https://www.audible.de/pd/Das-geheime-Band-Hoerbuch/3844536248",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-27"
+ },
+ {
+  "id": "r-B09XN74RPD",
+  "asin": "B09XN74RPD",
+  "titel": "Die Naturgeschichte des Immunsystems",
+  "autor": "Clemens G. Arvay",
+  "sprecher": "Max Hoffmann",
+  "begruendung": "Ruhiges Wissenschafts-Sachbuch in der Tonart von Wohllebens Naturbüchern – diesmal geht es um die evolutionäre Verbindung zwischen Immunsystem und Umwelt.",
+  "tags": {
+   "genres": [
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "ruhig",
+    "nachdenklich"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Wissenschaft"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B074JDSLHN",
+  "audible_url": "https://www.audible.de/pd/Die-Naturgeschichte-des-Immunsystems-Hoerbuch/B09XN74RPD",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-27"
+ },
+ {
+  "id": "r-B0GYFNJJKR",
+  "asin": "B0GYFNJJKR",
+  "titel": "Lego - Die Welt ist voller Träume",
+  "autor": "Katharina von der Lane",
+  "sprecher": "Sanja Nowara",
+  "begruendung": "Bewegende Familien- und Gründergeschichte der LEGO-Firma – für alle, die wie bei Obamas Memoiren gern lange, persönliche Lebensgeschichten hören.",
+  "tags": {
+   "genres": [
+    "Belletristik"
+   ],
+   "stimmung": [
+    "bewegend",
+    "warmherzig"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Geschichte",
+    "Familie"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "3844542078",
+  "audible_url": "https://www.audible.de/pd/B0GYFNJJKR",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-27"
+ },
+ {
+  "id": "r-B004UV71S4",
+  "asin": "B004UV71S4",
+  "titel": "Der Königsweg",
+  "autor": "Johann König",
+  "sprecher": "Johann König",
+  "begruendung": "Frühes Soloprogramm von Johann König übers genüssliche Nichtstun – trockener Humor wie in „Familie macht glücklich\", nur noch unaufgeregter.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "entspannt",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0BTZ4672Z",
+  "audible_url": "https://www.audible.de/pd/B004UV71S4",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-27"
+ },
+ {
+  "id": "r-B01G3VEJZG",
+  "asin": "B01G3VEJZG",
+  "titel": "Nur Nuhr",
+  "autor": "Dieter Nuhr",
+  "sprecher": "Dieter Nuhr",
+  "begruendung": "Minimalistisches Solo-Programm von Dieter Nuhr – nur ein Mann und ein Mikro, im gleichen bissig-nachdenklichen Ton wie „Nuhr auf Tour\".",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "bissig",
+    "nachdenklich"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B0CMQWBR43",
+  "audible_url": "https://www.audible.de/pd/Nur-Nuhr-Hoerbuch/B01G3VEJZG",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-27"
  }
 ]
