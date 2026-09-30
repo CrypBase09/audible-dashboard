@@ -1913,239 +1913,6 @@
   "aufgenommen_am": "2026-08-07"
  },
  {
-  "id": "r-B005OPPARO",
-  "asin": "B005OPPARO",
-  "titel": "So geht's",
-  "autor": "Jürgen von der Lippe",
-  "sprecher": "Jürgen von der Lippe",
-  "begruendung": "Ein Comedy-Crashkurs live von der Lippe – im selben Ton wie „Nudel im Wind“, nur mit neuen Nummern.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag"
-   ],
-   "anlass": [],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": "3837153142",
-  "audible_url": "https://www.audible.de/pd/B005OPPARO",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-30"
- },
- {
-  "id": "r-3844531211",
-  "asin": "3844531211",
-  "titel": "BECOMING",
-  "autor": "Michelle Obama",
-  "sprecher": "Katrin Fröhlich",
-  "begruendung": "Nach Barack Obamas „Ein verheißenes Land“ fehlt dir nur noch ihre Seite der Geschichte – genauso eindrücklich erzählt.",
-  "tags": {
-   "genres": [
-    "Biografie"
-   ],
-   "stimmung": [
-    "herzerwärmend"
-   ],
-   "laenge": "episch",
-   "themen": [
-    "Gesellschaft",
-    "Politik"
-   ],
-   "anlass": [
-    "lange Reise"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "3844542078",
-  "audible_url": "https://www.audible.de/pd/3844531211",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-30"
- },
- {
-  "id": "r-B074JDSLHN",
-  "asin": "B074JDSLHN",
-  "titel": "Das geheime Netzwerk der Natur",
-  "autor": "Peter Wohlleben",
-  "sprecher": "Peter Kaempfe",
-  "begruendung": "Für einen ruhigen Sonntagabend: Wohllebens sanfte Naturkunde liest sich so entspannt wie Leschs „Was hat das Universum mit mir zu tun?“.",
-  "tags": {
-   "genres": [
-    "Sachbuch"
-   ],
-   "stimmung": [
-    "ruhig"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Wissenschaft"
-   ],
-   "anlass": [
-    "zum Einschlafen"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "3955671631",
-  "audible_url": "https://www.audible.de/pd/B074JDSLHN",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-30"
- },
- {
-  "id": "r-B0HCZN81D2",
-  "asin": "B0HCZN81D2",
-  "titel": "So Jung brechen wir nicht mehr zusammen",
-  "autor": "Dagmar Schönleber",
-  "sprecher": "Dagmar Schönleber",
-  "begruendung": "Genauso bissig-selbstironisch wie Kling und Malmsheimer, nur diesmal übers Älterwerden – kurze Bühnentexte zum Immer-wieder-Reinhören.",
-  "tags": {
-   "genres": [
-    "Comedy",
-    "Kabarett"
-   ],
-   "stimmung": [
-    "nachdenklich",
-    "humorvoll"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag"
-   ],
-   "anlass": [
-    "beim Bügeln"
-   ],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/So-Jung-brechen-wir-nicht-mehr-zusammen-Hoerbuch/B0HCZN81D2",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-31"
- },
- {
-  "id": "r-B0HD74JXMS",
-  "asin": "B0HD74JXMS",
-  "titel": "Im Fluss - Live 2026",
-  "autor": "Urban Priol",
-  "sprecher": "Urban Priol",
-  "begruendung": "Politisches Kabarett mit Tempo und Wortwitz – frisch von der Live-Bühne 2026, für alle Abende zwischen Krömer und Sträter.",
-  "tags": {
-   "genres": [
-    "Kabarett",
-    "Politsatire"
-   ],
-   "stimmung": [
-    "bissig",
-    "aktuell"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Politik",
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/Im-Fluss-Live-2026-Hoerbuch/B0HD74JXMS",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-31"
- },
- {
-  "id": "r-B0FL2WLWT7",
-  "asin": "B0FL2WLWT7",
-  "titel": "Nie war Früher schöner als Jetzt",
-  "autor": "Oliver Kalkofe",
-  "sprecher": "Oliver Kalkofe",
-  "begruendung": "Boomer-Nostalgie mit Kalkofes typisch bissigem Wortwitz – passt genau in die Comedy-Ecke, die du am liebsten hörst.",
-  "tags": {
-   "genres": [
-    "Comedy",
-    "Satire"
-   ],
-   "stimmung": [
-    "nostalgisch",
-    "witzig"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Alltag",
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "beim Bügeln"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/Nie-war-Frueher-schoener-als-Jetzt-Hoerbuch/B0FL2WLWT7",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-31"
- },
- {
-  "id": "r-B0GWJ8QJ8M",
-  "asin": "B0GWJ8QJ8M",
-  "titel": "Das Buch des Charlie Sheen",
-  "autor": "Charlie Sheen",
-  "sprecher": "Michael J. Diekmann",
-  "begruendung": "Schonungslos-ehrliche Hollywood-Beichte, gelesen von Michael J. Diekmann, der auch Elon Musks Biografie für dich vertont hat.",
-  "tags": {
-   "genres": [
-    "Biografie"
-   ],
-   "stimmung": [
-    "schonungslos",
-    "ehrlich"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "lange Reise"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B017K8W5PM",
-  "audible_url": "https://www.audible.de/pd/Das-Buch-des-Charlie-Sheen-Hoerbuch/B0GWJ8QJ8M",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-31"
- },
- {
-  "id": "r-B0H9XY6P51",
-  "asin": "B0H9XY6P51",
-  "titel": "GLAUBE, LIEBE, KLOPP: Jürgen Klopp und die Neuerfindung des Fußballs - Die Biographie",
-  "autor": "Michael Horeni",
-  "sprecher": "Martin May",
-  "begruendung": "Eine Sportler-Biografie mit Tiefgang, wie Zlatans und Obamas Bücher in deinem Regal – diesmal übers Trainerleben und den Glauben dahinter.",
-  "tags": {
-   "genres": [
-    "Biografie",
-    "Sport"
-   ],
-   "stimmung": [
-    "inspirierend"
-   ],
-   "laenge": "episch",
-   "themen": [
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B09VPYXHRC",
-  "audible_url": "https://www.audible.de/pd/GLAUBE-LIEBE-KLOPP-Hoerbuch/B0H9XY6P51",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-08-31"
- },
- {
   "id": "r-B01FXMYXXY",
   "asin": "B01FXMYXXY",
   "titel": "In dubio pro Vino",
@@ -5515,5 +5282,154 @@
   "audible_url": "https://www.audible.de/pd/Nur-Nuhr-Hoerbuch/B01G3VEJZG",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-09-27"
+ },
+ {
+  "id": "r-B0FHQDTGYW",
+  "asin": "B0FHQDTGYW",
+  "titel": "8000 Arten, als Mutter zu versagen",
+  "autor": "Carolin Kebekus",
+  "sprecher": "Carolin Kebekus",
+  "begruendung": "Kebekus kennst du schon als Mitsprecherin aus „Beim Dehnen singe ich Balladen“ – hier übernimmt sie solo und rechnet schonungslos komisch mit dem Mutterschafts-Ideal ab.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "ehrlich"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Alltag"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B00S8FUOI2",
+  "audible_url": "https://www.audible.de/pd/8000-Arten-als-Mutter-zu-versagen-Hoerbuch/B0FHQDTGYW",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-30"
+ },
+ {
+  "id": "r-B0CKXZ33J4",
+  "asin": "B0CKXZ33J4",
+  "titel": "Willkommen im falschen Film",
+  "autor": "Monika Gruber, Andreas Hock",
+  "sprecher": "Monika Gruber, Andreas Hock",
+  "begruendung": "Bayerisches Pendant zu Nuhrs Zivilisationskritik: Gruber seziert mit bissigem Witz Wärmepumpen-Debatten und Corona-Nachwehen.",
+  "tags": {
+   "genres": [
+    "Kabarett",
+    "Comedy"
+   ],
+   "stimmung": [
+    "bissig",
+    "witzig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Gesellschaft",
+    "Alltag"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0CMQWBR43",
+  "audible_url": "https://www.audible.de/pd/Willkommen-im-falschen-Film-Hoerbuch/B0CKXZ33J4",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-30"
+ },
+ {
+  "id": "r-B09NQDRH87",
+  "asin": "B09NQDRH87",
+  "titel": "Finding My Virginity",
+  "autor": "Richard Branson",
+  "sprecher": "Michael J. Diekmann",
+  "begruendung": "Der zweite Teil, zwanzig Jahre nach „Losing My Virginity“ – wieder von Diekmann gelesen, diesmal mit Weltraumflügen, Rückschlägen und der ehrlicheren Bilanz eines Unternehmerlebens.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Wirtschaft"
+   ],
+   "stimmung": [
+    "inspirierend",
+    "ehrlich"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "3960928505",
+  "audible_url": "https://www.audible.de/pd/Finding-My-Virginity-Hoerbuch/B09NQDRH87",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-30"
+ },
+ {
+  "id": "r-B006IRBNW8",
+  "asin": "B006IRBNW8",
+  "titel": "Steve Jobs: Die autorisierte Biografie des Apple-Gründers",
+  "autor": "Walter Isaacson",
+  "sprecher": "Frank Arnold",
+  "begruendung": "Der andere Tech-Visionär neben Musk: genauso besessen, genauso widersprüchlich – die autorisierte Biografie, die auch die hässlichen Seiten von Apples Aufstieg nicht auslässt.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "spannend",
+    "inspirierend"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B017K8W5PM",
+  "audible_url": "https://www.audible.de/pd/Steve-Jobs-Hoerbuch/B006IRBNW8",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-30"
+ },
+ {
+  "id": "r-B09FLY9ZDY",
+  "asin": "B09FLY9ZDY",
+  "titel": "Es kann nur eine geben",
+  "autor": "Carolin Kebekus, Mariella Tripke",
+  "sprecher": "Carolin Kebekus",
+  "begruendung": "Bevor sie in „Beim Dehnen singe ich Balladen“ mitsprach, rechnete Kebekus hier mit dem Sexismus im Comedy-Business ab – ihr erstes und meistgehörtes Buch.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "frech",
+    "selbstbewusst"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Gesellschaft",
+    "Politik"
+   ],
+   "anlass": [],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B00S8FUOI2",
+  "audible_url": "https://www.audible.de/pd/Es-kann-nur-eine-geben-Hoerbuch/B09FLY9ZDY",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-09-30"
  }
 ]
