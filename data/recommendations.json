@@ -1913,184 +1913,6 @@
   "aufgenommen_am": "2026-08-07"
  },
  {
-  "id": "r-B01FXMYXXY",
-  "asin": "B01FXMYXXY",
-  "titel": "In dubio pro Vino",
-  "autor": "Carsten Sebastian Henn",
-  "sprecher": "Jürgen von der Lippe",
-  "begruendung": "Von der Lippe liest hier nicht seine eigenen Pointen, sondern einen kulinarischen Weinkrimi – dieselbe warme Stimme, diesmal mit Mordfall im Weinberg.",
-  "tags": {
-   "genres": [
-    "Krimi",
-    "Comedy"
-   ],
-   "stimmung": [
-    "kurzweilig",
-    "humorvoll"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Krimi-Fälle",
-    "Reisen"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/B01FXMYXXY",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-02"
- },
- {
-  "id": "r-B00L2FO7ZG",
-  "asin": "B00L2FO7ZG",
-  "titel": "Der Mann mit den schönen Füßen",
-  "autor": "Arto Paasilinna",
-  "sprecher": "Jürgen von der Lippe",
-  "begruendung": "Nach „Im Jenseits ist die Hölle los“ wieder Paasilinnas skurriler finnischer Humor, wieder von der Lippes trockener Vortrag.",
-  "tags": {
-   "genres": [
-    "Belletristik",
-    "Comedy"
-   ],
-   "stimmung": [
-    "skurril",
-    "witzig"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Alltag",
-    "Gesellschaft"
-   ],
-   "anlass": [],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "3838792122",
-  "audible_url": "https://www.audible.de/pd/B00L2FO7ZG",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-02"
- },
- {
-  "id": "r-B07BMR6FTX",
-  "asin": "B07BMR6FTX",
-  "titel": "Selbstfreundschaft: Wie das Leben leichter wird",
-  "autor": "Wilhelm Schmid",
-  "sprecher": "Jürgen von der Lippe",
-  "begruendung": "Von der Lippe liest hier mal kein Comedy-Programm, sondern leise Lebensphilosophie – thematisch nah an seiner eigenen „Kurzen Geschichte der Trunkenheit“.",
-  "tags": {
-   "genres": [
-    "Sachbuch",
-    "Ratgeber"
-   ],
-   "stimmung": [
-    "nachdenklich",
-    "beruhigend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag"
-   ],
-   "anlass": [
-    "zum Einschlafen"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/B07BMR6FTX",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-02"
- },
- {
-  "id": "r-3960928505",
-  "asin": "3960928505",
-  "titel": "Losing My Virginity: Die Autobiografie",
-  "autor": "Richard Branson",
-  "sprecher": "Michael J. Diekmann",
-  "begruendung": "Diekmann, der schon Elon Musks Biografie liest, erzählt hier Bransons Weg vom Schulabbrecher zum Virgin-Imperium – Unternehmertum mit demselben Wow-Faktor.",
-  "tags": {
-   "genres": [
-    "Biografie",
-    "Wirtschaft"
-   ],
-   "stimmung": [
-    "inspirierend"
-   ],
-   "laenge": "episch",
-   "themen": [
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "lange Reise"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/Losing-My-Virginity-Hoerbuch/3960928505",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-02"
- },
- {
-  "id": "r-B09D42GHCD",
-  "asin": "B09D42GHCD",
-  "titel": "David Rockefeller - Erinnerungen eines Weltbankiers",
-  "autor": "David Rockefeller",
-  "sprecher": "Michael J. Diekmann",
-  "begruendung": "Wieder Diekmanns Stimme, wieder große Wirtschaftsgeschichte – diesmal aus erster Hand von einem der einflussreichsten Bankiers des 20. Jahrhunderts.",
-  "tags": {
-   "genres": [
-    "Biografie",
-    "Wirtschaft"
-   ],
-   "stimmung": [
-    "informativ"
-   ],
-   "laenge": "episch",
-   "themen": [
-    "Gesellschaft",
-    "Geschichte"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/David-Rockefeller-Erinnerungen-eines-Weltbankiers-Hoerbuch/B09D42GHCD",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-02"
- },
- {
-  "id": "r-B0B68VB4W5",
-  "asin": "B0B68VB4W5",
-  "titel": "Money: Die 7 einfachen Schritte zur finanziellen Freiheit",
-  "autor": "Tony Robbins",
-  "sprecher": "Michael J. Diekmann",
-  "begruendung": "Nach den Unternehmer-Biografien der Praxisteil: Robbins destilliert Interviews mit Warren Buffett & Co. zu handfesten Finanz-Strategien, wieder von Diekmann gelesen.",
-  "tags": {
-   "genres": [
-    "Sachbuch",
-    "Wirtschaft"
-   ],
-   "stimmung": [
-    "motivierend"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/Money-Hoerbuch/B0B68VB4W5",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-02"
- },
- {
   "id": "r-B004V5V1US",
   "asin": "B004V5V1US",
   "titel": "Leichenpuzzle",
@@ -5431,5 +5253,160 @@
   "audible_url": "https://www.audible.de/pd/Es-kann-nur-eine-geben-Hoerbuch/B09FLY9ZDY",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-09-30"
+ },
+ {
+  "id": "r-3837146510",
+  "asin": "3837146510",
+  "titel": "Krassvieldrinpaket 2012-2018",
+  "autor": "Sebastian Pufpaff",
+  "sprecher": "Sebastian Pufpaff",
+  "begruendung": "Pufpaff bringt denselben hintersinnigen Wortwitz mit wie Jürgen von der Lippe in deinem Regal – hier sein bisher unveröffentlichtes Material aus sechs Jahren Bühnenarbeit.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Kabarett"
+   ],
+   "stimmung": [
+    "witzig",
+    "frech"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "beim Bügeln",
+    "fürs Auto"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B00S8FUOI2",
+  "audible_url": "https://www.audible.de/pd/3837146510",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-01"
+ },
+ {
+  "id": "r-383714352X",
+  "asin": "383714352X",
+  "titel": "Nuhr - die Box 3",
+  "autor": "Dieter Nuhr",
+  "sprecher": "Dieter Nuhr",
+  "begruendung": "Noch mehr Nuhr fürs Regal: Diese Box bündelt drei seiner Programme – falls dir „Nuhr auf Tour“ nicht gereicht hat.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Kabarett"
+   ],
+   "stimmung": [
+    "pointiert",
+    "nachdenklich"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Politik",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "fürs Auto",
+    "lange Reise"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B0CMQWBR43",
+  "audible_url": "https://www.audible.de/pd/383714352X",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-01"
+ },
+ {
+  "id": "r-B07CGQVS8X",
+  "asin": "B07CGQVS8X",
+  "titel": "Die komplette Wahrheit über Deutschland 2",
+  "autor": "Dieter Nuhr, Hagen Rether, Carolin Kebekus, Horst Evers, Jess Jochimsen, Gayle Tufts",
+  "sprecher": "Dieter Nuhr, Hagen Rether, Carolin Kebekus, Horst Evers, Jess Jochimsen, Gayle Tufts",
+  "begruendung": "Mit Carolin Kebekus (die du gerade erst fürs Regal entdeckt hast) und Dieter Nuhr vereint diese Kabarett-Sammlung gleich zwei deiner Favoriten auf einer Bühne.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Politsatire"
+   ],
+   "stimmung": [
+    "bissig",
+    "politisch"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Gesellschaft",
+    "Politik"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B09FLY9ZDY",
+  "audible_url": "https://www.audible.de/pd/B07CGQVS8X",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-01"
+ },
+ {
+  "id": "r-B0D3V3GQKX",
+  "asin": "B0D3V3GQKX",
+  "titel": "Startschuss Live",
+  "autor": "Ingo Appelt",
+  "sprecher": "Ingo Appelt",
+  "begruendung": "Lauter, frecher Stand-up wie bei Mario Barth – Appelt teilt in seinem aktuellen Programm ungefragt gegen den Zeitgeist aus.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "frech",
+    "laut"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "3803285437",
+  "audible_url": "https://www.audible.de/pd/Startschuss-Live-Hoerbuch/B0D3V3GQKX",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-01"
+ },
+ {
+  "id": "r-B0DSCCFM8M",
+  "asin": "B0DSCCFM8M",
+  "titel": "Niki: Stories vom Champion",
+  "autor": "Herbert Völker",
+  "sprecher": "Günter Schoßböck",
+  "begruendung": "Eine Motorsport-Legende hautnah erzählt von einem langjährigen Weggefährten – im selben persönlichen Ton wie Zlatans „Adrenalin“ in deinem Regal, nur diesmal aus der Boxengasse.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Sport"
+   ],
+   "stimmung": [
+    "persönlich",
+    "nostalgisch"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Sport",
+    "Geschichte"
+   ],
+   "anlass": [
+    "lange Reise",
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B09VPYXHRC",
+  "audible_url": "https://www.audible.de/pd/Niki-Hoerbuch/B0DSCCFM8M",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-01"
  }
 ]
