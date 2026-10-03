@@ -5427,5 +5427,147 @@
   "audible_url": "https://www.audible.de/pd/Wie-immer-Chefsache-Hoerbuch/B004V3J562",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-10-02"
+ },
+ {
+  "id": "r-B09J58B24V",
+  "asin": "B09J58B24V",
+  "titel": "Das NEINhorn und die SchLANGEWEILE",
+  "autor": "Marc-Uwe Kling",
+  "sprecher": "Marc-Uwe Kling",
+  "begruendung": "Nach \"Das NEINhorn und seine Freunde\" und \"der Geburtstag\" fehlt dir noch diese Folge, in der NEINhorn und KönigsDOCHter sich streiten, ohne noch zu wissen, worum es ging – perfekt für einen Samstag mit den Kindern.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0CW9WXKDF",
+  "audible_url": "https://www.audible.de/pd/B09J58B24V",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-03"
+ },
+ {
+  "id": "r-B00C8TLPE6",
+  "asin": "B00C8TLPE6",
+  "titel": "Die Geheimsprache: Bibi Blocksberg 107",
+  "autor": "Klaus-Peter Weigand",
+  "sprecher": "Susanna Bonaséwicz, Dorette Hugo, Julia Ziffer",
+  "begruendung": "Bibi Blocksberg Folge 1 hast du schon gehört – Folge 107 bringt Bibi und ihre Freundinnen mit einer Geheimsprache in Schwierigkeiten, ideal für einen Hörspiel-Nachmittag mit den Kindern.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "spannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B004JVIFYE",
+  "audible_url": "https://www.audible.de/pd/B00C8TLPE6",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-03"
+ },
+ {
+  "id": "r-B004JVIT1I",
+  "asin": "B004JVIT1I",
+  "titel": "Benjamin als Gärtner",
+  "autor": "Elfie Donnelly",
+  "sprecher": "Edgar Ott, Katja Primel, Joachim Nottke",
+  "begruendung": "Der Hörspiel-Dauerbrenner Benjamin Blümchen fehlt noch in eurer Sammlung – hier stolpert der Elefant als tollpatschiger Gärtner durch den Zoo, zum gemeinsamen Hören am Samstag.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B004JVIFYE",
+  "audible_url": "https://www.audible.de/pd/B004JVIT1I",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-03"
+ },
+ {
+  "id": "r-B083K7MF2F",
+  "asin": "B083K7MF2F",
+  "titel": "In der Natur mit Pettersson und Findus",
+  "autor": "Angela Strunck",
+  "sprecher": "Thomas Karallus, Wolf Frass, Sten Brettschneider",
+  "begruendung": "Eure Pettersson-und-Findus-10er-Box steht schon im Regal – diese eigenständige Natur-Geschichte der beiden passt perfekt zum gemeinsamen Hören am Wochenende.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "ruhig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Tiere",
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0BHZJB8W6",
+  "audible_url": "https://www.audible.de/pd/B083K7MF2F",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-03"
+ },
+ {
+  "id": "r-B0CRS25X26",
+  "asin": "B0CRS25X26",
+  "titel": "Die Olchis im Land der Drachen",
+  "autor": "Erhard Dietl",
+  "sprecher": "Monty Arnold, Wolf Frass, Nadine Schreier",
+  "begruendung": "Für einen lauten, fröhlichen Samstag: Die Olchis ziehen diesmal ins Land der Drachen – schmuddelig-witziges Hörspiel zum gemeinsamen Hören mit den Kindern.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer",
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B0CRS25X26",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-03"
  }
 ]
