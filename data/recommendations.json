@@ -1999,184 +1999,6 @@
   "aufgenommen_am": "2026-09-04"
  },
  {
-  "id": "r-B007AGMCEY",
-  "asin": "B007AGMCEY",
-  "titel": "Sommerfest",
-  "autor": "Frank Goosen",
-  "sprecher": "Frank Goosen",
-  "begruendung": "Nach „Radio Heimat\" kennt sie Goosens warmherzigen Ruhrgebiets-Ton schon – dieser wehmütig-komische Heimkehrer-Roman ist genau dieselbe ruhige Vorleseabend-Stimmung.",
-  "tags": {
-   "genres": [
-    "Belletristik"
-   ],
-   "stimmung": [
-    "warmherzig",
-    "entspannend"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Ruhrpott",
-    "Alltag"
-   ],
-   "anlass": [
-    "zum Einschlafen"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/Sommerfest-Hoerbuch/B007AGMCEY",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-07"
- },
- {
-  "id": "r-B004V38BM6",
-  "asin": "B004V38BM6",
-  "titel": "Weil Sie es sind",
-  "autor": "Kai Magnus Sting",
-  "sprecher": "Kai Magnus Sting",
-  "begruendung": "Kai Magnus Sting kennt sie vom Ruhrpott-Humor her – hier philosophiert er leise und schmunzelnd statt live vor Publikum zu toben, ideal zum Runterkommen.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig",
-    "entspannend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Ruhrpott",
-    "Alltag"
-   ],
-   "anlass": [
-    "zum Einschlafen"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B06XCFQJ2B",
-  "audible_url": "https://www.audible.de/pd/B004V38BM6",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-07"
- },
- {
-  "id": "r-B0F3JGZR22",
-  "asin": "B0F3JGZR22",
-  "titel": "Der Pinguin, der fliegen lernte",
-  "autor": "Eckart von Hirschhausen",
-  "sprecher": "Eckart von Hirschhausen",
-  "begruendung": "Genau die Art leichtes, herzliches Sachbuch, das sie mag – Hirschhausen erzählt sanft und ohne Hektik von einem Pinguin, der sein Element findet.",
-  "tags": {
-   "genres": [
-    "Sachbuch"
-   ],
-   "stimmung": [
-    "herzerwärmend",
-    "nachdenklich"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Wissenschaft",
-    "Alltag"
-   ],
-   "anlass": [
-    "zum Einschlafen"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/B0F3JGZR22",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-07"
- },
- {
-  "id": "r-B004UW0VYE",
-  "asin": "B004UW0VYE",
-  "titel": "Indiskret",
-  "autor": "Frank Goosen",
-  "sprecher": "Frank Goosen",
-  "begruendung": "Wieder Goosen im „Radio Heimat\"-Modus: ruhig erzählte, nostalgische Geschichten aus Kindheit und Jugend statt Live-Trubel – bestens zum Einschlafen.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "warmherzig",
-    "entspannend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Ruhrpott",
-    "Familie"
-   ],
-   "anlass": [
-    "zum Einschlafen"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/B004UW0VYE",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-07"
- },
- {
-  "id": "r-B01LY8O6RE",
-  "asin": "B01LY8O6RE",
-  "titel": "Born to Run: Die Autobiografie",
-  "autor": "Bruce Springsteen",
-  "sprecher": "Thees Uhlmann",
-  "begruendung": "Wie schon bei „Ein verheißenes Land\" mag er nachdenkliche Biografien großer Persönlichkeiten – Springsteen erzählt hier ruhig und ehrlich von seinem Leben.",
-  "tags": {
-   "genres": [
-    "Biografie"
-   ],
-   "stimmung": [
-    "nachdenklich",
-    "entspannend"
-   ],
-   "laenge": "episch",
-   "themen": [
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "zum Einschlafen"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/B01LY8O6RE",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-07"
- },
- {
-  "id": "r-395862622X",
-  "asin": "395862622X",
-  "titel": "Franz Beckenbauer: Der freie Mann",
-  "autor": "Torsten Körner",
-  "sprecher": "Johannes Steck",
-  "begruendung": "Nach seiner Zlatan-Biografie passt diese ruhig erzählte Fußballer-Lebensgeschichte gut ins Regal – kein Skandal-Ton, sondern ein besonnenes Porträt.",
-  "tags": {
-   "genres": [
-    "Biografie"
-   ],
-   "stimmung": [
-    "nachdenklich",
-    "entspannend"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Sport"
-   ],
-   "anlass": [
-    "zum Einschlafen"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/395862622X",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-07"
- },
- {
   "id": "r-B07HRS78ZB",
   "asin": "B07HRS78ZB",
   "titel": "Liebe 7",
@@ -5509,5 +5331,155 @@
   "audible_url": "https://www.audible.de/pd/B0GN8QC4JG",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-10-05"
+ },
+ {
+  "id": "r-3837146944",
+  "asin": "3837146944",
+  "titel": "Achtsam morden",
+  "autor": "Karsten Dusse",
+  "sprecher": "Matthias Matschke",
+  "begruendung": "Schwarzhumorige Krimi-Komödie wie „Tod unter Gurken“: Anwalt Björn Diemel wendet Achtsamkeitstechniken auf seinen kriminellen Mandanten an – mit Matthias Matschke als bissig-komischem Erzähler.",
+  "tags": {
+   "genres": [
+    "Krimi",
+    "Comedy"
+   ],
+   "stimmung": [
+    "schwarzhumorig",
+    "witzig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle",
+    "Alltag"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B06XCFQJ2B",
+  "audible_url": "https://www.audible.de/pd/3837146944",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-06"
+ },
+ {
+  "id": "r-3732455351",
+  "asin": "3732455351",
+  "titel": "Miss Merkel - Mord in der Uckermark",
+  "autor": "David Safier",
+  "sprecher": "Nana Spier",
+  "begruendung": "Politsatire trifft Krimi: Eine fiktiv pensionierte Kanzlerin ermittelt mit ihrem Pudel in der Uckermark – dieselbe Mischung aus Kabarett-Witz und Krimi-Spaß wie bei den Känguru-Chroniken, nur mit echtem Mordfall.",
+  "tags": {
+   "genres": [
+    "Krimi",
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "charmant"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle",
+    "Politik"
+   ],
+   "anlass": [],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B008MLO9ZG",
+  "audible_url": "https://www.audible.de/pd/3732455351",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-06"
+ },
+ {
+  "id": "r-B004V7YQX0",
+  "asin": "B004V7YQX0",
+  "titel": "Föhnlage: Ein Alpenkrimi",
+  "autor": "Jörg Maurer",
+  "sprecher": "Jörg Maurer",
+  "begruendung": "Alpenkrimi mit trockenem bayerischem Humor, vom Autor selbst gelesen – genauso schrullig-regional wie „VIEWS“, nur mit Kommissar Jennerwein als neuem Serienstart.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "witzig",
+    "trocken"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle",
+    "Alltag"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0D5QQW386",
+  "audible_url": "https://www.audible.de/pd/B004V7YQX0",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-06"
+ },
+ {
+  "id": "r-B0D17LTS3Y",
+  "asin": "B0D17LTS3Y",
+  "titel": "Einstein: Die Biografie",
+  "autor": "Walter Isaacson",
+  "sprecher": "Frank Arnold",
+  "begruendung": "Isaacson (derselbe Autor wie bei deiner Elon-Musk-Biografie) seziert, wie ein unscheinbarer Patentamt-Angestellter mit Sturheit die Physik revolutionierte – genauso eine „Wie ein Mensch die Welt verändert hat“-Erzählung wie Obamas „Ein verheißenes Land“.",
+  "tags": {
+   "genres": [
+    "Biografie"
+   ],
+   "stimmung": [
+    "nachdenklich",
+    "inspirierend"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Wissenschaft",
+    "Geschichte"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "3844542078",
+  "audible_url": "https://www.audible.de/pd/B0D17LTS3Y",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-06"
+ },
+ {
+  "id": "r-B00JAEIY2I",
+  "asin": "B00JAEIY2I",
+  "titel": "Der lange Weg zur Freiheit",
+  "autor": "Nelson Mandela",
+  "sprecher": "Thomas Balou Martin",
+  "begruendung": "Die Autobiografie eines Mannes, der nach fast drei Jahrzehnten Gefängnis zum globalen Symbol für Versöhnung wurde – genauso eine „Wie eine Person die Welt verändert hat“-Geschichte wie Obamas „Ein verheißenes Land“, nur mit noch größerem historischem Gewicht.",
+  "tags": {
+   "genres": [
+    "Biografie"
+   ],
+   "stimmung": [
+    "bewegend",
+    "inspirierend"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Geschichte",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "3844542078",
+  "audible_url": "https://www.audible.de/pd/B00JAEIY2I",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-06"
  }
 ]
