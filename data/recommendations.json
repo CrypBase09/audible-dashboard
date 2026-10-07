@@ -1999,153 +1999,6 @@
   "aufgenommen_am": "2026-09-04"
  },
  {
-  "id": "r-B07HRS78ZB",
-  "asin": "B07HRS78ZB",
-  "titel": "Liebe 7",
-  "autor": "Hagen Rether",
-  "sprecher": "Hagen Rether",
-  "begruendung": "Wie „Nuhr auf Tour“, nur leiser und am Klavier: Rether nimmt sich in seinem Programm „Liebe“ scheinbar nebenbei Politik und Gesellschaft vor – bissig und nachdenklich zugleich.",
-  "tags": {
-   "genres": [
-    "Kabarett"
-   ],
-   "stimmung": [
-    "nachdenklich",
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Politik",
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "beim Bügeln"
-   ],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "B0CMQWBR43",
-  "audible_url": "https://www.audible.de/pd/B07HRS78ZB",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-08"
- },
- {
-  "id": "r-B0CZ9J9QJ8",
-  "asin": "B0CZ9J9QJ8",
-  "titel": "Brüssel sehen und sterben",
-  "autor": "Nico Semsrott",
-  "sprecher": "Marian Funk",
-  "begruendung": "Fünf Jahre EU-Parlament, trockener Humor wie bei „Nuhr auf Tour“ – nur dass Semsrott von innen erzählt, was in Brüssel wirklich schiefläuft.",
-  "tags": {
-   "genres": [
-    "Kabarett",
-    "Politsatire"
-   ],
-   "stimmung": [
-    "trocken",
-    "nachdenklich"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Politik",
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "beim Bügeln"
-   ],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "B0CMQWBR43",
-  "audible_url": "https://www.audible.de/pd/B0CZ9J9QJ8",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-08"
- },
- {
-  "id": "r-B0BW4QRSP6",
-  "asin": "B0BW4QRSP6",
-  "titel": "PussyNation",
-  "autor": "Carolin Kebekus, Claudius Pläging, Mariella Tipke, Tommi Schmitt",
-  "sprecher": "Carolin Kebekus",
-  "begruendung": "Genau die Carolin Kebekus, die schon im „witzigsten Vorleseabend der Welt“ mitmischt – hier mit eigenem Ensemble-Programm über Beziehungen und Alltagssexismus, frech und laut.",
-  "tags": {
-   "genres": [
-    "Kabarett",
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig",
-    "frech"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Beziehung",
-    "Alltag"
-   ],
-   "anlass": [],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "B07BSGRV26",
-  "audible_url": "https://www.audible.de/pd/B0BW4QRSP6",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-08"
- },
- {
-  "id": "r-B01GEKODF2",
-  "asin": "B01GEKODF2",
-  "titel": "Zwei wie ich",
-  "autor": "Dagmar Schönleber",
-  "sprecher": "Dagmar Schönleber",
-  "begruendung": "Selbstironisch wie „Beim Dehnen singe ich Balladen“, nur mit mehr Musik: Schönleber hadert charmant mit sich selbst als ostwestfälische Wahlkölnerin.",
-  "tags": {
-   "genres": [
-    "Kabarett"
-   ],
-   "stimmung": [
-    "nachdenklich",
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag"
-   ],
-   "anlass": [
-    "beim Bügeln"
-   ],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "B00S8FUOI2",
-  "audible_url": "https://www.audible.de/pd/B01GEKODF2",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-08"
- },
- {
-  "id": "r-3745312015",
-  "asin": "3745312015",
-  "titel": "Hoeneß: Die Biografie",
-  "autor": "Patrick Strasser, Günter Klein",
-  "sprecher": "Michael A. Grimm",
-  "begruendung": "Nach Zlatans „Adrenalin“ die deutsche Fußball-Antwort: Spieler, Manager, Häftling, Comeback-Präsident – Hoeneß' Leben in einem Buch, so kantig wie er selbst.",
-  "tags": {
-   "genres": [
-    "Biografie",
-    "Sport"
-   ],
-   "stimmung": [
-    "nachdenklich",
-    "spannend"
-   ],
-   "laenge": "episch",
-   "themen": [
-    "Sport"
-   ],
-   "anlass": [],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B09VPYXHRC",
-  "audible_url": "https://www.audible.de/pd/Hoeness-Hoerbuch/3745312015",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-08"
- },
- {
   "id": "r-B004V1RFDO",
   "asin": "B004V1RFDO",
   "titel": "Resturlaub",
@@ -5481,5 +5334,153 @@
   "audible_url": "https://www.audible.de/pd/B00JAEIY2I",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-10-06"
+ },
+ {
+  "id": "r-B0CJBY3YQC",
+  "asin": "B0CJBY3YQC",
+  "titel": "Comedy Readings - Die lustigste Lesung",
+  "autor": "Moritz Netenjakob, Roger Schmelzer",
+  "sprecher": "Bastian Pastewka, Annette Frier, Bettina Lamprecht, Matthias Matschke, Max Giermann, Chris Geletneky",
+  "begruendung": "Max Giermann liest hier live mit Pastewka, Frier und Co. zwei unveröffentlichte Sitcom-Drehbücher – dieselbe Ensemble-Energie wie beim „witzigsten Vorleseabend der Welt“.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Hörspiel"
+   ],
+   "stimmung": [
+    "witzig",
+    "frech"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle",
+    "Beziehung"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B07BSGRV26",
+  "audible_url": "https://www.audible.de/pd/B0CJBY3YQC",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-07"
+ },
+ {
+  "id": "r-B0D1RML5D4",
+  "asin": "B0D1RML5D4",
+  "titel": "Das Albtraumschiff - Crazy Cruise",
+  "autor": "Chris Geletneky, Morten Kühne, Björn Mannel, Mark Werner, Bastian Pastewka",
+  "sprecher": "Bastian Pastewka, Bettina Lamprecht, Chris Geletneky, Annette Frier, Max Giermann",
+  "begruendung": "Noch eine Festival-Lesung mit Giermann und Pastewka, diesmal als Kreuzfahrt-Parodie – kurz und albern wie „Der König der Tiere“.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Hörspiel"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Reisen",
+    "Alltag"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B01N5D6SXV",
+  "audible_url": "https://www.audible.de/pd/B0D1RML5D4",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-07"
+ },
+ {
+  "id": "r-B0B1QQGQTK",
+  "asin": "B0B1QQGQTK",
+  "titel": "Bastian Pastewka liest ...und der grüne Geist",
+  "autor": "Robert Arthur",
+  "sprecher": "Bastian Pastewka",
+  "begruendung": "Pastewka liest einen Fall der drei ??? – derselbe trockene Ton wie bei seinen Gurken-Krimis, nur dieses Mal für die ganze Familie.",
+  "tags": {
+   "genres": [
+    "Krimi",
+    "Kinder"
+   ],
+   "stimmung": [
+    "spannend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B06XCFQJ2B",
+  "audible_url": "https://www.audible.de/pd/B0B1QQGQTK",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-07"
+ },
+ {
+  "id": "r-B0GSG6NSHR",
+  "asin": "B0GSG6NSHR",
+  "titel": "Hummelhirn",
+  "autor": "Judith Holofernes",
+  "sprecher": "Nora Tschirner",
+  "begruendung": "Nora Tschirner, schon aus „Der König der Tiere“ bekannt, liest hier Judith Holofernes' bittersüße Kindheitserinnerungen – tragikomisch und warm wie „Beim Dehnen singe ich Balladen“.",
+  "tags": {
+   "genres": [
+    "Belletristik"
+   ],
+   "stimmung": [
+    "witzig",
+    "nachdenklich"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Familie",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B01N5D6SXV",
+  "audible_url": "https://www.audible.de/pd/B0GSG6NSHR",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-07"
+ },
+ {
+  "id": "r-B0G4MYWQMD",
+  "asin": "B0G4MYWQMD",
+  "titel": "Vorsicht bissig!",
+  "autor": "Jochen Till",
+  "sprecher": "Robert Louis Griesbach",
+  "begruendung": "Robert Louis Griesbach, den du aus „Sex ist wie Mehl“ kennst, liest hier Monster-Geschichten für Kinder – albern-gruselig, passend für zwischendurch mit den Kindern.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Abenteuer",
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B09MWKWZNK",
+  "audible_url": "https://www.audible.de/pd/B0G4MYWQMD",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-07"
  }
 ]
