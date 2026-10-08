@@ -1999,156 +1999,6 @@
   "aufgenommen_am": "2026-09-04"
  },
  {
-  "id": "r-B004V1RFDO",
-  "asin": "B004V1RFDO",
-  "titel": "Resturlaub",
-  "autor": "Tommy Jaud",
-  "sprecher": "Christoph Maria Herbst",
-  "begruendung": "Christoph Maria Herbst liest hier genauso trocken wie in „Vollidiot\" und „Millionär\", die schon in deinem Regal liegen — nur flüchtet der Held diesmal aus der Midlife-Crisis nach Buenos Aires, wo alles noch schiefer läuft als geplant.",
-  "tags": {
-   "genres": [
-    "Comedy",
-    "Belletristik"
-   ],
-   "stimmung": [
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag",
-    "Reisen"
-   ],
-   "anlass": [
-    "lange Reise"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B00TSR3SQE",
-  "audible_url": "https://www.audible.de/pd/B004V1RFDO",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-09"
- },
- {
-  "id": "r-B06XH1H3GR",
-  "asin": "B06XH1H3GR",
-  "titel": "Bullenbrüder - Tote haben keine Freunde",
-  "autor": "Hans Rath, Edgar Rai",
-  "sprecher": "Christoph Maria Herbst",
-  "begruendung": "Zwei zerstrittene Brüder, ein Berliner Unterweltboss und Herbsts trockener Ton — der Serienauftakt zu einer Krimikomödie, genauso schwarzhumorig wie dein „Tod unter Gurken\".",
-  "tags": {
-   "genres": [
-    "Krimi",
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig",
-    "spannend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Krimi-Fälle",
-    "Familie"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B06XCFQJ2B",
-  "audible_url": "https://www.audible.de/pd/B06XH1H3GR",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-09"
- },
- {
-  "id": "r-B00NGRGR7E",
-  "asin": "B00NGRGR7E",
-  "titel": "Der Wunschpunsch",
-  "autor": "Michael Ende",
-  "sprecher": "Christoph Maria Herbst",
-  "begruendung": "Herbst kann mehr als schrägen Alltagshumor: Hier liest er Michael Endes Silvester-Klassiker über einen missglückten Zauberspruch — mit demselben Biss wie in seinen Jaud-Lesungen, aber diesmal zum gemeinsamen Vorlesen.",
-  "tags": {
-   "genres": [
-    "Kinder",
-    "Fantasy"
-   ],
-   "stimmung": [
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Familie",
-    "Abenteuer"
-   ],
-   "anlass": [
-    "mit den Kindern"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/B00NGRGR7E",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-09"
- },
- {
-  "id": "r-B00UN0J5CQ",
-  "asin": "B00UN0J5CQ",
-  "titel": "Menschen lesen",
-  "autor": "Joe Navarro",
-  "sprecher": "Michael J. Diekmann",
-  "begruendung": "Michael J. Diekmann, dessen Stimme du schon aus „Wie Elon Musk die Welt verändert\" kennst, liest hier den Ex-FBI-Agenten Joe Navarro: 25 Jahre Erfahrung im Enttarnen von Lügen über Körpersprache, kompakt und praxisnah.",
-  "tags": {
-   "genres": [
-    "Sachbuch"
-   ],
-   "stimmung": [
-    "spannend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Wissenschaft",
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B017K8W5PM",
-  "audible_url": "https://www.audible.de/pd/B00UN0J5CQ",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-09"
- },
- {
-  "id": "r-B07FQVN37P",
-  "asin": "B07FQVN37P",
-  "titel": "Dein Ego ist dein Feind",
-  "autor": "Ryan Holiday",
-  "sprecher": "Michael J. Diekmann",
-  "begruendung": "Noch einmal Diekmanns ruhige Stimme aus der Musk-Biografie, diesmal an Ryan Holidays Klassiker über die eigene Eitelkeit als größten Gegner — mit historischen Beispielen statt drögem Ratgeber-Ton.",
-  "tags": {
-   "genres": [
-    "Sachbuch",
-    "Wirtschaft"
-   ],
-   "stimmung": [
-    "motivierend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag",
-    "Wissenschaft"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B017K8W5PM",
-  "audible_url": "https://www.audible.de/pd/B07FQVN37P",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-09"
- },
- {
   "id": "r-B004V4S9L8",
   "asin": "B004V4S9L8",
   "titel": "Echtes Leder",
@@ -5482,5 +5332,148 @@
   "audible_url": "https://www.audible.de/pd/B0G4MYWQMD",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-10-07"
+ },
+ {
+  "id": "r-B0DVZL2G6B",
+  "asin": "B0DVZL2G6B",
+  "titel": "Safari",
+  "autor": "Michael Mittermeier",
+  "sprecher": "Michael Mittermeier",
+  "begruendung": "Mittermeier reist von Bayern bis in die afrikanische Savanne und nach Thailand, mit echten Dschungel-O-Tönen aus seinen Afrika-Expeditionen im Gepäck — ähnlich wie dich „Naked at Lunch\" schon um die Welt der Nudisten geführt hat, nur dieses Mal mit Löwen statt FKK.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Reisen",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B01CSUN5GA",
+  "audible_url": "https://www.audible.de/pd/B0DVZL2G6B",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-08"
+ },
+ {
+  "id": "r-B0DVTHPRQW",
+  "asin": "B0DVTHPRQW",
+  "titel": "Blackout",
+  "autor": "Michael Mittermeier",
+  "sprecher": "Michael Mittermeier",
+  "begruendung": "Verbale Explosivkörper feinster Güte zwischen Weltreise-Anekdoten und bitterböser Gesellschaftskritik — genauso pointiert wie „Nuhr auf Tour\", nur eine Spur schwärzer und bayerischer.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "düster"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B0CMQWBR43",
+  "audible_url": "https://www.audible.de/pd/B0DVTHPRQW",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-08"
+ },
+ {
+  "id": "r-B08QQCK9HK",
+  "asin": "B08QQCK9HK",
+  "titel": "SCHMERZFREI",
+  "autor": "Atze Schröder",
+  "sprecher": "Atze Schröder",
+  "begruendung": "Schröder nimmt sich live 25 Jahre Zeitgeschehen und die absurden Fragen des modernen Zusammenlebens vor — dieselbe Spielfreude wie bei „Dogensuppe Herzogin\", nur in der XXL-Halle statt auf der Kneipenbühne.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Beziehung"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B08P25CY8T",
+  "audible_url": "https://www.audible.de/pd/B08QQCK9HK",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-08"
+ },
+ {
+  "id": "r-B01N9TW1GF",
+  "asin": "B01N9TW1GF",
+  "titel": "Liebe 6",
+  "autor": "Hagen Rether",
+  "sprecher": "Hagen Rether",
+  "begruendung": "Rether seziert am Flügel gesellschaftliche Ungerechtigkeit und unsere Rolle als „willige Kollaborateure\" — politisches Kabarett mit Tiefgang, wie du es von „Nuhr auf Tour\" und der „Wahrheit über Deutschland\"-Reihe schon kennst.",
+  "tags": {
+   "genres": [
+    "Kabarett",
+    "Comedy"
+   ],
+   "stimmung": [
+    "nachdenklich",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Politik",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B0CMQWBR43",
+  "audible_url": "https://www.audible.de/pd/B01N9TW1GF",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-08"
+ },
+ {
+  "id": "r-3406744249",
+  "asin": "3406744249",
+  "titel": "Gerd Müller oder Wie das große Geld in den Fußball kam",
+  "autor": "Hans Woller",
+  "sprecher": "Christian Enner",
+  "begruendung": "Historiker Woller erzählt vom „achten Weltwunder des Fußballs\" — vom Jungen aus ärmsten Verhältnissen zum Weltstar und seinem Absturz in den Alkoholismus, zugleich eine kritische Geschichte des FC Bayern der 60er und 70er. Dieselbe Mischung aus Nähe und kritischer Distanz wie bei „Adrenalin\".",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Sport"
+   ],
+   "stimmung": [
+    "nachdenklich"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Sport",
+    "Geschichte"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B09VPYXHRC",
+  "audible_url": "https://www.audible.de/pd/3406744249",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-08"
  }
 ]
