@@ -1999,153 +1999,6 @@
   "aufgenommen_am": "2026-09-04"
  },
  {
-  "id": "r-B004V4S9L8",
-  "asin": "B004V4S9L8",
-  "titel": "Echtes Leder",
-  "autor": "Frank Goosen",
-  "sprecher": "Frank Goosen",
-  "begruendung": "Frank Goosen, dessen warme Ruhrpott-Stimme du schon aus „Radio Heimat\" kennst, nimmt sich hier liebevoll-ironisch das Fußballfan-Dasein vor — erster Stadionbesuch, Kindheitsidole, die ewige Frage nach Frauen und Fußball. Genauso schnodderig-warmherzig wie sein Ruhrpott-Ton.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig",
-    "nostalgisch"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Sport",
-    "Alltag"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "B004UXE5N6",
-  "audible_url": "https://www.audible.de/pd/B004V4S9L8",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-10"
- },
- {
-  "id": "r-B00XI4S7BO",
-  "asin": "B00XI4S7BO",
-  "titel": "Weiter",
-  "autor": "Wilfried Schmickler",
-  "sprecher": "Wilfried Schmickler",
-  "begruendung": "Wilfried Schmickler, den du schon aus „Lies meinen Text!\" an Malmsheimers Seite kennst, hier solo: bitterböses, kompromissloses Kabarett über die großen Themen der Zeit — in denselben Text-Kaskaden wie in „Es hört nicht auf\".",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "bissig",
-    "nachdenklich"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Gesellschaft",
-    "Politik"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "B0C9TZFGJL",
-  "audible_url": "https://www.audible.de/pd/B00XI4S7BO",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-10"
- },
- {
-  "id": "r-B004UWVJ9K",
-  "asin": "B004UWVJ9K",
-  "titel": "Hörspiele Vol. 1",
-  "autor": "Helge Schneider",
-  "sprecher": "Helge Schneider",
-  "begruendung": "Helge Schneiders früheste Hörspiele (1979–1987) in 18 kurzen, herrlich schrägen Sketchen — Sandkasten, Pommesbude, Arbeitsamt: absurder Alltagshumor in Häppchen, die perfekt in eine Bügel-Pause passen.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "skurril",
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag"
-   ],
-   "anlass": [
-    "beim Bügeln"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/B004UWVJ9K",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-10"
- },
- {
-  "id": "r-B00P1AV6CA",
-  "asin": "B00P1AV6CA",
-  "titel": "Warum!",
-  "autor": "Sebastian Pufpaff",
-  "sprecher": "Sebastian Pufpaff",
-  "begruendung": "Sebastian Pufpaff stellt Fragen, die man sich nie zu stellen traute, und liefert Antworten, die man eigentlich nicht hören wollte — bissig-intelligentes Kabarett, das in dieselbe Kerbe schlägt wie Schmicklers „Es hört nicht auf\".",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "bissig",
-    "nachdenklich"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag",
-    "Wissenschaft"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "B0C9TZFGJL",
-  "audible_url": "https://www.audible.de/pd/B00P1AV6CA",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-10"
- },
- {
-  "id": "r-B004KYLY1G",
-  "asin": "B004KYLY1G",
-  "titel": "Pärchenpassion. Gegensätze ziehen sich auf",
-  "autor": "Bülent Ceylan, Bodo Wartke, Philipp Weber",
-  "sprecher": "Bülent Ceylan, Bodo Wartke, Philipp Weber",
-  "begruendung": "Drei Comedians nehmen sich das Paar-Sein vor: Rollenbilder, Beziehungsalltag, Hochzeitsbräuche — mal gesungen, mal gespielt. Leichter und musikalischer als deine sonstigen Bühnenprogramme, aber genauso auf den Punkt.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig",
-    "herzerwärmend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Beziehung",
-    "Alltag"
-   ],
-   "form": "Bühnenprogramm",
-   "anlass": []
-  },
-  "aehnlich_wie": "B0GSZ9846C",
-  "audible_url": "https://www.audible.de/pd/B004KYLY1G",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-10"
- },
- {
   "id": "r-B0HGRLBYNG",
   "asin": "B0HGRLBYNG",
   "titel": "Das steinerne Himmelreich",
@@ -5475,5 +5328,148 @@
   "audible_url": "https://www.audible.de/pd/3406744249",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-10-08"
+ },
+ {
+  "id": "r-B0H8T6XJXF",
+  "asin": "B0H8T6XJXF",
+  "titel": "12. Tot an der Klippe",
+  "autor": "Robin Fuchs",
+  "sprecher": "Mirja Boes",
+  "begruendung": "Die Krimi-Comedy-Reihe, die genau deine Mischung aus Humor und gelegentlichem Krimi trifft (wie bei VIEWS) – hier schließt der Mallorca-Sommerfall seine Trilogie ab.",
+  "tags": {
+   "genres": [
+    "Krimi",
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "spannend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0D5QQW386",
+  "audible_url": "https://www.audible.de/pd/B0H8T6XJXF",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-09"
+ },
+ {
+  "id": "r-B0G13X4SNC",
+  "asin": "B0G13X4SNC",
+  "titel": "00-Laschet",
+  "autor": "David Safier",
+  "sprecher": "Thomas Nicolai",
+  "begruendung": "Politsatire mit Biss, wie du sie von Dieter Nuhr kennst – nur als abgedrehter Agenten-Roman über einen Kanzlerkandidaten, der eigentlich ein Spion ist.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Politsatire"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Politik",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0CMQWBR43",
+  "audible_url": "https://www.audible.de/pd/B0G13X4SNC",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-09"
+ },
+ {
+  "id": "r-B0H4ZL1CPM",
+  "asin": "B0H4ZL1CPM",
+  "titel": "Oktoberfest",
+  "autor": "Stefanie Sargnagel",
+  "sprecher": "Stefanie Sargnagel",
+  "begruendung": "Bissig-komische Alltagsbeobachtungen, kurz und selbst gelesen – im Geiste von Bokowskis „Feine Auslese”, nur mit Wiesn statt Ruhrpott.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Satire"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "3863912853",
+  "audible_url": "https://www.audible.de/pd/B0H4ZL1CPM",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-09"
+ },
+ {
+  "id": "r-B0BMB7D2H7",
+  "asin": "B0BMB7D2H7",
+  "titel": "Das Licht in uns",
+  "autor": "Michelle Obama",
+  "sprecher": "Katrin Fröhlich",
+  "begruendung": "Die Fortsetzung zu „Becoming” – passt perfekt neben „Ein verheißenes Land”, das du von ihrem Mann schon im Regal hast.",
+  "tags": {
+   "genres": [
+    "Memoiren",
+    "Ratgeber"
+   ],
+   "stimmung": [
+    "nachdenklich"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Politik",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "3844542078",
+  "audible_url": "https://www.audible.de/pd/B0BMB7D2H7",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-09"
+ },
+ {
+  "id": "r-B09MFG2CSL",
+  "asin": "B09MFG2CSL",
+  "titel": "Michael Schumacher",
+  "autor": "Julius Schreiber",
+  "sprecher": "Sebastian Pappenberger",
+  "begruendung": "Die Biografie eines Getriebenen, der seinen Sport neu definiert hat – genau die Mischung aus Ehrgeiz und Ausnahmekönnen, die dich an „Wie Elon Musk die Welt verändert” gepackt hat.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Sport"
+   ],
+   "stimmung": [
+    "spannend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Sport"
+   ],
+   "anlass": [],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B017K8W5PM",
+  "audible_url": "https://www.audible.de/pd/B09MFG2CSL",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-09"
  }
 ]
