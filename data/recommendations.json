@@ -1999,175 +1999,6 @@
   "aufgenommen_am": "2026-09-04"
  },
  {
-  "id": "r-B0HGRLBYNG",
-  "asin": "B0HGRLBYNG",
-  "titel": "Das steinerne Himmelreich",
-  "autor": "Sam Feuerbach, Bernhard Hennen",
-  "sprecher": "Robert Frank",
-  "begruendung": "Der große Abschluss deiner Ritter-und-Knappe-Trilogie – nach Band 2 im Regal geht Ottos Kreuzzug hier zu Ende.",
-  "tags": {
-   "genres": [
-    "Fantasy"
-   ],
-   "stimmung": [
-    "spannend"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Geschichte",
-    "Abenteuer"
-   ],
-   "anlass": [
-    "lange Reise"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B0GWRNB6RY",
-  "audible_url": "https://www.audible.de/pd/Das-steinerne-Himmelreich-Hoerbuch/B0HGRLBYNG",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-11"
- },
- {
-  "id": "r-B0DPR4YXS4",
-  "asin": "B0DPR4YXS4",
-  "titel": "Zeit der Krähen",
-  "autor": "George R.R. Martin",
-  "sprecher": "Stefan Kaminski",
-  "begruendung": "Band 7 hält deinen Eis-und-Feuer-Marathon in Schwung – direkt im Anschluss an die „Königin der Drachen“.",
-  "tags": {
-   "genres": [
-    "Fantasy"
-   ],
-   "stimmung": [
-    "spannend",
-    "düster"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Geschichte",
-    "Abenteuer"
-   ],
-   "anlass": [
-    "lange Reise"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B004UZH630",
-  "audible_url": "https://www.audible.de/pd/Zeit-der-Kraehen-Hoerbuch/B0DPR4YXS4",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-11"
- },
- {
-  "id": "r-B09BZ3YY4N",
-  "asin": "B09BZ3YY4N",
-  "titel": "SchauerGeschichte: Ängste vergangener Zeiten. Staffel 2",
-  "autor": "Francis Nenik",
-  "sprecher": "Nic Romm",
-  "begruendung": "Staffel 2 deines Angst-Podcasts – nach Staffel 1 im Regal geht die Reise durch vergangene Schrecken weiter.",
-  "tags": {
-   "genres": [
-    "Sachbuch"
-   ],
-   "stimmung": [
-    "spannend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Geschichte"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Podcast"
-  },
-  "aehnlich_wie": "B08T25JQPM",
-  "audible_url": "https://www.audible.de/pd/SchauerGeschichte-Aengste-vergangener-Zeiten-Staffel-2-Original-Podcast-Hoerbuch/B09BZ3YY4N",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-11"
- },
- {
-  "id": "r-B09VC4RRW5",
-  "asin": "B09VC4RRW5",
-  "titel": "SchauerGeschichte: Ängste vergangener Zeiten. Staffel 3",
-  "autor": "Francis Nenik",
-  "sprecher": "Nic Romm",
-  "begruendung": "Und gleich Staffel 3 hinterher, falls dir die Geisterzüge und napoleonischen Ängste aus Staffel 2 nicht reichen.",
-  "tags": {
-   "genres": [
-    "Sachbuch"
-   ],
-   "stimmung": [
-    "spannend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Geschichte"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Podcast"
-  },
-  "aehnlich_wie": "B08T25JQPM",
-  "audible_url": "https://www.audible.de/pd/SchauerGeschichte-Aengste-vergangener-Zeiten-Staffel-3-Original-Podcast-Hoerbuch/B09VC4RRW5",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-11"
- },
- {
-  "id": "r-B00O4CZV2C",
-  "asin": "B00O4CZV2C",
-  "titel": "Mutter ruft an",
-  "autor": "Bastian Bielendorfer",
-  "sprecher": "Bastian Bielendorfer",
-  "begruendung": "Nach „Lehrerkind“ und „Lebenslänglich Klassenfahrt“ geht es hier mit Bielendorfers Mutter am Telefon weiter.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Familie",
-    "Alltag"
-   ],
-   "anlass": [],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B00CS42VDK",
-  "audible_url": "https://www.audible.de/pd/Mutter-ruft-an-Hoerbuch/B00O4CZV2C",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-11"
- },
- {
-  "id": "r-B076B5YLYT",
-  "asin": "B076B5YLYT",
-  "titel": "Papa ruft an: Standleitung zum Lehrerkind",
-  "autor": "Bastian Bielendorfer",
-  "sprecher": "Bastian Bielendorfer",
-  "begruendung": "Der nächste Anruf aus der Bielendorfer-Familie – diesmal ist der Papa dran.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Familie",
-    "Alltag"
-   ],
-   "anlass": [],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B008OEARCA",
-  "audible_url": "https://www.audible.de/pd/Papa-ruft-an-Standleitung-zum-Lehrerkind-Hoerbuch/B076B5YLYT",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-11"
- },
- {
   "id": "r-B0B1QRCGXV",
   "asin": "B0B1QRCGXV",
   "titel": "Das Geheimnis um TKKG [Neuaufnahme]",
@@ -5471,5 +5302,163 @@
   "audible_url": "https://www.audible.de/pd/B09MFG2CSL",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-10-09"
+ },
+ {
+  "id": "r-B00DR9YPMA",
+  "asin": "B00DR9YPMA",
+  "titel": "Von Idioten umzingelt!",
+  "autor": "Jeff Kinney",
+  "sprecher": "Marco Eßer",
+  "begruendung": "Gregs bissig-komische Tagebucheinträge sind derselbe trockene, respektlose Humor wie beim Känguru – nur eine Nummer kindgerechter und perfekt für ein gemeinsames Hören am Samstag.",
+  "tags": {
+   "genres": [
+    "Kinder",
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "frech"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Familie",
+    "Alltag"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B008MLO9ZG",
+  "audible_url": "https://www.audible.de/pd/B00DR9YPMA",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-10"
+ },
+ {
+  "id": "r-B00GIFH63U",
+  "asin": "B00GIFH63U",
+  "titel": "Die 13 ½ Leben des Käpt'n Blaubär",
+  "autor": "Walter Moers",
+  "sprecher": "Dirk Bach, Wolfgang Völz",
+  "begruendung": "Genauso absurd-liebevoll erfunden wie Kikis QualityLand-Welt – nur als Seemannsgarn verpackt, das Erwachsene und Kinder am Samstag gleichermaßen fesselt.",
+  "tags": {
+   "genres": [
+    "Kinder",
+    "Fantasy"
+   ],
+   "stimmung": [
+    "witzig",
+    "spannend"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Abenteuer",
+    "Tiere"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B075F1VM93",
+  "audible_url": "https://www.audible.de/pd/B00GIFH63U",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-10"
+ },
+ {
+  "id": "r-B00KDJGZWU",
+  "asin": "B00KDJGZWU",
+  "titel": "Rico, Oskar und die Tieferschatten - Das Hörspiel",
+  "autor": "Andreas Steinhöfel",
+  "sprecher": "Various Artists",
+  "begruendung": "Ein warmherziger, kluger Kinderkrimi fürs ganze Haus – ähnlich wie der Spurenfinder aus dem eigenen Regal, nur mit zwei Jungs, die gemeinsam jeden Fall lösen.",
+  "tags": {
+   "genres": [
+    "Krimi",
+    "Kinder"
+   ],
+   "stimmung": [
+    "spannend",
+    "herzerwärmend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0CGXFZYNX",
+  "audible_url": "https://www.audible.de/pd/B00KDJGZWU",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-10"
+ },
+ {
+  "id": "r-B004JVDII2",
+  "asin": "B004JVDII2",
+  "titel": "Benjamin rettet den Zoo",
+  "autor": "Elfie Donnelly",
+  "sprecher": "Edgar Ott, Alexander Rosenberg, Joachim Nottke",
+  "begruendung": "Ein echter Klassiker zum gemeinsamen Hören mit den Kindern – dieselbe warmherzige Familienstimmung, die beim NEINhorn schon so gut ankam.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig",
+    "herzerwärmend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Tiere",
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0CW9WXKDF",
+  "audible_url": "https://www.audible.de/pd/B004JVDII2",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-10"
+ },
+ {
+  "id": "r-B004V1ADBU",
+  "asin": "B004V1ADBU",
+  "titel": "Der kleine Nick räumt auf",
+  "autor": "René Goscinny",
+  "sprecher": "Rufus Beck",
+  "begruendung": "Rufus Beck liest die trocken-komischen Alltagsgeschichten eines Schuljungen – dieselbe hintergründige Situationskomik wie bei von der Lippes Geschichten und Glossen, nur zum gemeinsamen Hören mit den Kleinen.",
+  "tags": {
+   "genres": [
+    "Kinder",
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "entspannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Alltag"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B01N5D6SXV",
+  "audible_url": "https://www.audible.de/pd/B004V1ADBU",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-10"
  }
 ]
