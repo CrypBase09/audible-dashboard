@@ -1999,94 +1999,6 @@
   "aufgenommen_am": "2026-09-04"
  },
  {
-  "id": "r-B0GTVWM8LV",
-  "asin": "B0GTVWM8LV",
-  "titel": "Der Erlöser - Live",
-  "autor": "Atze Schröder",
-  "sprecher": "Atze Schröder",
-  "begruendung": "Frisch aus 2026: Atze Schröder spielt sich zum Messias hoch – bissige Live-Comedy in der Kerbe von Mario Barths „Männer sind nichts ohne die Frauen“.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "frech",
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Gesellschaft",
-    "Alltag"
-   ],
-   "anlass": [],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "B0GSZ9846C",
-  "audible_url": "https://www.audible.de/pd/B0GTVWM8LV",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-17"
- },
- {
-  "id": "r-B00OME8FE8",
-  "asin": "B00OME8FE8",
-  "titel": "Bastian Pastewka und Komplizen in \"Paul Temple und der Fall Gregory\"",
-  "autor": "Francis Durbridge",
-  "sprecher": "Bastian Pastewka, Janina Sachau, Kai Magnus Sting, Alexis Kara, Inga Busch",
-  "begruendung": "Kai Magnus Sting, den du aus „Tod unter Gurken“ kennst, spielt hier an Pastewkas Seite in einem wiederbelebten Radio-Krimi-Klassiker von 1949 – Krimi-Spaß mit Augenzwinkern.",
-  "tags": {
-   "genres": [
-    "Krimi",
-    "Hörspiel"
-   ],
-   "stimmung": [
-    "spannend",
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Krimi-Fälle"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": "B06XCFQJ2B",
-  "audible_url": "https://www.audible.de/pd/B00OME8FE8",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-17"
- },
- {
-  "id": "r-B01FUMR7Q2",
-  "asin": "B01FUMR7Q2",
-  "titel": "Auf Anfang",
-  "autor": "Sebastian Pufpaff",
-  "sprecher": "Sebastian Pufpaff",
-  "begruendung": "Kabarett mit Tiefgang statt reinem Klamauk – wer Urban Priols „Im Fluss“ mag, findet bei Pufpaff dieselbe bissige Gesellschaftsbeobachtung.",
-  "tags": {
-   "genres": [
-    "Comedy",
-    "Kabarett"
-   ],
-   "stimmung": [
-    "bissig",
-    "nachdenklich"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/B01FUMR7Q2",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-17"
- },
- {
   "id": "r-B00FG1IIZC",
   "asin": "B00FG1IIZC",
   "titel": "Ich bin Zlatan",
@@ -5430,5 +5342,182 @@
   "audible_url": "https://www.audible.de/pd/Die-besten-Comedians-Deutschlands-Hoerbuch/B0F8BW8PJ7",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-10-15"
+ },
+ {
+  "id": "r-B0DPR4Z3MF",
+  "asin": "B0DPR4Z3MF",
+  "titel": "Sturm der Schwerter",
+  "autor": "George R.R. Martin",
+  "sprecher": "Stefan Kaminski",
+  "begruendung": "Nach der Saat des goldenen Löwen geht es mit Band 5 direkt weiter – Stannis’ Rückzug, Robbs Dilemma und Aryas Odyssee mit der Bruderschaft ohne Banner.",
+  "tags": {
+   "genres": [
+    "Fantasy"
+   ],
+   "stimmung": [
+    "spannend",
+    "düster"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Geschichte",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B004UZH630",
+  "audible_url": "https://www.audible.de/pd/Sturm-der-Schwerter-Hoerbuch/B0DPR4Z3MF",
+  "regal": "serien-fortsetzung",
+  "aufgenommen_am": "2026-10-16"
+ },
+ {
+  "id": "r-B0DZP54D61",
+  "asin": "B0DZP54D61",
+  "titel": "Inside: Winning. Losing. Starting again.",
+  "autor": "Boris Becker",
+  "sprecher": "Boris Becker",
+  "begruendung": "Dieselbe schonungslose Comeback-Geschichte wie bei Zlatans „Adrenalin“ – nur dass Becker hier vom Weltstar direkt ins Gefängnis und zurück erzählt.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Sport"
+   ],
+   "stimmung": [
+    "persönlich",
+    "inspirierend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Sport"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B09VPYXHRC",
+  "audible_url": "https://www.audible.de/pd/Inside-Hoerbuch/B0DZP54D61",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-16"
+ },
+ {
+  "id": "r-B0CJCMM31Y",
+  "asin": "B0CJCMM31Y",
+  "titel": "Du hattest 90 Minuten Zeit",
+  "autor": "Toni Kroos, Oliver Wurm",
+  "sprecher": "Tobias Blumtritt",
+  "begruendung": "90 pointierte Fragen an einen Weltmeister, kurz und kompakt wie ein Podcast – passt zu deinen Sportler-Biografien von Zlatan bis Pogačar.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Sport"
+   ],
+   "stimmung": [
+    "unterhaltsam"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Sport"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B09VPYXHRC",
+  "audible_url": "https://www.audible.de/pd/Du-hattest-90-Minuten-Zeit-Hoerbuch/B0CJCMM31Y",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-16"
+ },
+ {
+  "id": "r-B0C24BHR1P",
+  "asin": "B0C24BHR1P",
+  "titel": "Mord und Wischmopp",
+  "autor": "Mirjam Munter",
+  "sprecher": "Esther Münch",
+  "begruendung": "Ruhrpott-Krimikomödie mit Putzfrau als Ermittlerin – derselbe schrullige Lokalkolorit wie bei „Hömma, so isset“, nur mit echtem Mordfall und frischem Serienstart.",
+  "tags": {
+   "genres": [
+    "Krimi",
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "charmant"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle",
+    "Ruhrpott"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "3844539832",
+  "audible_url": "https://www.audible.de/pd/Mord-und-Wischmopp-Hoerbuch/B0C24BHR1P",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-16"
+ },
+ {
+  "id": "r-B01A8TPUWU",
+  "asin": "B01A8TPUWU",
+  "titel": "Eine kurze Geschichte von fast allem",
+  "autor": "Bill Bryson",
+  "sprecher": "Oliver Rohrbeck",
+  "begruendung": "Wie „Was hat das Universum mit mir zu tun?“, nur episch ausgewalzt: Bryson nimmt dich mit britischem Witz durch die gesamte Naturwissenschaft.",
+  "tags": {
+   "genres": [
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "unterhaltsam",
+    "informativ"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Wissenschaft"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B074JDSLHN",
+  "audible_url": "https://www.audible.de/pd/Eine-kurze-Geschichte-von-fast-allem-Hoerbuch/B01A8TPUWU",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-16"
+ },
+ {
+  "id": "r-B0DQDVR3V6",
+  "asin": "B0DQDVR3V6",
+  "titel": "Die besten Comedians Deutschlands (2024 - Jahresrückblick)",
+  "autor": "Paul Panzer, Chris Tall, Mirja Regensburg u. a.",
+  "sprecher": "Paul Panzer, Chris Tall, Mirja Regensburg u. a.",
+  "begruendung": "Noch eine Gala-Ausgabe mit deinem Paul Panzer und neuen Stimmen wie Chris Tall – genau die Mischung, die dich bei der 2025er-Ausgabe schon überzeugt hat.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B0B1ZT4BW9",
+  "audible_url": "https://www.audible.de/pd/Die-besten-Comedians-Deutschlands-Hoerbuch/B0DQDVR3V6",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-16"
  }
 ]
