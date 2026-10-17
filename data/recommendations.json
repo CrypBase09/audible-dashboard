@@ -2029,131 +2029,6 @@
   "aufgenommen_am": "2026-09-17"
  },
  {
-  "id": "r-B09D3SFRXG",
-  "asin": "B09D3SFRXG",
-  "titel": "Milchgeld",
-  "autor": "Volker Klüpfel, Michael Kobr",
-  "sprecher": "Götz Otto, Wolfgang Krebs, Martin Bonvicini u. a.",
-  "begruendung": "Der Allgäu-Gegenpart zu deinem Ruhrpott-Krimihumor à la Kai Magnus Sting: Kommissar Kluftinger ermittelt bärbeißig-witzig in einem Mordfall im Käsebetrieb – Auftakt einer der größten deutschen Krimikomödien-Reihen.",
-  "tags": {
-   "genres": [
-    "Krimi",
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig",
-    "spannend"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Krimi-Fälle",
-    "Alltag"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/B09D3SFRXG",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-18"
- },
- {
-  "id": "r-B0H2N6CJHJ",
-  "asin": "B0H2N6CJHJ",
-  "titel": "Die drei ??? und die schwarze Rose",
-  "autor": "Ben Nevis",
-  "sprecher": "Oliver Rohrbeck, Jens Wawrczeck, Andreas Fröhlich",
-  "begruendung": "Folge 240, druckfrisch: Eine mysteriöse schwarze Rose führt Justus, Peter und Bob in ein altes Klosteranwesen. Genau die Krimi-Kids-Ecke, die du mit Phantomsee und Karpatenhund schon angefangen hast.",
-  "tags": {
-   "genres": [
-    "Krimi"
-   ],
-   "stimmung": [
-    "spannend",
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Krimi-Fälle",
-    "Abenteuer"
-   ],
-   "anlass": [
-    "fürs Auto",
-    "mit den Kindern"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/Folge-240-und-die-schwarze-Rose-Hoerbuch/B0H2N6CJHJ",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-18"
- },
- {
-  "id": "r-B0D9BX72KM",
-  "asin": "B0D9BX72KM",
-  "titel": "Elon Musk und die Zerstörung von Twitter",
-  "autor": "Kate Conger, Ryan Mac",
-  "sprecher": "Olaf Pessler",
-  "begruendung": "Die Fortsetzung der Geschichte, die Ashlee Vance in deiner Biografie aufhört zu erzählen: Twitter-Übernahme, Massenentlassungen, Umbenennung zu X – investigativ aus hunderten Interviews mit (Ex-)Mitarbeitern.",
-  "tags": {
-   "genres": [
-    "Biografie",
-    "Sachbuch",
-    "Wirtschaft"
-   ],
-   "stimmung": [
-    "spannend",
-    "informativ"
-   ],
-   "laenge": "episch",
-   "themen": [
-    "Gesellschaft",
-    "Politik"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B017K8W5PM",
-  "audible_url": "https://www.audible.de/pd/Elon-Musk-und-die-Zerstoerung-von-Twitter-Hoerbuch/B0D9BX72KM",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-18"
- },
- {
-  "id": "r-B07CY3CC3T",
-  "asin": "B07CY3CC3T",
-  "titel": "Bad Blood",
-  "autor": "John Carreyrou",
-  "sprecher": "Mark Bremer",
-  "begruendung": "Der nächste Silicon-Valley-Skandal nach Steve Jobs: Elizabeth Holmes wurde als \"die weibliche Steve Jobs\" gefeiert, bis der Bluttest-Betrug bei Theranos aufflog. Investigativ-packend, genau dein Isaacson-Terrain.",
-  "tags": {
-   "genres": [
-    "Sachbuch",
-    "Wirtschaft"
-   ],
-   "stimmung": [
-    "spannend",
-    "informativ"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Gesellschaft",
-    "Wissenschaft"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/Bad-Blood-Hoerbuch/B07CY3CC3T",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-18"
- },
- {
   "id": "r-B07CJGPMDF",
   "asin": "B07CJGPMDF",
   "titel": "Weltmeister ohne Talent",
@@ -5519,5 +5394,157 @@
   "audible_url": "https://www.audible.de/pd/Die-besten-Comedians-Deutschlands-Hoerbuch/B0DQDVR3V6",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-10-16"
+ },
+ {
+  "id": "r-B0B1QM694K",
+  "asin": "B0B1QM694K",
+  "titel": "TKKG Krimi-Box 1",
+  "autor": "Stefan Wolf",
+  "sprecher": "Wolfgang Kaven, Sascha Draeger, Niki Nowotny, Veronika Neugebauer",
+  "begruendung": "Drei klassische TKKG-Fälle in einer Box – das Krimi-Hörspiel-Format für Kinder, das bei euch mit den Drei-Fragezeichen-Folgen schon zieht.",
+  "tags": {
+   "genres": [
+    "Kinder",
+    "Krimi"
+   ],
+   "stimmung": [
+    "spannend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0FKMP8YSW",
+  "audible_url": "https://www.audible.de/pd/TKKG-Krimi-Box-1-Hoerbuch/B0B1QM694K",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-17"
+ },
+ {
+  "id": "r-B0B1QKQGFP",
+  "asin": "B0B1QKQGFP",
+  "titel": "Fünf Freunde in der Höhle des Urmenschen",
+  "autor": "Enid Blyton, Katrin McClean",
+  "sprecher": "Lutz Mackensy, Ivo Möller, Theresa Underberg",
+  "begruendung": "Die Fünf Freunde graben nach einem Urmenschen-Skelett – ein Abenteuer-Hörspiel-Klassiker für einen gemeinsamen Hör-Samstag.",
+  "tags": {
+   "genres": [
+    "Kinder",
+    "Abenteuer"
+   ],
+   "stimmung": [
+    "spannend",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer",
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Fuenf-Freunde-in-der-Hoehle-des-Urmenschen-Hoerbuch/B0B1QKQGFP",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-17"
+ },
+ {
+  "id": "r-B07X7WYR6Y",
+  "asin": "B07X7WYR6Y",
+  "titel": "Die Schule der magischen Tiere",
+  "autor": "Margit Auer",
+  "sprecher": "Wolfgang Riehm, Achim Buch, Verena Herkewitz",
+  "begruendung": "Zauberhaftes Schul-Hörspiel mit sprechenden Tieren – leicht und warmherzig für einen ruhigen Familien-Hörnachmittag.",
+  "tags": {
+   "genres": [
+    "Kinder",
+    "Fantasy"
+   ],
+   "stimmung": [
+    "warmherzig",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer",
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0D9HKQ391",
+  "audible_url": "https://www.audible.de/pd/Die-Schule-der-magischen-Tiere-Hoerbuch/B07X7WYR6Y",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-17"
+ },
+ {
+  "id": "r-B0BKZW2LV2",
+  "asin": "B0BKZW2LV2",
+  "titel": "Jan Böhmermann liest ...und die flüsternde Mumie",
+  "autor": "Robert Arthur",
+  "sprecher": "Jan Böhmermann",
+  "begruendung": "Jan Böhmermann liest einen Die-drei-???-Klassiker – genauso schräg-charmant wie die Pastewka-Folge, die du schon gehört hast, nur mit neuer Promi-Stimme.",
+  "tags": {
+   "genres": [
+    "Kinder",
+    "Krimi"
+   ],
+   "stimmung": [
+    "spannend",
+    "witzig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0B1QQGQTK",
+  "audible_url": "https://www.audible.de/pd/Jan-Boehmermann-liest-und-die-fluesternde-Mumie-Hoerbuch/B0BKZW2LV2",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-17"
+ },
+ {
+  "id": "r-B0BK2ZBW1W",
+  "asin": "B0BK2ZBW1W",
+  "titel": "Sonne und Beton",
+  "autor": "Felix Lobrecht",
+  "sprecher": "Felix Lobrecht",
+  "begruendung": "Lobrechts raues, warmherziges Berlin-Coming-of-Age – trifft deinen Comedy-Alltags-Ton, nur als Romanstoff statt Bühnenprogramm.",
+  "tags": {
+   "genres": [
+    "Belletristik",
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "berührend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Sonne-und-Beton-Hoerbuch/B0BK2ZBW1W",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-17"
  }
 ]
