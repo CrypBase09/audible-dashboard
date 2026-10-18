@@ -2029,188 +2029,6 @@
   "aufgenommen_am": "2026-09-17"
  },
  {
-  "id": "r-B07CJGPMDF",
-  "asin": "B07CJGPMDF",
-  "titel": "Weltmeister ohne Talent",
-  "autor": "Per Mertesacker, Raphael Honigstein",
-  "sprecher": "Oliver E. Schönfeld",
-  "begruendung": "Nach Miro und Open der nächste ehrliche Blick hinter die Fußball-Kulissen: Mertesacker erzählt schonungslos, wie er trotz angeblich fehlendem Talent Weltmeister wurde.",
-  "tags": {
-   "genres": [
-    "Biografie",
-    "Sport"
-   ],
-   "stimmung": [
-    "ehrlich",
-    "inspirierend"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Sport"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/Weltmeister-ohne-Talent-Hoerbuch/B07CJGPMDF",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-19"
- },
- {
-  "id": "r-3732417174",
-  "asin": "3732417174",
-  "titel": "The Great Nowitzki",
-  "autor": "Thomas Pletzinger",
-  "sprecher": "Julian Mehne",
-  "begruendung": "Bisher fehlt Basketball in der Sammlung: Pletzinger begleitet Nowitzki jahrelang und liefert eine Reportage statt Hochglanz-Biografie, im selben ehrlichen Ton wie Miro.",
-  "tags": {
-   "genres": [
-    "Biografie",
-    "Sport"
-   ],
-   "stimmung": [
-    "einfühlsam",
-    "informativ"
-   ],
-   "laenge": "episch",
-   "themen": [
-    "Sport"
-   ],
-   "anlass": [
-    "lange Reise"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/The-Great-Nowitzki-Hoerbuch/3732417174",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-19"
- },
- {
-  "id": "r-B0DN1YD13X",
-  "asin": "B0DN1YD13X",
-  "titel": "Source Code - Meine Anfänge",
-  "autor": "Bill Gates",
-  "sprecher": "Oliver Siebeck",
-  "begruendung": "Nach Musk und Obama ein dritter Gründungsmythos: Gates erzählt nicht die Microsoft-Erfolgsgeschichte, sondern seine prägenden Jugendjahre – persönlicher als die üblichen Tech-Bios.",
-  "tags": {
-   "genres": [
-    "Biografie",
-    "Wirtschaft"
-   ],
-   "stimmung": [
-    "persönlich",
-    "inspirierend"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Gesellschaft",
-    "Wissenschaft"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/Source-Code-Meine-Anfaenge-Hoerbuch/B0DN1YD13X",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-19"
- },
- {
-  "id": "r-B00LLHZ132",
-  "asin": "B00LLHZ132",
-  "titel": "Ronja Räubertochter",
-  "autor": "Astrid Lindgren",
-  "sprecher": "Ulrich Noethen",
-  "begruendung": "Fürs gemeinsame Hören am Wochenende: Lindgrens Klassiker über eine Räubertochter, die ihre eigenen Regeln findet – passend zum Känguru- und NEINhorn-Vorlese-Faible, nur für etwas ältere Ohren.",
-  "tags": {
-   "genres": [
-    "Kinderbuch",
-    "Abenteuer"
-   ],
-   "stimmung": [
-    "warmherzig",
-    "spannend"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Abenteuer",
-    "Familie"
-   ],
-   "anlass": [
-    "mit den Kindern"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/Ronja-Raeubertochter-Hoerbuch/B00LLHZ132",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-19"
- },
- {
-  "id": "r-B09314YPZT",
-  "asin": "B09314YPZT",
-  "titel": "Das geheimnisvolle Medaillon",
-  "autor": "Barbara van den Speulhof",
-  "sprecher": "Sonngard Dressler, Julia Mainusch u. a.",
-  "begruendung": "Auch fürs gemeinsame Hören: ein Hörspiel um drei Freundinnen und ein magisches Familienerbstück – mehrstimmig erzählt wie die Fünf-Freunde- und TKKG-Folgen, die schon im Regal stehen.",
-  "tags": {
-   "genres": [
-    "Hörspiel",
-    "Kinder"
-   ],
-   "stimmung": [
-    "spannend",
-    "geheimnisvoll"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Abenteuer"
-   ],
-   "anlass": [
-    "mit den Kindern"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/Das-geheimnisvolle-Medaillon-Hoerbuch/B09314YPZT",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-19"
- },
- {
-  "id": "r-B004V0ZHE4",
-  "asin": "B004V0ZHE4",
-  "titel": "Hummeldumm",
-  "autor": "Tommy Jaud",
-  "sprecher": "Tommy Jaud",
-  "begruendung": "Jauds Kenia-Trip-Chaos im Vollidiot-Ton: genauso bissig-komisch über Reisen und Beziehungen wie Vollidiot und Resturlaub, die schon gut ankamen.",
-  "tags": {
-   "genres": [
-    "Comedy",
-    "Belletristik"
-   ],
-   "stimmung": [
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Reisen",
-    "Beziehung"
-   ],
-   "anlass": [
-    "lange Reise"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/Hummeldumm-Hoerbuch/B004V0ZHE4",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-19"
- },
- {
   "id": "r-B004V3EX46",
   "asin": "B004V3EX46",
   "titel": "Zwischen Himmel un Ääd",
@@ -5546,5 +5364,215 @@
   "audible_url": "https://www.audible.de/pd/Sonne-und-Beton-Hoerbuch/B0BK2ZBW1W",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-10-17"
+ },
+ {
+  "id": "r-B0CF5VNY4B",
+  "asin": "B0CF5VNY4B",
+  "titel": "Über die Heiterkeit in schwierigen Zeiten und die Frage, wie wichtig uns der Ernst des Lebens sein sollte",
+  "autor": "Axel Hacke",
+  "sprecher": "Axel Hacke",
+  "begruendung": "Hackes ruhige, kluge Beobachtungen über Gelassenheit passen zur Vorliebe für pointierten deutschen Humor, kommen aber ganz ohne Pointen-Druck aus – ideal zum Runterkommen am Sonntagabend.",
+  "tags": {
+   "genres": [
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "ruhig",
+    "nachdenklich",
+    "warmherzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B0CF5VNY4B",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-18"
+ },
+ {
+  "id": "r-B075GW1MYL",
+  "asin": "B075GW1MYL",
+  "titel": "Bäume verstehen: Was uns Bäume erzählen, wie wir sie naturgemäß pflegen",
+  "autor": "Peter Wohlleben",
+  "sprecher": "Peter Kaempfe",
+  "begruendung": "Sanfte, klare Naturbeobachtungen über Bäume – kein Thriller, keine Pointe, nur ruhiges Erzähltempo zum Wegdämmern.",
+  "tags": {
+   "genres": [
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "ruhig",
+    "entspannend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Wissenschaft"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B075GW1MYL",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-18"
+ },
+ {
+  "id": "r-3732482294",
+  "asin": "3732482294",
+  "titel": "The Comfort Book - Gedanken, die mir Hoffnung machen",
+  "autor": "Matt Haig",
+  "sprecher": "Andreas Neumann",
+  "begruendung": "Kurze, warme Trost-Gedanken statt Ratgeber-Drill – ergänzt die Vorliebe für Lebenshilfe-Lektüre um eine leise, meditative Variante zum Einschlafen.",
+  "tags": {
+   "genres": [
+    "Ratgeber"
+   ],
+   "stimmung": [
+    "ruhig",
+    "warmherzig",
+    "nachdenklich"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/3732482294",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-18"
+ },
+ {
+  "id": "r-B07ZVFDN8H",
+  "asin": "B07ZVFDN8H",
+  "titel": "Alte Sorten",
+  "autor": "Ewald Arenz",
+  "sprecher": "Sabine Arnhold",
+  "begruendung": "Eine stille, warmherzige Geschichte über zwei ungleiche Frauen und einen alten Obstgarten – leichte Belletristik ohne Spannungsbogen, passend für einen sanften Sonntagsausklang.",
+  "tags": {
+   "genres": [
+    "Belletristik"
+   ],
+   "stimmung": [
+    "ruhig",
+    "warmherzig",
+    "entspannend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Alltag",
+    "Beziehung"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B07ZVFDN8H",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-18"
+ },
+ {
+  "id": "r-B0DH8NWZ2L",
+  "asin": "B0DH8NWZ2L",
+  "titel": "Zeit für Fragen im Café am Rande der Welt",
+  "autor": "John Strelecky",
+  "sprecher": "Markus Pfeiffer",
+  "begruendung": "Die ruhige Frage-Antwort-Form liefert kleine, besinnliche Denkanstöße statt Spannung – passt zur Vorliebe für zugängliche Lebensweisheiten.",
+  "tags": {
+   "genres": [
+    "Ratgeber"
+   ],
+   "stimmung": [
+    "ruhig",
+    "nachdenklich"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B0DH8NWZ2L",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-18"
+ },
+ {
+  "id": "r-B082MKZHP6",
+  "asin": "B082MKZHP6",
+  "titel": "Loriots Festreden",
+  "autor": "Loriot",
+  "sprecher": "Loriot",
+  "begruendung": "Loriots trockene, nie laute Festreden sind die leiseste Form deutschen Humors – ideal, wenn die Kabarett-Vorliebe abends eine sanfte statt energiegeladene Variante braucht.",
+  "tags": {
+   "genres": [
+    "Kabarett"
+   ],
+   "stimmung": [
+    "ruhig",
+    "trocken"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Gesellschaft",
+    "Alltag"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B082MKZHP6",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-18"
+ },
+ {
+  "id": "r-B00YY8KD2Y",
+  "asin": "B00YY8KD2Y",
+  "titel": "Der Biophilia-Effekt - Heilung aus dem Wald",
+  "autor": "Clemens G. Arvay",
+  "sprecher": "Martin Harbauer",
+  "begruendung": "Der Wald als Gegengewicht zum Alltagsstress, erklärt in ruhigem Erzählton – eine entspannende Ergänzung zu den Sachbuch-Vorlieben im Regal.",
+  "tags": {
+   "genres": [
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "ruhig",
+    "entspannend",
+    "informativ"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Wissenschaft"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B00YY8KD2Y",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-18"
  }
 ]
