@@ -1429,37 +1429,6 @@
   "aufgenommen_am": "2026-08-06"
  },
  {
-  "id": "r-B004V3EZ6W",
-  "asin": "B004V3EZ6W",
-  "titel": "Kishon zum Einschlafen",
-  "autor": "Ephraim Kishon",
-  "sprecher": "Bernd Stephan",
-  "begruendung": "Kishon-Satiren, die vom Schlafen handeln und dabei selbst leise bleiben — gut 75 Minuten, trocken gelesen von Bernd Stephan. Der Titel ist Programm: keine Pointe, die dich wieder hochreißt.",
-  "tags": {
-   "genres": [
-    "Comedy",
-    "Belletristik"
-   ],
-   "stimmung": [
-    "witzig",
-    "entspannend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Familie",
-    "Alltag"
-   ],
-   "anlass": [
-    "zum Einschlafen"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/B004V3EZ6W",
-  "regal": "wunsch-antwort",
-  "aufgenommen_am": "2026-08-06"
- },
- {
   "id": "r-B086XH3P2V",
   "asin": "B086XH3P2V",
   "titel": "Loriots Klassiker",
@@ -2055,128 +2024,6 @@
   },
   "aehnlich_wie": "3844539832",
   "audible_url": "https://www.audible.de/pd/Zwischen-Himmel-un-Aeaed-Hoerbuch/B004V3EX46",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-20"
- },
- {
-  "id": "r-B004V1NXAI",
-  "asin": "B004V1NXAI",
-  "titel": "Liegen lernen",
-  "autor": "Frank Goosen",
-  "sprecher": "Frank Goosen",
-  "begruendung": "Goosen erzählt hier seine eigene Ruhrpott-Coming-of-Age-Geschichte – derselbe warme, trockene Ton wie in „Radio Heimat“, nur als durchgehender Roman statt in Häppchen.",
-  "tags": {
-   "genres": [
-    "Belletristik",
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig",
-    "herzerwärmend"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Alltag",
-    "Familie"
-   ],
-   "anlass": [
-    "zum Einschlafen"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B004UXE5N6",
-  "audible_url": "https://www.audible.de/pd/Liegen-lernen-Hoerbuch/B004V1NXAI",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-20"
- },
- {
-  "id": "r-B004V25Z6W",
-  "asin": "B004V25Z6W",
-  "titel": "Russendisko",
-  "autor": "Wladimir Kaminer",
-  "sprecher": "Wladimir Kaminer",
-  "begruendung": "Kurze, schrägkomische Alltagsgeschichten aus Berlin, vom Autor selbst gelesen – die Produktbeschreibung nennt ihn in einem Atemzug mit Kishon, den du schon zum Einschlafen hörst.",
-  "tags": {
-   "genres": [
-    "Comedy",
-    "Belletristik"
-   ],
-   "stimmung": [
-    "witzig",
-    "entspannend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag",
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "zum Einschlafen"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B004V3EZ6W",
-  "audible_url": "https://www.audible.de/pd/Russendisko-Hoerbuch/B004V25Z6W",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-20"
- },
- {
-  "id": "r-B00EY81Z80",
-  "asin": "B00EY81Z80",
-  "titel": "Eine kurze Geschichte der Menschheit",
-  "autor": "Yuval Noah Harari",
-  "sprecher": "Jürgen Holdorf",
-  "begruendung": "Nach Source Code und Bad Blood ein ruhigerer, größerer Bogen: Harari erzählt die Menschheitsgeschichte als Sachbuch zum Reinhören statt als Firmen- oder Skandalgeschichte.",
-  "tags": {
-   "genres": [
-    "Sachbuch"
-   ],
-   "stimmung": [
-    "informativ",
-    "nachdenklich"
-   ],
-   "laenge": "episch",
-   "themen": [
-    "Wissenschaft",
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "lange Reise"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/Eine-kurze-Geschichte-der-Menschheit-Hoerbuch/B00EY81Z80",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-20"
- },
- {
-  "id": "r-B0BRY3VKZ2",
-  "asin": "B0BRY3VKZ2",
-  "titel": "Reserve",
-  "autor": "Prinz Harry",
-  "sprecher": "Steffen Groth",
-  "begruendung": "Noch eine royale Innenansicht nach „Ein verheißenes Land“ – Harrys sehr persönliche, oft ruhige Aufarbeitung von Verlust und Familie statt Politik.",
-  "tags": {
-   "genres": [
-    "Biografie"
-   ],
-   "stimmung": [
-    "persönlich",
-    "nachdenklich"
-   ],
-   "laenge": "episch",
-   "themen": [
-    "Gesellschaft",
-    "Familie"
-   ],
-   "anlass": [
-    "lange Reise"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "3844542078",
-  "audible_url": "https://www.audible.de/pd/Reserve-Spare-Hoerbuch/B0BRY3VKZ2",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-09-20"
  },
@@ -5574,5 +5421,186 @@
   "audible_url": "https://www.audible.de/pd/B00YY8KD2Y",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-10-18"
+ },
+ {
+  "id": "r-B0FM3RRRQC",
+  "asin": "B0FM3RRRQC",
+  "titel": "Dreihundert Männer: Aufstieg und Fall der Deutschland AG",
+  "autor": "Konstantin Richter",
+  "sprecher": "Frank Arnold",
+  "begruendung": "Eine neue, erzählerisch zugespitzte Geschichte über die Seilschaften der deutschen Wirtschaft – reizvoll, wenn dir sonst Wirtschafts- und Gesellschaftsbiografien gefallen.",
+  "tags": {
+   "genres": [
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "nachdenklich"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Wirtschaft",
+    "Geschichte"
+   ],
+   "anlass": [
+    "fürs Auto",
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Dreihundert-Maenner-Hoerbuch/B0FM3RRRQC",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-19"
+ },
+ {
+  "id": "r-B0HFN1D3Q7",
+  "asin": "B0HFN1D3Q7",
+  "titel": "Lebenszeit: Vom Wert der Vergänglichkeit",
+  "autor": "Reinhold Messner, Diane Messner",
+  "sprecher": "Rike Schmid, Stéphane Daniel Bittoun",
+  "begruendung": "Eine ganz frische Lebensbilanz einer Bergsteiger-Legende – ähnlich reizvoll wie andere Sportler- und Abenteurer-Biografien, nur mit alpinem statt sportlichem Blickwinkel.",
+  "tags": {
+   "genres": [
+    "Biografie"
+   ],
+   "stimmung": [
+    "nachdenklich"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Sport",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Lebenszeit-Hoerbuch/B0HFN1D3Q7",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-19"
+ },
+ {
+  "id": "r-B0H7CCNJ7L",
+  "asin": "B0H7CCNJ7L",
+  "titel": "Tot unter der Hecke",
+  "autor": "Ann-Kathrin Karschnick",
+  "sprecher": "Josefine Preuß, Heikko Deutschmann, Judith Shoemaker",
+  "begruendung": "Cosy-Crime mit viel Situationskomik unter schrulligen Nachbarn – die Mischung aus Krimi und Witz, die bei dir neben reinem Kabarett auch gut ankommt.",
+  "tags": {
+   "genres": [
+    "Krimi",
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "spannend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle",
+    "Familie"
+   ],
+   "anlass": [
+    "fürs Auto",
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Tot-unter-der-Hecke-Hoerbuch/B0H7CCNJ7L",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-19"
+ },
+ {
+  "id": "r-B0H5QSTQM3",
+  "asin": "B0H5QSTQM3",
+  "titel": "Kopftuchmädchen - Leben zwischen Humor und Halal",
+  "autor": "Anissa Loucif",
+  "sprecher": "Anissa Loucif",
+  "begruendung": "Eine neue Comedy-Stimme, die ihren Alltag mit trockenem Witz erzählt – frischer Fund außerhalb deiner bekannten Comedy-Namen, aber im selben humorvollen Ton.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "selbstironisch"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Familie",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Kopftuchmaedchen-Leben-zwischen-Humor-und-Halal-Hoerbuch/B0H5QSTQM3",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-19"
+ },
+ {
+  "id": "r-B0HFNHT23Z",
+  "asin": "B0HFNHT23Z",
+  "titel": "Ich könnte SCHREIEN (manchmal auch vor Glück). Familienalltag für Furchtlose",
+  "autor": "Florian Hacke",
+  "sprecher": "Florian Hacke",
+  "begruendung": "Bitterböser, selbstironischer Familienalltags-Humor, der an deine Vorliebe für trockene Alltagskomik erinnert – eine brandneue Stimme.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "selbstironisch"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Alltag"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Ich-koennte-SCHREIEN-manchmal-auch-vor-Glueck-Familienalltag-fuer-Furchtlose-Hoerbuch/B0HFNHT23Z",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-19"
+ },
+ {
+  "id": "r-B0G1V644NV",
+  "asin": "B0G1V644NV",
+  "titel": "Papa weg, Mama müde, ich laut - Monolog einer Alleinerzogenen",
+  "autor": "Parshad Esmaeili",
+  "sprecher": "Parshad Esmaeili",
+  "begruendung": "Eine Stand-up-Comedian erzählt mit Witz von ihrer Kindheit ohne Vater – neue Stimme im Comedy-Memoir-Fach, die zu deiner Vorliebe für pointierte Bühnen-Erzählerinnen passt.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "berührend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/Papa-weg-Mama-muede-ich-laut-Hoerbuch/B0G1V644NV",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-19"
  }
 ]
