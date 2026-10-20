@@ -1998,36 +1998,6 @@
   "aufgenommen_am": "2026-09-17"
  },
  {
-  "id": "r-B004V3EX46",
-  "asin": "B004V3EX46",
-  "titel": "Zwischen Himmel un Ääd",
-  "autor": "Konrad Beikircher",
-  "sprecher": "Konrad Beikircher",
-  "begruendung": "Nachdem dir Beikirchers „Wie isset?“ gefallen hat: hier seziert er statt des Ruhrpotts das Rheinische – dieselbe leise, liebevolle Sprachlust, eine Dativ-Regel weiter östlich.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig",
-    "entspannend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag",
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "zum Einschlafen"
-   ],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "3844539832",
-  "audible_url": "https://www.audible.de/pd/Zwischen-Himmel-un-Aeaed-Hoerbuch/B004V3EX46",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-20"
- },
- {
   "id": "r-B004V5HEOU",
   "asin": "B004V5HEOU",
   "titel": "Vom Himmel in die Traufe",
@@ -5602,5 +5572,149 @@
   "audible_url": "https://www.audible.de/pd/Papa-weg-Mama-muede-ich-laut-Hoerbuch/B0G1V644NV",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-10-19"
+ },
+ {
+  "id": "r-B0HBX5NYRC",
+  "asin": "B0HBX5NYRC",
+  "titel": "Shitfluencer: Wie Social Media Deutschlands Demokratie zerstören wird – oder retten kann",
+  "autor": "Philipp Jessen",
+  "sprecher": "Jannek Dorn, Jakob Stark",
+  "begruendung": "Der StoryMachine-Gründer seziert, wie die Social-Media-Ökonomie die Demokratie untergräbt – ein Wirtschaftsthema mit politischer Brisanz, das bislang in deinem Regal fehlt.",
+  "tags": {
+   "genres": [
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "spannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Wirtschaft",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "3844542078",
+  "audible_url": "https://www.audible.de/pd/B0HBX5NYRC",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-20"
+ },
+ {
+  "id": "r-B0H8BFH3M8",
+  "asin": "B0H8BFH3M8",
+  "titel": "Die neue Krone der Schöpfung: Wie humanoide Roboter unsere Arbeitswelt, Gesellschaft und Identität neu definieren",
+  "autor": "Gunter Dueck",
+  "sprecher": "Mathias Grimm",
+  "begruendung": "Deutschlands bekanntester Wirtschaftsphilosoph denkt lauthals darüber nach, was Roboter mit Jobs und Selbstbild anstellen – pointiert wie ein Tech-Pendant zu deiner Elon-Musk-Biografie.",
+  "tags": {
+   "genres": [
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Wirtschaft",
+    "Wissenschaft"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B017K8W5PM",
+  "audible_url": "https://www.audible.de/pd/B0H8BFH3M8",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-20"
+ },
+ {
+  "id": "r-B0HJT12CTM",
+  "asin": "B0HJT12CTM",
+  "titel": "Das Ende von Win-win: Verhandeln in Zeiten der Kompromisslosigkeit",
+  "autor": "Matthias Schranner",
+  "sprecher": "Olaf Pessler",
+  "begruendung": "Der Verhandlungsprofi zeigt, warum klassische Win-win-Strategien scheitern – ein Wirtschaftsratgeber, der so konkret bleibt wie deine „1%-Methode“.",
+  "tags": {
+   "genres": [
+    "Ratgeber"
+   ],
+   "stimmung": [
+    "spannend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Wirtschaft"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "3844538453",
+  "audible_url": "https://www.audible.de/pd/B0HJT12CTM",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-20"
+ },
+ {
+  "id": "r-B07FY9S7JS",
+  "asin": "B07FY9S7JS",
+  "titel": "Die subtile Kunst des darauf Scheißens",
+  "autor": "Mark Manson",
+  "sprecher": "Stefan Lehnen",
+  "begruendung": "Manson zerlegt die Selbstoptimierungs-Industrie mit derselben respektlosen Klarheit, die du an Horst Evers' Rundumschlag gegen Ratgeber-Weisheiten magst.",
+  "tags": {
+   "genres": [
+    "Ratgeber"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Wirtschaft",
+    "Alltag"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B01N4K24ZB",
+  "audible_url": "https://www.audible.de/pd/B07FY9S7JS",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-20"
+ },
+ {
+  "id": "r-B0HH8X9B34",
+  "asin": "B0HH8X9B34",
+  "titel": "Das Wir in Wirtschaft: Wer Care-Arbeit aufwertet, sichert Wohlstand und Demokratie",
+  "autor": "Feline Tecklenburg",
+  "sprecher": "Lotte Schubert",
+  "begruendung": "Warum unbezahlte Sorgearbeit das unsichtbare Fundament der Wirtschaft ist – ein Gesellschaftsthema mit wirtschaftlichem Biss, passend zu deiner „Ein verheißenes Land“-Lektüre.",
+  "tags": {
+   "genres": [
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "spannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Wirtschaft",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "3844542078",
+  "audible_url": "https://www.audible.de/pd/B0HH8X9B34",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-20"
  }
 ]
