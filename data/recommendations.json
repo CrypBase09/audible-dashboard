@@ -1998,156 +1998,6 @@
   "aufgenommen_am": "2026-09-17"
  },
  {
-  "id": "r-B004V5HEOU",
-  "asin": "B004V5HEOU",
-  "titel": "Vom Himmel in die Traufe",
-  "autor": "Arto Paasilinna",
-  "sprecher": "Jürgen von der Lippe",
-  "begruendung": "Derselbe Autor-Sprecher-Zweiklang wie bei „Im Jenseits ist die Hölle los“ – wieder Paasilinnas schräger finnischer Humor, wieder von der Lippes trockener Ton.",
-  "tags": {
-   "genres": [
-    "Belletristik"
-   ],
-   "stimmung": [
-    "witzig",
-    "skurril"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Alltag"
-   ],
-   "anlass": [
-    "beim Bügeln"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/Vom-Himmel-in-die-Traufe-Hoerbuch/B004V5HEOU",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-23"
- },
- {
-  "id": "r-B01FXN6YYE",
-  "asin": "B01FXN6YYE",
-  "titel": "Vinum Mysterium",
-  "autor": "Carsten Sebastian Henn",
-  "sprecher": "Jürgen von der Lippe",
-  "begruendung": "Von der Lippe verlässt mal die Comedy-Bühne und liest einen Krimi – Henns Ahrtal-Fall um Sternekoch Eichendorff bringt die vertraute Stimme in neues Terrain.",
-  "tags": {
-   "genres": [
-    "Krimi"
-   ],
-   "stimmung": [
-    "spannend",
-    "witzig"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Krimi-Fälle"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/Vinum-Mysterium-Hoerbuch/B01FXN6YYE",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-23"
- },
- {
-  "id": "r-B00JBFQ4Y6",
-  "asin": "B00JBFQ4Y6",
-  "titel": "Männopause",
-  "autor": "Linus Höke",
-  "sprecher": "Jürgen von der Lippe",
-  "begruendung": "Von der Lippe liest hier nicht seine eigenen Texte, sondern Linus Hökes bitterböse Midlife-Satire – passt neben „Midlife Crisis“ und „Wir sollten uns auch mal scheiden lassen“ nahtlos ins Bügel-Regal.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig",
-    "bissig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag"
-   ],
-   "anlass": [
-    "beim Bügeln"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/Maennopause-Hoerbuch/B00JBFQ4Y6",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-23"
- },
- {
-  "id": "r-3954717441",
-  "asin": "3954717441",
-  "titel": "Total Recall: Die wahre Geschichte meines Lebens",
-  "autor": "Arnold Schwarzenegger",
-  "sprecher": "Sebastian Pappenberger",
-  "begruendung": "Vom Bodybuilding-Weltmeister zum Gouverneur – Schwarzenegger erzählt so schonungslos wie Boris Becker in „Inside“, nur mit noch größerer Bühne.",
-  "tags": {
-   "genres": [
-    "Biografie",
-    "Sport"
-   ],
-   "stimmung": [
-    "inspirierend",
-    "spannend"
-   ],
-   "laenge": "episch",
-   "themen": [
-    "Sport",
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "lange Reise"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/Total-Recall-Hoerbuch/3954717441",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-23"
- },
- {
-  "id": "r-B09RGBQQQR",
-  "asin": "B09RGBQQQR",
-  "titel": "Der Allesverkäufer",
-  "autor": "Brad Stone",
-  "sprecher": "Sebastian Pappenberger",
-  "begruendung": "Derselbe Sprecher wie bei Schwarzeneggers Memoiren, diesmal Brad Stones zweites großes Firmenporträt nach „Amazon unaufhaltsam“ – diesmal mit Fokus auf Bezos selbst statt dem Konzern.",
-  "tags": {
-   "genres": [
-    "Biografie",
-    "Wirtschaft",
-    "Sachbuch"
-   ],
-   "stimmung": [
-    "informativ",
-    "spannend"
-   ],
-   "laenge": "episch",
-   "themen": [
-    "Gesellschaft",
-    "Wissenschaft"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": null,
-  "audible_url": "https://www.audible.de/pd/Der-Allesverkaeufer-Hoerbuch/B09RGBQQQR",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-23"
- },
- {
   "id": "r-B07D4JQZDV",
   "asin": "B07D4JQZDV",
   "titel": "Kronk",
@@ -5865,5 +5715,159 @@
   "audible_url": "https://www.audible.de/pd/Pfoten-vom-Tisch-Hoerbuch/3844928219",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-10-21"
+ },
+ {
+  "id": "r-B0BNQ3KP77",
+  "asin": "B0BNQ3KP77",
+  "titel": "Wissenschaft ist das, was auch dann gilt, wenn man nicht dran glaubt",
+  "autor": "Science Busters",
+  "sprecher": "Science Busters, Thomas Loibl",
+  "begruendung": "Wie bei \"Naked at Lunch\" triffst du hier auf humorvoll aufbereitetes Sachwissen – nur live auf der Bühne: Die Science Busters erklären Wissenschaft mit demselben Schalk, mit dem von der Lippe durch die FKK-Welt geführt hat.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Wissenschaft"
+   ],
+   "stimmung": [
+    "witzig",
+    "klug"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Wissenschaft",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B01CSUN5GA",
+  "audible_url": "https://www.audible.de/pd/Wissenschaft-ist-das-was-auch-dann-gilt-wenn-man-nicht-dran-glaubt-Hoerbuch/B0BNQ3KP77",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-22"
+ },
+ {
+  "id": "r-B09V8F9H17",
+  "asin": "B09V8F9H17",
+  "titel": "Somuncu Box",
+  "autor": "Serdar Somuncu",
+  "sprecher": "Serdar Somuncu",
+  "begruendung": "Genauso schonungslos und textsicher wie Sträter in \"Schnee, der auf Ceran fällt\", nur mit noch mehr politischer Schärfe – die Box bündelt mehrere Live-Programme von Somuncu.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Kabarett"
+   ],
+   "stimmung": [
+    "scharf",
+    "provokant"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Gesellschaft",
+    "Politik"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B0C9J36Q3Y",
+  "audible_url": "https://www.audible.de/pd/Somuncu-Box-Hoerbuch/B09V8F9H17",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-22"
+ },
+ {
+  "id": "r-B0CZ9J9QJ8",
+  "asin": "B0CZ9J9QJ8",
+  "titel": "Brüssel sehen und sterben",
+  "autor": "Nico Semsrott",
+  "sprecher": "Marian Funk",
+  "begruendung": "Nuhr nimmt Politik auf der Bühne auseinander – Semsrott hat sie fünf Jahre lang von innen erlebt und erzählt genauso trocken-komisch, wie deprimierend der Politikbetrieb wirklich ist.",
+  "tags": {
+   "genres": [
+    "Satire",
+    "Comedy"
+   ],
+   "stimmung": [
+    "bissig",
+    "ehrlich"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Politik",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0CMQWBR43",
+  "audible_url": "https://www.audible.de/pd/Bruessel-sehen-und-sterben-Hoerbuch/B0CZ9J9QJ8",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-22"
+ },
+ {
+  "id": "r-3838792610",
+  "asin": "3838792610",
+  "titel": "Netter is Better",
+  "autor": "Thomas Hermanns",
+  "sprecher": "Thomas Hermanns",
+  "begruendung": "Genauso warmherzig-komisch wie Malmsheimers \"Wenn Worte reden könnten\", nur mit der Masterclass eines Quatsch-Comedy-Club-Gründers in guter Laune als Lebenskunst.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Ratgeber"
+   ],
+   "stimmung": [
+    "herzerwärmend",
+    "witzig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B004UVQ6CQ",
+  "audible_url": "https://www.audible.de/pd/Netter-is-Better-Hoerbuch/3838792610",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-22"
+ },
+ {
+  "id": "r-B01GG79MLI",
+  "asin": "B01GG79MLI",
+  "titel": "Das Abschiedskonzert",
+  "autor": "Rainald Grebe",
+  "sprecher": "Rainald Grebe",
+  "begruendung": "Genauso schräg-assoziativ wie von der Lippes \"Sex ist wie Mehl\", nur als musikalisches Liederabend-Programm – Grebes Songs über Alltagsabsurditäten treffen deinen Humor für Zwischendurch.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Musik-Kabarett"
+   ],
+   "stimmung": [
+    "schräg",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B09MWKWZNK",
+  "audible_url": "https://www.audible.de/pd/Das-Abschiedskonzert-Hoerbuch/B01GG79MLI",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-22"
  }
 ]
