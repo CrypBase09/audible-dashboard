@@ -1998,144 +1998,6 @@
   "aufgenommen_am": "2026-09-17"
  },
  {
-  "id": "r-B07D4JQZDV",
-  "asin": "B07D4JQZDV",
-  "titel": "Kronk",
-  "autor": "Bülent Ceylan, Roland Junghans",
-  "sprecher": "Bülent Ceylan",
-  "begruendung": "Ceylan holt mit Kopfnicken und Headbanging genau die Halle-voll-Energie ab, die dir bei Paul Panzers Bühnenprogrammen schon gefällt.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag"
-   ],
-   "anlass": [],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "B0B1ZT4BW9",
-  "audible_url": "https://www.audible.de/pd/B07D4JQZDV",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-24"
- },
- {
-  "id": "r-3837153711",
-  "asin": "3837153711",
-  "titel": "Intensiv",
-  "autor": "Bülent Ceylan",
-  "sprecher": "Bülent Ceylan",
-  "begruendung": "Ceylan blickt hier ganz persönlich auf 21 Jahre Bühne zurück – dieselbe warme Familien-Rückschau, die dir bei Johann Königs „Familie macht glücklich\" gefällt.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig",
-    "herzerwärmend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Familie",
-    "Alltag"
-   ],
-   "anlass": [],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "B0BTZ4672Z",
-  "audible_url": "https://www.audible.de/pd/3837153711",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-24"
- },
- {
-  "id": "r-B08FF1K6R5",
-  "asin": "B08FF1K6R5",
-  "titel": "Die Live-Kronjuwelen",
-  "autor": "Atze Schröder",
-  "sprecher": "Atze Schröder",
-  "begruendung": "Highlights aus „Atze im Wunderland\" vor 1500 Zuschauern – dieselbe Arena-Wucht wie bei Mario Barths Bühnenprogrammen.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag",
-    "Gesellschaft"
-   ],
-   "anlass": [],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "B0B1QKNFH2",
-  "audible_url": "https://www.audible.de/pd/B08FF1K6R5",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-24"
- },
- {
-  "id": "r-B0B1QLLH9R",
-  "asin": "B0B1QLLH9R",
-  "titel": "Paranoid",
-  "autor": "Michael Mittermeier",
-  "sprecher": "Michael Mittermeier",
-  "begruendung": "Mittermeiers preisgekröntes drittes Programm – nachdenklicher deutscher Solo-Humor wie bei Dieter Nuhrs „Nuhr auf Tour\".",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag",
-    "Gesellschaft"
-   ],
-   "anlass": [],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "B0CMQWBR43",
-  "audible_url": "https://www.audible.de/pd/B0B1QLLH9R",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-24"
- },
- {
-  "id": "r-3844535047",
-  "asin": "3844535047",
-  "titel": "Das ABC des schönen Mordens",
-  "autor": "Kai Magnus Sting, Leonhard Koppelmann",
-  "sprecher": "Felix von Manteuffel, Leslie Malton",
-  "begruendung": "Vom „Tod unter Gurken\"-Autor: ein Ehepaar mordet sich durchs Alphabet – derselbe schwarze Humor, nur als kompaktes 79-Minuten-Hörspiel.",
-  "tags": {
-   "genres": [
-    "Krimi"
-   ],
-   "stimmung": [
-    "witzig",
-    "spannend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Krimi-Fälle",
-    "Beziehung"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": "B06XCFQJ2B",
-  "audible_url": "https://www.audible.de/pd/3844535047",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-24"
- },
- {
   "id": "r-B08CY8QB46",
   "asin": "B08CY8QB46",
   "titel": "Vino Furioso",
@@ -5869,5 +5731,126 @@
   "audible_url": "https://www.audible.de/pd/Das-Abschiedskonzert-Hoerbuch/B01GG79MLI",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-10-22"
+ },
+ {
+  "id": "r-B004X9A9BE",
+  "asin": "B004X9A9BE",
+  "titel": "Urknaller - Physik ist sexy",
+  "autor": "Vince Ebert",
+  "sprecher": "Vince Ebert",
+  "begruendung": "Wissenschaft mit Pointen, genau in der Kerbe wie die Science-Busters-Box, die du schon im Regal hast – nur rockt hier ein Physiker ganz allein die Bühne.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Wissenschaft"
+   ],
+   "stimmung": [
+    "schlau",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Wissenschaft",
+    "Alltag"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B0BNQ3KP77",
+  "audible_url": "https://www.audible.de/pd/Urknaller-Physik-ist-sexy-Hoerbuch/B004X9A9BE",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-23"
+ },
+ {
+  "id": "r-B004V1BBJS",
+  "asin": "B004V1BBJS",
+  "titel": "Der weiße Neger Wumbaba",
+  "autor": "Axel Hacke",
+  "sprecher": "Axel Hacke",
+  "begruendung": "Der erste Band einer Kult-Trilogie übers herrliche Verhören von Songtexten – trifft dieselbe Lust am Sprachwitz wie Hackes „Über die Heiterkeit...“, das du schon kennst, und hat gleich zwei Fortsetzungen in Reserve.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "schräg",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0CF5VNY4B",
+  "audible_url": "https://www.audible.de/pd/Der-weisse-Neger-Wumbaba-Hoerbuch/B004V1BBJS",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-23"
+ },
+ {
+  "id": "r-B004V6QKAI",
+  "asin": "B004V6QKAI",
+  "titel": "Achtung Baby!",
+  "autor": "Michael Mittermeier",
+  "sprecher": "Michael Mittermeier",
+  "begruendung": "Stand-up übers Vatersein, in derselben Familien-Alltags-Kerbe wie Königs „Familie macht glücklich“ – nur mit Mittermeiers kompletter Live-Bühnenshow drumherum.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "herzerwärmend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Alltag"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B0BTZ4672Z",
+  "audible_url": "https://www.audible.de/pd/Achtung-Baby-Hoerbuch/B004V6QKAI",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-23"
+ },
+ {
+  "id": "r-B0BYJJRHM4",
+  "asin": "B0BYJJRHM4",
+  "titel": "Wer Angst hat, soll zuhause bleiben!",
+  "autor": "Sarah Bosetti",
+  "sprecher": "Sarah Bosetti",
+  "begruendung": "Politisches Kabarett in Gedichtform, genauso bissig wie Nuhr auf der Bühne – nur jünger und als Spoken-Word-Poetin.",
+  "tags": {
+   "genres": [
+    "Satire",
+    "Comedy"
+   ],
+   "stimmung": [
+    "bissig",
+    "klug"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Politik",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B0CMQWBR43",
+  "audible_url": "https://www.audible.de/pd/Wer-Angst-hat-soll-zuhause-bleiben-Hoerbuch/B0BYJJRHM4",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-23"
  }
 ]
