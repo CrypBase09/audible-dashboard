@@ -1998,152 +1998,6 @@
   "aufgenommen_am": "2026-09-17"
  },
  {
-  "id": "r-B08CY8QB46",
-  "asin": "B08CY8QB46",
-  "titel": "Vino Furioso",
-  "autor": "Carsten Sebastian Henn",
-  "sprecher": "Carsten Sebastian Henn",
-  "begruendung": "Ein weiterer Fall für Julius Eichendorff aus der Weinberg-Krimireihe, von der du schon mehrere Bände im Regal hast – diesmal liest und singt Henn sogar selbst.",
-  "tags": {
-   "genres": [
-    "Krimi",
-    "Comedy"
-   ],
-   "stimmung": [
-    "kurzweilig",
-    "humorvoll"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Krimi-Fälle"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B01FXMYXXY",
-  "audible_url": "https://www.audible.de/pd/Vino-Furioso-Hoerbuch/B08CY8QB46",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-25"
- },
- {
-  "id": "r-B004V3VAHY",
-  "asin": "B004V3VAHY",
-  "titel": "Millionär",
-  "autor": "Tommy Jaud",
-  "sprecher": "Christoph Maria Herbst",
-  "begruendung": "Direkte Fortsetzung von „Vollidiot\" – derselbe Antiheld, diesmal auf dem Weg zum schnellen Reichtum, wieder trocken gelesen von Christoph Maria Herbst.",
-  "tags": {
-   "genres": [
-    "Belletristik"
-   ],
-   "stimmung": [
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag",
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "beim Bügeln"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B00TSR3SQE",
-  "audible_url": "https://www.audible.de/pd/Millionaer-Hoerbuch/B004V3VAHY",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-25"
- },
- {
-  "id": "r-B0G2SDMB2Y",
-  "asin": "B0G2SDMB2Y",
-  "titel": "Bakterien – die heimlichen Helden",
-  "autor": "Peter Wohlleben",
-  "sprecher": "Thomas Loibl",
-  "begruendung": "Wohllebens neuestes Sachbuch, genauso ruhig erzählt wie „Das geheime Netzwerk der Natur\" – diesmal geht es um die unsichtbare Welt der Bakterien.",
-  "tags": {
-   "genres": [
-    "Sachbuch"
-   ],
-   "stimmung": [
-    "ruhig"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Wissenschaft"
-   ],
-   "anlass": [
-    "zum Einschlafen"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B074JDSLHN",
-  "audible_url": "https://www.audible.de/pd/Bakterien-die-heimlichen-Helden-Hoerbuch/B0G2SDMB2Y",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-25"
- },
- {
-  "id": "r-B0D4B3M246",
-  "asin": "B0D4B3M246",
-  "titel": "Sprachkurs Hund von Martin Rütter",
-  "autor": "Martin Rütter",
-  "sprecher": "Peter Veit",
-  "begruendung": "Diesmal kein Live-Programm, sondern ein Ratgeber: Rütter erklärt Körpersprache und Kommunikation von Hunden – passend, nachdem dir „Der tut nix\" schon gefallen hat.",
-  "tags": {
-   "genres": [
-    "Ratgeber"
-   ],
-   "stimmung": [
-    "kurzweilig"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Tiere"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B08FF1588T",
-  "audible_url": "https://www.audible.de/pd/Sprachkurs-Hund-von-Martin-Ruetter-Hoerbuch/B0D4B3M246",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-25"
- },
- {
-  "id": "r-B008XWSKMM",
-  "asin": "B008XWSKMM",
-  "titel": "Onkel Wanja kommt",
-  "autor": "Wladimir Kaminer",
-  "sprecher": "Wladimir Kaminer",
-  "begruendung": "Wieder schrägkomische, kurze Alltagsgeschichten von Kaminer selbst gelesen, ganz wie „Russendisko\" – diesmal ein nächtlicher Spaziergang durch Berlin mit dem Onkel im Gepäck.",
-  "tags": {
-   "genres": [
-    "Comedy",
-    "Belletristik"
-   ],
-   "stimmung": [
-    "witzig",
-    "entspannend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag",
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "zum Einschlafen"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B004V25Z6W",
-  "audible_url": "https://www.audible.de/pd/Onkel-Wanja-kommt-Hoerbuch/B008XWSKMM",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-25"
- },
- {
   "id": "r-B073JS64J5",
   "asin": "B073JS64J5",
   "titel": "Eine Woche voller Samstage",
@@ -5852,5 +5706,165 @@
   "audible_url": "https://www.audible.de/pd/Wer-Angst-hat-soll-zuhause-bleiben-Hoerbuch/B0BYJJRHM4",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-10-23"
+ },
+ {
+  "id": "r-B09WTWZB13",
+  "asin": "B09WTWZB13",
+  "titel": "Die Wilden Hühner",
+  "autor": "Cornelia Funke",
+  "sprecher": "Anne Moll, Chloe Lee Constantin, Malin Steffen, Leonie Landa, Alexandra Kuzeja",
+  "begruendung": "Mit dem NEINhorn und Bibi Blocksberg kommt bei euch am Wochenende gern gemeinsam gehört – diese frisch produzierte Hörspiel-Serie um eine Mädchenbande voller Mut und Zusammenhalt ist der nächste Klassiker dafür.",
+  "tags": {
+   "genres": [
+    "Kinder",
+    "Abenteuer"
+   ],
+   "stimmung": [
+    "witzig",
+    "herzerwärmend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer",
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0CW9WXKDF",
+  "audible_url": "https://www.audible.de/pd/Die-Wilden-Huehner-Hoerbuch/B09WTWZB13",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-24"
+ },
+ {
+  "id": "r-3844924337",
+  "asin": "3844924337",
+  "titel": "Die kleine Hexe: Ausflug mit Abraxas / Winterzauber mit Abraxas",
+  "autor": "Otfried Preußler, Susanne Preußler-Bitsch",
+  "sprecher": "Suzanne von Borsody",
+  "begruendung": "Ihr habt Bibi Blocksberg und Pettersson und Findus schon zum gemeinsamen Hören im Regal – zwei kurze neue Abenteuer von Preußlers beliebter kleiner Hexe und ihrem Raben Abraxas passen genau in diese Lücke.",
+  "tags": {
+   "genres": [
+    "Kinder",
+    "Fantasy"
+   ],
+   "stimmung": [
+    "warmherzig",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer",
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B004JVIFYE",
+  "audible_url": "https://www.audible.de/pd/Die-kleine-Hexe-Hoerbuch/3844924337",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-24"
+ },
+ {
+  "id": "r-B00LLHZ132",
+  "asin": "B00LLHZ132",
+  "titel": "Ronja Räubertochter",
+  "autor": "Astrid Lindgren",
+  "sprecher": "Ulrich Noethen",
+  "begruendung": "Pippi Langstrumpf steht schon im Regal zum gemeinsamen Hören – Lindgrens zweite große Heldin, die halb wild im Wald aufwächst, ist die passende Ergänzung für lange Autofahrten mit der Familie.",
+  "tags": {
+   "genres": [
+    "Kinder",
+    "Abenteuer"
+   ],
+   "stimmung": [
+    "herzerwärmend",
+    "spannend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Abenteuer",
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "3837367193",
+  "audible_url": "https://www.audible.de/pd/Ronja-Raeubertochter-Hoerbuch/B00LLHZ132",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-24"
+ },
+ {
+  "id": "r-B073VP3SZB",
+  "asin": "B073VP3SZB",
+  "titel": "Das doppelte Lottchen",
+  "autor": "Erich Kästner",
+  "sprecher": "Julia Meier, Delphine Lohmann, Mia Lohmann, Florian Stetter, Alwara Höfels",
+  "begruendung": "Noch ein Hörspiel-Klassiker für die Samstagsrunde mit der Familie: Kästners Geschichte der vertauschten Zwillinge ist seit über 90 Jahren ein Hit zum gemeinsamen Hören – passend zu eurer Vorliebe für Hörspiele wie die Olchis.",
+  "tags": {
+   "genres": [
+    "Kinder",
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "herzerwärmend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0CRS25X26",
+  "audible_url": "https://www.audible.de/pd/Das-doppelte-Lottchen-Hoerbuch/B073VP3SZB",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-24"
+ },
+ {
+  "id": "r-3837366707",
+  "asin": "3837366707",
+  "titel": "Geschichten vom Franz",
+  "autor": "Christine Nöstlinger",
+  "sprecher": "Christine Nöstlinger",
+  "begruendung": "Kurze, warmherzige Alltagsgeschichten über einen Jungen namens Franz, selbst von Nöstlinger gelesen – gut portionierbar für eine gemeinsame Hörrunde mit den Kindern, ganz in der Tradition von Rico & Oskar im Regal.",
+  "tags": {
+   "genres": [
+    "Kinder",
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "herzerwärmend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Alltag"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B00KDJGZWU",
+  "audible_url": "https://www.audible.de/pd/Geschichten-vom-Franz-Hoerbuch/3837366707",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-24"
  }
 ]
