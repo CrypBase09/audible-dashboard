@@ -1998,302 +1998,6 @@
   "aufgenommen_am": "2026-09-17"
  },
  {
-  "id": "r-B073JS64J5",
-  "asin": "B073JS64J5",
-  "titel": "Eine Woche voller Samstage",
-  "autor": "Paul Maar",
-  "sprecher": "Monty Arnold",
-  "begruendung": "Der Auftakt der Sams-Reihe – freches, warmherziges Kinderhörbuch fürs gemeinsame Hören am Wochenende, in der Tonart von \"Das NEINhorn\".",
-  "tags": {
-   "genres": [
-    "Kinder"
-   ],
-   "stimmung": [
-    "witzig",
-    "frech"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Familie",
-    "Abenteuer"
-   ],
-   "anlass": [
-    "mit den Kindern"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B0CW9WXKDF",
-  "audible_url": "https://www.audible.de/pd/B073JS64J5",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-26"
- },
- {
-  "id": "r-B006YNAKBG",
-  "asin": "B006YNAKBG",
-  "titel": "Die Olchis sind da",
-  "autor": "Erhard Dietl",
-  "sprecher": "Rainer Schmitt, Stephanie Kirchberger, Maritna Mank",
-  "begruendung": "Der Serienstart der Olchis – schräg-witziges Familienhörspiel, passend zum gemeinsamen Wochenend-Hören mit den Kindern.",
-  "tags": {
-   "genres": [
-    "Kinder"
-   ],
-   "stimmung": [
-    "witzig",
-    "herzerwärmend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Abenteuer",
-    "Familie"
-   ],
-   "anlass": [
-    "mit den Kindern"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": "B0CW9WXKDF",
-  "audible_url": "https://www.audible.de/pd/B006YNAKBG",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-26"
- },
- {
-  "id": "r-3837367193",
-  "asin": "3837367193",
-  "titel": "Alles von Pippi Langstrumpf",
-  "autor": "Astrid Lindgren",
-  "sprecher": "Josefine Preuß",
-  "begruendung": "Alle drei Pippi-Abenteuer ungekürzt in einer Box – über 7 Stunden für gemütliches Zuhören mit der ganzen Familie, auch auf längeren Fahrten.",
-  "tags": {
-   "genres": [
-    "Kinder"
-   ],
-   "stimmung": [
-    "frech",
-    "herzerwärmend"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Abenteuer",
-    "Reisen"
-   ],
-   "anlass": [
-    "mit den Kindern",
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B0CW9WXKDF",
-  "audible_url": "https://www.audible.de/pd/3837367193",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-26"
- },
- {
-  "id": "r-B00CM6VWVG",
-  "asin": "B00CM6VWVG",
-  "titel": "Momo",
-  "autor": "Michael Ende",
-  "sprecher": "Gert Heidenreich",
-  "begruendung": "Zeitloser Kinderbuch-Klassiker über ein Mädchen, das den grauen Herren die gestohlene Zeit wieder abjagt – wunderbar zum gemeinsamen Hören am Wochenende.",
-  "tags": {
-   "genres": [
-    "Kinder"
-   ],
-   "stimmung": [
-    "nachdenklich",
-    "geheimnisvoll"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Abenteuer",
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "mit den Kindern"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B0CW9WXKDF",
-  "audible_url": "https://www.audible.de/pd/B00CM6VWVG",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-26"
- },
- {
-  "id": "r-B0927QYPQC",
-  "asin": "B0927QYPQC",
-  "titel": "Der Grüffelo. Das Original-Hörspiel zum Film",
-  "autor": "Thomas Karallus",
-  "sprecher": "Susanne Sternberg, Christian Ulmen, Wolfgang Hess, Heike Makatsch, Edgar Selge, Gerd Voss, Otto Sander",
-  "begruendung": "Starbesetztes Hörspiel zum Bilderbuch-Klassiker – kurz genug für einen gemeinsamen Hörabend mit den Kindern am Samstag.",
-  "tags": {
-   "genres": [
-    "Kinder"
-   ],
-   "stimmung": [
-    "spannend",
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Tiere",
-    "Abenteuer"
-   ],
-   "anlass": [
-    "mit den Kindern"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": "B0CW9WXKDF",
-  "audible_url": "https://www.audible.de/pd/B0927QYPQC",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-26"
- },
- {
-  "id": "r-3844536248",
-  "asin": "3844536248",
-  "titel": "Das geheime Band",
-  "autor": "Peter Wohlleben",
-  "sprecher": "Peter Kaempfe",
-  "begruendung": "Wieder ein ruhig erzähltes Wohlleben-Sachbuch, diesmal über die biologische Verbindung zwischen Mensch und Wald – genau die Tonart, die schon bei „Bakterien – die heimlichen Helden\" gut ankam.",
-  "tags": {
-   "genres": [
-    "Sachbuch"
-   ],
-   "stimmung": [
-    "ruhig"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Wissenschaft"
-   ],
-   "anlass": [
-    "zum Einschlafen"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B0G2SDMB2Y",
-  "audible_url": "https://www.audible.de/pd/Das-geheime-Band-Hoerbuch/3844536248",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-27"
- },
- {
-  "id": "r-B09XN74RPD",
-  "asin": "B09XN74RPD",
-  "titel": "Die Naturgeschichte des Immunsystems",
-  "autor": "Clemens G. Arvay",
-  "sprecher": "Max Hoffmann",
-  "begruendung": "Ruhiges Wissenschafts-Sachbuch in der Tonart von Wohllebens Naturbüchern – diesmal geht es um die evolutionäre Verbindung zwischen Immunsystem und Umwelt.",
-  "tags": {
-   "genres": [
-    "Sachbuch"
-   ],
-   "stimmung": [
-    "ruhig",
-    "nachdenklich"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Wissenschaft"
-   ],
-   "anlass": [
-    "zum Einschlafen"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B074JDSLHN",
-  "audible_url": "https://www.audible.de/pd/Die-Naturgeschichte-des-Immunsystems-Hoerbuch/B09XN74RPD",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-27"
- },
- {
-  "id": "r-B0GYFNJJKR",
-  "asin": "B0GYFNJJKR",
-  "titel": "Lego - Die Welt ist voller Träume",
-  "autor": "Katharina von der Lane",
-  "sprecher": "Sanja Nowara",
-  "begruendung": "Bewegende Familien- und Gründergeschichte der LEGO-Firma – für alle, die wie bei Obamas Memoiren gern lange, persönliche Lebensgeschichten hören.",
-  "tags": {
-   "genres": [
-    "Belletristik"
-   ],
-   "stimmung": [
-    "bewegend",
-    "warmherzig"
-   ],
-   "laenge": "episch",
-   "themen": [
-    "Geschichte",
-    "Familie"
-   ],
-   "anlass": [
-    "lange Reise"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "3844542078",
-  "audible_url": "https://www.audible.de/pd/B0GYFNJJKR",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-27"
- },
- {
-  "id": "r-B004UV71S4",
-  "asin": "B004UV71S4",
-  "titel": "Der Königsweg",
-  "autor": "Johann König",
-  "sprecher": "Johann König",
-  "begruendung": "Frühes Soloprogramm von Johann König übers genüssliche Nichtstun – trockener Humor wie in „Familie macht glücklich\", nur noch unaufgeregter.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "entspannt",
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag"
-   ],
-   "anlass": [
-    "beim Bügeln"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B0BTZ4672Z",
-  "audible_url": "https://www.audible.de/pd/B004UV71S4",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-27"
- },
- {
-  "id": "r-B01G3VEJZG",
-  "asin": "B01G3VEJZG",
-  "titel": "Nur Nuhr",
-  "autor": "Dieter Nuhr",
-  "sprecher": "Dieter Nuhr",
-  "begruendung": "Minimalistisches Solo-Programm von Dieter Nuhr – nur ein Mann und ein Mikro, im gleichen bissig-nachdenklichen Ton wie „Nuhr auf Tour\".",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "bissig",
-    "nachdenklich"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "B0CMQWBR43",
-  "audible_url": "https://www.audible.de/pd/Nur-Nuhr-Hoerbuch/B01G3VEJZG",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-27"
- },
- {
   "id": "r-B0FHQDTGYW",
   "asin": "B0FHQDTGYW",
   "titel": "8000 Arten, als Mutter zu versagen",
@@ -5866,5 +5570,158 @@
   "audible_url": "https://www.audible.de/pd/Geschichten-vom-Franz-Hoerbuch/3837366707",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-10-24"
+ },
+ {
+  "id": "r-B008MLO9GU",
+  "asin": "B008MLO9GU",
+  "titel": "Voll streng, Frau Freitag: Neues aus dem Schulalltag",
+  "autor": "Frau Freitag",
+  "sprecher": "Carolin Kebekus",
+  "begruendung": "Carolin Kebekus, die dich im \"witzigsten Vorleseabend der Welt\" schon zum Lachen gebracht hat, liest hier solo aus dem Schulalltag einer notorisch überforderten Lehrerin – frech und selbstironisch, genau ihr Ton.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "frech"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B07BSGRV26",
+  "audible_url": "https://www.audible.de/pd/Voll-streng-Frau-Freitag-Neues-aus-dem-Schulalltag-Hoerbuch/B008MLO9GU",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-28"
+ },
+ {
+  "id": "r-B008B5YJFS",
+  "asin": "B008B5YJFS",
+  "titel": "Chill mal, Frau Freitag: Aus dem Alltag einer unerschrockenen Lehrerin",
+  "autor": "Frau Freitag",
+  "sprecher": "Carolin Kebekus",
+  "begruendung": "Der zweite Band aus Kebekus' Lehrerinnen-Tagebuch – wieder sie allein am Mikro, wieder Alltagschaos mit viel Selbstironie, wie schon in \"Beim Dehnen singe ich Balladen\".",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "frech"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B00S8FUOI2",
+  "audible_url": "https://www.audible.de/pd/Chill-mal-Frau-Freitag-Alltag-einer-unerschrockenen-Lehrerin-Hoerbuch/B008B5YJFS",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-28"
+ },
+ {
+  "id": "r-B0DSJ71ZXT",
+  "asin": "B0DSJ71ZXT",
+  "titel": "Die Kriege der Gegenwart und der Beginn einer neuen Weltordnung",
+  "autor": "Joschka Fischer",
+  "sprecher": "Mark Bremer",
+  "begruendung": "Mark Bremer, dieselbe Stimme wie bei Obamas \"Ein verheißenes Land\", liest hier Fischers nüchternen Blick auf die neue Weltunordnung – politisches Sachbuch statt Memoiren, aber derselbe aufklärende Ton.",
+  "tags": {
+   "genres": [
+    "Politische Biografie",
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "politisch",
+    "nachdenklich"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Politik",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "3844542078",
+  "audible_url": "https://www.audible.de/pd/Die-Kriege-der-Gegenwart-und-der-Beginn-einer-neuen-Weltordnung-Hoerbuch/B0DSJ71ZXT",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-28"
+ },
+ {
+  "id": "r-B0HGBQLY4C",
+  "asin": "B0HGBQLY4C",
+  "titel": "Protocols: Die Gebrauchsanweisung für den menschlichen Körper",
+  "autor": "Andrew Huberman",
+  "sprecher": "Mark Bremer",
+  "begruendung": "Wieder Mark Bremer am Mikro, diesmal mit Hubermans Routinen für Fokus, Schlaf und Energie – passt zum systematischen, optimierungsfreudigen Blick, mit dem du schon Zlatans \"Adrenalin\" gehört hast.",
+  "tags": {
+   "genres": [
+    "Sachbuch",
+    "Ratgeber"
+   ],
+   "stimmung": [
+    "motivierend",
+    "informativ"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Wissenschaft",
+    "Alltag"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B09VPYXHRC",
+  "audible_url": "https://www.audible.de/pd/Protocols-Hoerbuch/B0HGBQLY4C",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-28"
+ },
+ {
+  "id": "r-B09WQC6YRW",
+  "asin": "B09WQC6YRW",
+  "titel": "Der Codebreaker: Wie die Erfindung der Genschere die Zukunft der Menschheit für immer verändert",
+  "autor": "Walter Isaacson",
+  "sprecher": "Marlen Ulonska",
+  "begruendung": "Isaacson, derselbe Autor wie bei deinen Musk-, Jobs- und Einstein-Biografien, diesmal über Jennifer Doudna und die CRISPR-Genschere – wieder eine Einzelne, die mit Sturheit ein ganzes Feld umkrempelt.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Sachbuch"
+   ],
+   "stimmung": [
+    "spannend",
+    "klug"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Wissenschaft",
+    "Geschichte"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0CHSK2VHM",
+  "audible_url": "https://www.audible.de/pd/Der-Codebreaker-Hoerbuch/B09WQC6YRW",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-28"
  }
 ]
