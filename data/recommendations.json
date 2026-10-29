@@ -1998,155 +1998,6 @@
   "aufgenommen_am": "2026-09-17"
  },
  {
-  "id": "r-B0FHQDTGYW",
-  "asin": "B0FHQDTGYW",
-  "titel": "8000 Arten, als Mutter zu versagen",
-  "autor": "Carolin Kebekus",
-  "sprecher": "Carolin Kebekus",
-  "begruendung": "Kebekus kennst du schon als Mitsprecherin aus „Beim Dehnen singe ich Balladen“ – hier übernimmt sie solo und rechnet schonungslos komisch mit dem Mutterschafts-Ideal ab.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig",
-    "ehrlich"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Familie",
-    "Alltag"
-   ],
-   "anlass": [
-    "beim Bügeln"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B00S8FUOI2",
-  "audible_url": "https://www.audible.de/pd/8000-Arten-als-Mutter-zu-versagen-Hoerbuch/B0FHQDTGYW",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-30"
- },
- {
-  "id": "r-B0CKXZ33J4",
-  "asin": "B0CKXZ33J4",
-  "titel": "Willkommen im falschen Film",
-  "autor": "Monika Gruber, Andreas Hock",
-  "sprecher": "Monika Gruber, Andreas Hock",
-  "begruendung": "Bayerisches Pendant zu Nuhrs Zivilisationskritik: Gruber seziert mit bissigem Witz Wärmepumpen-Debatten und Corona-Nachwehen.",
-  "tags": {
-   "genres": [
-    "Kabarett",
-    "Comedy"
-   ],
-   "stimmung": [
-    "bissig",
-    "witzig"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Gesellschaft",
-    "Alltag"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B0CMQWBR43",
-  "audible_url": "https://www.audible.de/pd/Willkommen-im-falschen-Film-Hoerbuch/B0CKXZ33J4",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-30"
- },
- {
-  "id": "r-B09NQDRH87",
-  "asin": "B09NQDRH87",
-  "titel": "Finding My Virginity",
-  "autor": "Richard Branson",
-  "sprecher": "Michael J. Diekmann",
-  "begruendung": "Der zweite Teil, zwanzig Jahre nach „Losing My Virginity“ – wieder von Diekmann gelesen, diesmal mit Weltraumflügen, Rückschlägen und der ehrlicheren Bilanz eines Unternehmerlebens.",
-  "tags": {
-   "genres": [
-    "Biografie",
-    "Wirtschaft"
-   ],
-   "stimmung": [
-    "inspirierend",
-    "ehrlich"
-   ],
-   "laenge": "episch",
-   "themen": [
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "lange Reise"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "3960928505",
-  "audible_url": "https://www.audible.de/pd/Finding-My-Virginity-Hoerbuch/B09NQDRH87",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-30"
- },
- {
-  "id": "r-B006IRBNW8",
-  "asin": "B006IRBNW8",
-  "titel": "Steve Jobs: Die autorisierte Biografie des Apple-Gründers",
-  "autor": "Walter Isaacson",
-  "sprecher": "Frank Arnold",
-  "begruendung": "Der andere Tech-Visionär neben Musk: genauso besessen, genauso widersprüchlich – die autorisierte Biografie, die auch die hässlichen Seiten von Apples Aufstieg nicht auslässt.",
-  "tags": {
-   "genres": [
-    "Biografie",
-    "Sachbuch"
-   ],
-   "stimmung": [
-    "spannend",
-    "inspirierend"
-   ],
-   "laenge": "episch",
-   "themen": [
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "lange Reise"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B017K8W5PM",
-  "audible_url": "https://www.audible.de/pd/Steve-Jobs-Hoerbuch/B006IRBNW8",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-30"
- },
- {
-  "id": "r-B09FLY9ZDY",
-  "asin": "B09FLY9ZDY",
-  "titel": "Es kann nur eine geben",
-  "autor": "Carolin Kebekus, Mariella Tripke",
-  "sprecher": "Carolin Kebekus",
-  "begruendung": "Bevor sie in „Beim Dehnen singe ich Balladen“ mitsprach, rechnete Kebekus hier mit dem Sexismus im Comedy-Business ab – ihr erstes und meistgehörtes Buch.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "frech",
-    "selbstbewusst"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Gesellschaft",
-    "Politik"
-   ],
-   "anlass": [],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B00S8FUOI2",
-  "audible_url": "https://www.audible.de/pd/Es-kann-nur-eine-geben-Hoerbuch/B09FLY9ZDY",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-09-30"
- },
- {
   "id": "r-3837146510",
   "asin": "3837146510",
   "titel": "Krassvieldrinpaket 2012-2018",
@@ -5723,5 +5574,151 @@
   "audible_url": "https://www.audible.de/pd/Der-Codebreaker-Hoerbuch/B09WQC6YRW",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-10-28"
+ },
+ {
+  "id": "r-B0HGFB3RNF",
+  "asin": "B0HGFB3RNF",
+  "titel": "Mach mal das große Licht an (Bonus: Butter und Balkone)",
+  "autor": "Torsten Sträter",
+  "sprecher": "Torsten Sträter",
+  "begruendung": "Frisch aufgezeichnetes Live-Programm von Sträter plus Bonusgeschichten – genau der brummige Ton, der dir bei „Schnee, der auf Ceran fällt“ schon gefallen hat.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B0C9J36Q3Y",
+  "audible_url": "https://www.audible.de/pd/Mach-mal-das-grosse-Licht-an-Bonus-Butter-und-Balkone-Hoerbuch/B0HGFB3RNF",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-29"
+ },
+ {
+  "id": "r-B0GXVPBDQY",
+  "asin": "B0GXVPBDQY",
+  "titel": "Die Morde des Herrn ABC",
+  "autor": "Agatha Christie",
+  "sprecher": "Rufus Beck, Malick Bauer, Rahul Chakraborty, Christian Zeiger, Andreas Fröhlich",
+  "begruendung": "Ein Krimi-Hörspiel mit großer Starbesetzung, in dem Rufus Beck Poirot gibt – dieselbe Lust an schwarzhumorigen Ermittler-Fällen wie bei deinem „Tod unter Gurken“, nur klassisch britisch.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "spannend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B06XCFQJ2B",
+  "audible_url": "https://www.audible.de/pd/Die-Morde-des-Herrn-ABC-Hoerbuch/B0GXVPBDQY",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-29"
+ },
+ {
+  "id": "r-B0H2NFMXCG",
+  "asin": "B0H2NFMXCG",
+  "titel": "Tot in der Finca (Pech & Schwäfel, Sommer Special 1)",
+  "autor": "Robin Fuchs",
+  "sprecher": "Mirja Boes",
+  "begruendung": "Mallorca-Krimikomödie mit Comedian Mirja Boes als Erzählerin – derselbe schwarze Humor, den du bei „Tod unter Gurken“ magst, nur am Pool statt im Kloster.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "witzig",
+    "spannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle",
+    "Reisen"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B06XCFQJ2B",
+  "audible_url": "https://www.audible.de/pd/Tot-in-der-Finca-Hoerbuch/B0H2NFMXCG",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-29"
+ },
+ {
+  "id": "r-B0HLCH41FQ",
+  "asin": "B0HLCH41FQ",
+  "titel": "Nix Amore in Unterfilzbach",
+  "autor": "Eva Adam",
+  "sprecher": "Günter Schossböck",
+  "begruendung": "Der achte Fall aus dem bayerischen Dorfkrimi-Universum – genauso schwarzhumorig und lokal verwurzelt wie „Tod unter Gurken“, nur im Bayerwald statt im Ruhrpott.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Krimi-Fälle",
+    "Alltag"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B06XCFQJ2B",
+  "audible_url": "https://www.audible.de/pd/Nix-Amore-in-Unterfilzbach-Hoerbuch/B0HLCH41FQ",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-29"
+ },
+ {
+  "id": "r-B0BHJM6HQC",
+  "asin": "B0BHJM6HQC",
+  "titel": "Lichtblick statt Blackout",
+  "autor": "Vince Ebert",
+  "sprecher": "Vince Ebert",
+  "begruendung": "Eberts neues Bühnenprogramm über die Energiewende – genauso schlau-witzig wie der „Urknaller“, den du vor Kurzem vorgeschlagen bekommen hast.",
+  "tags": {
+   "genres": [
+    "Comedy",
+    "Wissenschaft"
+   ],
+   "stimmung": [
+    "schlau",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Wissenschaft",
+    "Alltag"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B004X9A9BE",
+  "audible_url": "https://www.audible.de/pd/Lichtblick-statt-Blackout-Hoerbuch/B0BHJM6HQC",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-29"
  }
 ]
