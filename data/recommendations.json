@@ -1998,161 +1998,6 @@
   "aufgenommen_am": "2026-09-17"
  },
  {
-  "id": "r-3837146510",
-  "asin": "3837146510",
-  "titel": "Krassvieldrinpaket 2012-2018",
-  "autor": "Sebastian Pufpaff",
-  "sprecher": "Sebastian Pufpaff",
-  "begruendung": "Pufpaff bringt denselben hintersinnigen Wortwitz mit wie Jürgen von der Lippe in deinem Regal – hier sein bisher unveröffentlichtes Material aus sechs Jahren Bühnenarbeit.",
-  "tags": {
-   "genres": [
-    "Comedy",
-    "Kabarett"
-   ],
-   "stimmung": [
-    "witzig",
-    "frech"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Alltag",
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "beim Bügeln",
-    "fürs Auto"
-   ],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "B00S8FUOI2",
-  "audible_url": "https://www.audible.de/pd/3837146510",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-01"
- },
- {
-  "id": "r-383714352X",
-  "asin": "383714352X",
-  "titel": "Nuhr - die Box 3",
-  "autor": "Dieter Nuhr",
-  "sprecher": "Dieter Nuhr",
-  "begruendung": "Noch mehr Nuhr fürs Regal: Diese Box bündelt drei seiner Programme – falls dir „Nuhr auf Tour“ nicht gereicht hat.",
-  "tags": {
-   "genres": [
-    "Comedy",
-    "Kabarett"
-   ],
-   "stimmung": [
-    "pointiert",
-    "nachdenklich"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Politik",
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "fürs Auto",
-    "lange Reise"
-   ],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "B0CMQWBR43",
-  "audible_url": "https://www.audible.de/pd/383714352X",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-01"
- },
- {
-  "id": "r-B07CGQVS8X",
-  "asin": "B07CGQVS8X",
-  "titel": "Die komplette Wahrheit über Deutschland 2",
-  "autor": "Dieter Nuhr, Hagen Rether, Carolin Kebekus, Horst Evers, Jess Jochimsen, Gayle Tufts",
-  "sprecher": "Dieter Nuhr, Hagen Rether, Carolin Kebekus, Horst Evers, Jess Jochimsen, Gayle Tufts",
-  "begruendung": "Mit Carolin Kebekus (die du gerade erst fürs Regal entdeckt hast) und Dieter Nuhr vereint diese Kabarett-Sammlung gleich zwei deiner Favoriten auf einer Bühne.",
-  "tags": {
-   "genres": [
-    "Comedy",
-    "Politsatire"
-   ],
-   "stimmung": [
-    "bissig",
-    "politisch"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Gesellschaft",
-    "Politik"
-   ],
-   "anlass": [],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "B09FLY9ZDY",
-  "audible_url": "https://www.audible.de/pd/B07CGQVS8X",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-01"
- },
- {
-  "id": "r-B0D3V3GQKX",
-  "asin": "B0D3V3GQKX",
-  "titel": "Startschuss Live",
-  "autor": "Ingo Appelt",
-  "sprecher": "Ingo Appelt",
-  "begruendung": "Lauter, frecher Stand-up wie bei Mario Barth – Appelt teilt in seinem aktuellen Programm ungefragt gegen den Zeitgeist aus.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "frech",
-    "laut"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag",
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "beim Bügeln"
-   ],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "3803285437",
-  "audible_url": "https://www.audible.de/pd/Startschuss-Live-Hoerbuch/B0D3V3GQKX",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-01"
- },
- {
-  "id": "r-B0DSCCFM8M",
-  "asin": "B0DSCCFM8M",
-  "titel": "Niki: Stories vom Champion",
-  "autor": "Herbert Völker",
-  "sprecher": "Günter Schoßböck",
-  "begruendung": "Eine Motorsport-Legende hautnah erzählt von einem langjährigen Weggefährten – im selben persönlichen Ton wie Zlatans „Adrenalin“ in deinem Regal, nur diesmal aus der Boxengasse.",
-  "tags": {
-   "genres": [
-    "Biografie",
-    "Sport"
-   ],
-   "stimmung": [
-    "persönlich",
-    "nostalgisch"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Sport",
-    "Geschichte"
-   ],
-   "anlass": [
-    "lange Reise",
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B09VPYXHRC",
-  "audible_url": "https://www.audible.de/pd/Niki-Hoerbuch/B0DSCCFM8M",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-01"
- },
- {
   "id": "r-B0H2FM3BDC",
   "asin": "B0H2FM3BDC",
   "titel": "Eine kurze Geschichte von Weihnachten: Von Rentiermädchen, Knallbonbons und der Erfindung von Weihnachten",
@@ -5720,5 +5565,217 @@
   "audible_url": "https://www.audible.de/pd/Lichtblick-statt-Blackout-Hoerbuch/B0BHJM6HQC",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-10-29"
+ },
+ {
+  "id": "r-B0DPR6XHTW",
+  "asin": "B0DPR6XHTW",
+  "titel": "Die Königin der Drachen",
+  "autor": "George R.R. Martin",
+  "sprecher": "Stefan Kaminski",
+  "begruendung": "Band 6 deiner Eis-und-Feuer-Reihe – nach dem „Sturm der Schwerter\" geht die Geschichte um Drachen und den Eisernen Thron direkt weiter.",
+  "tags": {
+   "genres": [
+    "Fantasy"
+   ],
+   "stimmung": [
+    "spannend",
+    "düster"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Geschichte",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B004UZH630",
+  "audible_url": "https://www.audible.de/pd/B0DPR6XHTW",
+  "regal": "serien-fortsetzung",
+  "aufgenommen_am": "2026-10-30"
+ },
+ {
+  "id": "r-B0HGRLBYNG",
+  "asin": "B0HGRLBYNG",
+  "titel": "Das steinerne Himmelreich",
+  "autor": "Sam Feuerbach, Bernhard Hennen",
+  "sprecher": "Robert Frank",
+  "begruendung": "Der Abschluss deiner Ritter-und-Knappe-Trilogie: Otto erreicht mit Richard Löwenherz endlich Jerusalem.",
+  "tags": {
+   "genres": [
+    "Fantasy"
+   ],
+   "stimmung": [
+    "spannend",
+    "bewegend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Geschichte",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0GWRNB6RY",
+  "audible_url": "https://www.audible.de/pd/B0HGRLBYNG",
+  "regal": "serien-fortsetzung",
+  "aufgenommen_am": "2026-10-30"
+ },
+ {
+  "id": "r-B0G1MKP6Q5",
+  "asin": "B0G1MKP6Q5",
+  "titel": "Alt genug",
+  "autor": "Ildikó von Kürthy",
+  "sprecher": "Ildikó von Kürthy",
+  "begruendung": "Kürthy liest selbst, schonungslos ehrlich über die Lebensmitte – derselbe selbstironische Ton, den du bei Stefan Schwarz und Torsten Sträter magst.",
+  "tags": {
+   "genres": [
+    "Belletristik",
+    "Memoiren"
+   ],
+   "stimmung": [
+    "witzig",
+    "ehrlich",
+    "selbstironisch"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Beziehung"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B0G1MKP6Q5",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-30"
+ },
+ {
+  "id": "r-B0DWN95FPZ",
+  "asin": "B0DWN95FPZ",
+  "titel": "»Mama, bitte lern Deutsch«",
+  "autor": "Tahsim Durgun",
+  "sprecher": "Tahsim Durgun",
+  "begruendung": "Durgun erzählt mit scharfer Zunge und viel Witz vom Aufwachsen zwischen zwei Welten – Familien-Alltag mit Haltung, wie du es magst.",
+  "tags": {
+   "genres": [
+    "Memoiren",
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "bissig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B0DWN95FPZ",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-30"
+ },
+ {
+  "id": "r-B09NPTJRDM",
+  "asin": "B09NPTJRDM",
+  "titel": "Du darfst nicht alles glauben, was du denkst",
+  "autor": "Kurt Krömer",
+  "sprecher": "Kurt Krömer",
+  "begruendung": "Krömer spricht schonungslos offen über seine Depression – genauso ehrlich-komisch wie Sträters „Schnee, der auf Ceran fällt\".",
+  "tags": {
+   "genres": [
+    "Memoiren",
+    "Comedy"
+   ],
+   "stimmung": [
+    "ehrlich",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Gesellschaft",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B09NPTJRDM",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-30"
+ },
+ {
+  "id": "r-B0D42M9F8W",
+  "asin": "B0D42M9F8W",
+  "titel": "Freiheit",
+  "autor": "Angela Merkel, Beate Baumann",
+  "sprecher": "Corinna Harfouch, Angela Merkel",
+  "begruendung": "Merkels große Lebensbilanz – für jemanden, der mit Obamas „Ein verheißenes Land\" schon ein Kanzler-Memoiren-Fan ist, der nächste logische Griff.",
+  "tags": {
+   "genres": [
+    "Politische Biografie",
+    "Memoiren"
+   ],
+   "stimmung": [
+    "nachdenklich",
+    "persönlich"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Geschichte",
+    "Politik"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "3844542078",
+  "audible_url": "https://www.audible.de/pd/B0D42M9F8W",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-30"
+ },
+ {
+  "id": "r-B0CGJKX4HC",
+  "asin": "B0CGJKX4HC",
+  "titel": "Can't Hurt Me",
+  "autor": "David Goggins",
+  "sprecher": "Torben Liebrecht",
+  "begruendung": "Goggins' radikale Lebensgeschichte passt zu deinen anderen Leistungs-Biografien wie Zlatans „Adrenalin\" – nur noch kompromissloser.",
+  "tags": {
+   "genres": [
+    "Sachbuch",
+    "Biografie"
+   ],
+   "stimmung": [
+    "motivierend",
+    "persönlich"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Sport",
+    "Alltag"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B09VPYXHRC",
+  "audible_url": "https://www.audible.de/pd/B0CGJKX4HC",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-10-30"
  }
 ]
