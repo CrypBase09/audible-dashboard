@@ -5743,5 +5743,120 @@
   "audible_url": "https://www.audible.de/pd/B0F1FXWX2J",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-11-01"
+ },
+ {
+  "id": "r-B0HN8VKMH1",
+  "asin": "B0HN8VKMH1",
+  "titel": "Manfred Krug. Ich habe nicht viel erwartet",
+  "autor": "Manfred Krug, Krista Maria Schädlich",
+  "sprecher": "Daniel Krug",
+  "begruendung": "Die postum veröffentlichten Erinnerungen von Manfred Krug, gelesen von seinem Sohn Daniel – DDR-Alltag und Showbusiness in derselben warmen Erzähltonlage wie Hape Kerkelings „Gebt mir etwas Zeit“.",
+  "tags": {
+   "genres": [
+    "Biografie"
+   ],
+   "stimmung": [
+    "herzerwärmend",
+    "nachdenklich"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Geschichte",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0D9JWWYVX",
+  "audible_url": "https://www.audible.de/pd/B0HN8VKMH1",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-02"
+ },
+ {
+  "id": "r-B0HKYJBHRR",
+  "asin": "B0HKYJBHRR",
+  "titel": "5 alte Schachteln und ne riesen Sauerei",
+  "autor": "Angelika Godau",
+  "sprecher": "Heike Himmeröder",
+  "begruendung": "Band 4 der Wohngemeinschafts-Komödie: fünf Frauen, ein ungefragt geschenkter Welpe und ein mysteriöser Anruf – frischer Alltags-Slapstick für alle, die den Känguru-Humor mögen.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B0HKYJBHRR",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-02"
+ },
+ {
+  "id": "r-B0HMTVG1MQ",
+  "asin": "B0HMTVG1MQ",
+  "titel": "Irmchen meint ja nur",
+  "autor": "Gabriele Kluge",
+  "sprecher": "Gabriele Kluge",
+  "begruendung": "Die YouTube-Kunstfigur Irmchen erzählt in nur 98 Minuten aus ihrer Jugend und nörgelt sich mit leichtem Dialekt durch die Gegenwart – kurz genug für einen entspannten Ausklang.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "entspannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B09ZYSFJGH",
+  "audible_url": "https://www.audible.de/pd/B0HMTVG1MQ",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-02"
+ },
+ {
+  "id": "r-B0HGG79V29",
+  "asin": "B0HGG79V29",
+  "titel": "Wann wusstest du, dass es gut wird?",
+  "autor": "Christine Westermann, Mona Ameziane",
+  "sprecher": "Christine Westermann, Mona Ameziane",
+  "begruendung": "Zwei Freundinnen aus unterschiedlichen Generationen reden offen über Liebe, Glück und Arbeit – warm und humorvoll wie ein langes Gespräch beim Bügeln.",
+  "tags": {
+   "genres": [
+    "Ratgeber"
+   ],
+   "stimmung": [
+    "herzerwärmend",
+    "witzig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Beziehung",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B0HGG79V29",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-02"
  }
 ]
