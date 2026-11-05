@@ -1998,154 +1998,6 @@
   "aufgenommen_am": "2026-09-17"
  },
  {
-  "id": "r-B0CJBY3YQC",
-  "asin": "B0CJBY3YQC",
-  "titel": "Comedy Readings - Die lustigste Lesung",
-  "autor": "Moritz Netenjakob, Roger Schmelzer",
-  "sprecher": "Bastian Pastewka, Annette Frier, Bettina Lamprecht, Matthias Matschke, Max Giermann, Chris Geletneky",
-  "begruendung": "Max Giermann liest hier live mit Pastewka, Frier und Co. zwei unveröffentlichte Sitcom-Drehbücher – dieselbe Ensemble-Energie wie beim „witzigsten Vorleseabend der Welt“.",
-  "tags": {
-   "genres": [
-    "Comedy",
-    "Hörspiel"
-   ],
-   "stimmung": [
-    "witzig",
-    "frech"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Krimi-Fälle",
-    "Beziehung"
-   ],
-   "anlass": [
-    "beim Bügeln"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": "B07BSGRV26",
-  "audible_url": "https://www.audible.de/pd/B0CJBY3YQC",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-07"
- },
- {
-  "id": "r-B0D1RML5D4",
-  "asin": "B0D1RML5D4",
-  "titel": "Das Albtraumschiff - Crazy Cruise",
-  "autor": "Chris Geletneky, Morten Kühne, Björn Mannel, Mark Werner, Bastian Pastewka",
-  "sprecher": "Bastian Pastewka, Bettina Lamprecht, Chris Geletneky, Annette Frier, Max Giermann",
-  "begruendung": "Noch eine Festival-Lesung mit Giermann und Pastewka, diesmal als Kreuzfahrt-Parodie – kurz und albern wie „Der König der Tiere“.",
-  "tags": {
-   "genres": [
-    "Comedy",
-    "Hörspiel"
-   ],
-   "stimmung": [
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Reisen",
-    "Alltag"
-   ],
-   "anlass": [
-    "beim Bügeln"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": "B01N5D6SXV",
-  "audible_url": "https://www.audible.de/pd/B0D1RML5D4",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-07"
- },
- {
-  "id": "r-B0B1QQGQTK",
-  "asin": "B0B1QQGQTK",
-  "titel": "Bastian Pastewka liest ...und der grüne Geist",
-  "autor": "Robert Arthur",
-  "sprecher": "Bastian Pastewka",
-  "begruendung": "Pastewka liest einen Fall der drei ??? – derselbe trockene Ton wie bei seinen Gurken-Krimis, nur dieses Mal für die ganze Familie.",
-  "tags": {
-   "genres": [
-    "Krimi",
-    "Kinder"
-   ],
-   "stimmung": [
-    "spannend"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Krimi-Fälle",
-    "Abenteuer"
-   ],
-   "anlass": [
-    "mit den Kindern"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B06XCFQJ2B",
-  "audible_url": "https://www.audible.de/pd/B0B1QQGQTK",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-07"
- },
- {
-  "id": "r-B0GSG6NSHR",
-  "asin": "B0GSG6NSHR",
-  "titel": "Hummelhirn",
-  "autor": "Judith Holofernes",
-  "sprecher": "Nora Tschirner",
-  "begruendung": "Nora Tschirner, schon aus „Der König der Tiere“ bekannt, liest hier Judith Holofernes' bittersüße Kindheitserinnerungen – tragikomisch und warm wie „Beim Dehnen singe ich Balladen“.",
-  "tags": {
-   "genres": [
-    "Belletristik"
-   ],
-   "stimmung": [
-    "witzig",
-    "nachdenklich"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Familie",
-    "Alltag"
-   ],
-   "anlass": [],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B01N5D6SXV",
-  "audible_url": "https://www.audible.de/pd/B0GSG6NSHR",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-07"
- },
- {
-  "id": "r-B0G4MYWQMD",
-  "asin": "B0G4MYWQMD",
-  "titel": "Vorsicht bissig!",
-  "autor": "Jochen Till",
-  "sprecher": "Robert Louis Griesbach",
-  "begruendung": "Robert Louis Griesbach, den du aus „Sex ist wie Mehl“ kennst, liest hier Monster-Geschichten für Kinder – albern-gruselig, passend für zwischendurch mit den Kindern.",
-  "tags": {
-   "genres": [
-    "Kinder"
-   ],
-   "stimmung": [
-    "witzig"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Abenteuer",
-    "Familie"
-   ],
-   "anlass": [
-    "mit den Kindern"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B09MWKWZNK",
-  "audible_url": "https://www.audible.de/pd/B0G4MYWQMD",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-07"
- },
- {
   "id": "r-B0DVZL2G6B",
   "asin": "B0DVZL2G6B",
   "titel": "Safari",
@@ -5767,5 +5619,152 @@
   "audible_url": "https://www.audible.de/pd/B0BJW2RRBX",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-11-04"
+ },
+ {
+  "id": "r-B08YNLMGPZ",
+  "asin": "B08YNLMGPZ",
+  "titel": "Da stimmt was nicht",
+  "autor": "Stefan Schwarz",
+  "sprecher": "Dietmar Wunder",
+  "begruendung": "Stefan Schwarz erzählt wieder von einem Mann, der sein Leben aus der Hand gibt – bitterböse-komisch wie schon in „Ist der immer so?\".",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "nachdenklich"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Beziehung",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0CP4DM9QG",
+  "audible_url": "https://www.audible.de/pd/B08YNLMGPZ",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-11-05"
+ },
+ {
+  "id": "r-B004V6V6TS",
+  "asin": "B004V6V6TS",
+  "titel": "Kloidt Ze Di Penussen!",
+  "autor": "Jochen Malmsheimer, Frank Goosen",
+  "sprecher": "Jochen Malmsheimer, Frank Goosen",
+  "begruendung": "Malmsheimer und Goosen tauschen hier ihre Texte – jeder liest, was der andere geschrieben hat, genau im Geist von „Das Buch HERPES\".",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Ruhrpott",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B0BGJF38G7",
+  "audible_url": "https://www.audible.de/pd/B004V6V6TS",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-11-05"
+ },
+ {
+  "id": "r-3960928505",
+  "asin": "3960928505",
+  "titel": "Losing My Virginity",
+  "autor": "Richard Branson",
+  "sprecher": "Michael J. Diekmann",
+  "begruendung": "Diekmann liest hier Richard Bransons Lebensgeschichte – dieselbe Stimme, die dir schon Elon Musks Aufstieg nahegebracht hat.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Wirtschaft"
+   ],
+   "stimmung": [
+    "inspirierend",
+    "mutig"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Wirtschaft",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B017K8W5PM",
+  "audible_url": "https://www.audible.de/pd/3960928505",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-05"
+ },
+ {
+  "id": "r-B0BXFL1KCD",
+  "asin": "B0BXFL1KCD",
+  "titel": "Die Prinzipien des Wohlstands",
+  "autor": "Florian Homm, Moritz Hessel",
+  "sprecher": "Michael J. Diekmann",
+  "begruendung": "Hedgefonds-Legende Florian Homm über Investment-Strategien, gelesen von Diekmann – die nächste Lektion nach „Intelligent Investieren\".",
+  "tags": {
+   "genres": [
+    "Wirtschaft"
+   ],
+   "stimmung": [
+    "klug",
+    "inspirierend"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Wirtschaft",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0BJW2RRBX",
+  "audible_url": "https://www.audible.de/pd/B0BXFL1KCD",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-05"
+ },
+ {
+  "id": "r-3960928254",
+  "asin": "3960928254",
+  "titel": "Warren Buffett - Der Jahrhundertkapitalist",
+  "autor": "Gisela Baur",
+  "sprecher": "Markus Böker",
+  "begruendung": "Gisela Baur kennt Buffett seit über 20 Jahren persönlich – noch eine Investoren-Biografie für alle, die „Intelligent Investieren\" schon durch haben.",
+  "tags": {
+   "genres": [
+    "Wirtschaft",
+    "Biografie"
+   ],
+   "stimmung": [
+    "inspirierend",
+    "klug"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Wirtschaft",
+    "Geschichte"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0BJW2RRBX",
+  "audible_url": "https://www.audible.de/pd/3960928254",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-05"
  }
 ]
