@@ -1998,149 +1998,6 @@
   "aufgenommen_am": "2026-09-17"
  },
  {
-  "id": "r-B0H8T6XJXF",
-  "asin": "B0H8T6XJXF",
-  "titel": "12. Tot an der Klippe",
-  "autor": "Robin Fuchs",
-  "sprecher": "Mirja Boes",
-  "begruendung": "Die Krimi-Comedy-Reihe, die genau deine Mischung aus Humor und gelegentlichem Krimi trifft (wie bei VIEWS) – hier schließt der Mallorca-Sommerfall seine Trilogie ab.",
-  "tags": {
-   "genres": [
-    "Krimi",
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig",
-    "spannend"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Krimi-Fälle"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Hörspiel"
-  },
-  "aehnlich_wie": "B0D5QQW386",
-  "audible_url": "https://www.audible.de/pd/B0H8T6XJXF",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-09"
- },
- {
-  "id": "r-B0G13X4SNC",
-  "asin": "B0G13X4SNC",
-  "titel": "00-Laschet",
-  "autor": "David Safier",
-  "sprecher": "Thomas Nicolai",
-  "begruendung": "Politsatire mit Biss, wie du sie von Dieter Nuhr kennst – nur als abgedrehter Agenten-Roman über einen Kanzlerkandidaten, der eigentlich ein Spion ist.",
-  "tags": {
-   "genres": [
-    "Comedy",
-    "Politsatire"
-   ],
-   "stimmung": [
-    "witzig"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Politik",
-    "Gesellschaft"
-   ],
-   "anlass": [],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B0CMQWBR43",
-  "audible_url": "https://www.audible.de/pd/B0G13X4SNC",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-09"
- },
- {
-  "id": "r-B0H4ZL1CPM",
-  "asin": "B0H4ZL1CPM",
-  "titel": "Oktoberfest",
-  "autor": "Stefanie Sargnagel",
-  "sprecher": "Stefanie Sargnagel",
-  "begruendung": "Bissig-komische Alltagsbeobachtungen, kurz und selbst gelesen – im Geiste von Bokowskis „Feine Auslese”, nur mit Wiesn statt Ruhrpott.",
-  "tags": {
-   "genres": [
-    "Comedy",
-    "Satire"
-   ],
-   "stimmung": [
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag",
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "beim Bügeln"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "3863912853",
-  "audible_url": "https://www.audible.de/pd/B0H4ZL1CPM",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-09"
- },
- {
-  "id": "r-B0BMB7D2H7",
-  "asin": "B0BMB7D2H7",
-  "titel": "Das Licht in uns",
-  "autor": "Michelle Obama",
-  "sprecher": "Katrin Fröhlich",
-  "begruendung": "Die Fortsetzung zu „Becoming” – passt perfekt neben „Ein verheißenes Land”, das du von ihrem Mann schon im Regal hast.",
-  "tags": {
-   "genres": [
-    "Memoiren",
-    "Ratgeber"
-   ],
-   "stimmung": [
-    "nachdenklich"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Politik",
-    "Gesellschaft"
-   ],
-   "anlass": [],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "3844542078",
-  "audible_url": "https://www.audible.de/pd/B0BMB7D2H7",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-09"
- },
- {
-  "id": "r-B09MFG2CSL",
-  "asin": "B09MFG2CSL",
-  "titel": "Michael Schumacher",
-  "autor": "Julius Schreiber",
-  "sprecher": "Sebastian Pappenberger",
-  "begruendung": "Die Biografie eines Getriebenen, der seinen Sport neu definiert hat – genau die Mischung aus Ehrgeiz und Ausnahmekönnen, die dich an „Wie Elon Musk die Welt verändert” gepackt hat.",
-  "tags": {
-   "genres": [
-    "Biografie",
-    "Sport"
-   ],
-   "stimmung": [
-    "spannend"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Sport"
-   ],
-   "anlass": [],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B017K8W5PM",
-  "audible_url": "https://www.audible.de/pd/B09MFG2CSL",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-09"
- },
- {
   "id": "r-B00DR9YPMA",
   "asin": "B00DR9YPMA",
   "titel": "Von Idioten umzingelt!",
@@ -5711,5 +5568,149 @@
   "audible_url": "https://www.audible.de/pd/B0DKK365PK",
   "regal": "serien-fortsetzung",
   "aufgenommen_am": "2026-11-06"
+ },
+ {
+  "id": "r-B0H9XY6P51",
+  "asin": "B0H9XY6P51",
+  "titel": "GLAUBE, LIEBE, KLOPP",
+  "autor": "Michael Horeni",
+  "sprecher": "Martin May",
+  "begruendung": "Jürgen Klopps Weg vom Mainzer Amateurkicker zum Bundestrainer, erzählt mit derselben Wucht wie Zlatans „Adrenalin“ – nur mit mehr Trainerbank als Stürmerreihe.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Sport"
+   ],
+   "stimmung": [
+    "inspirierend",
+    "mutig"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Sport",
+    "Geschichte"
+   ],
+   "anlass": [
+    "lange Reise",
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B09VPYXHRC",
+  "audible_url": "https://www.audible.de/pd/B0H9XY6P51",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-07"
+ },
+ {
+  "id": "r-B0GF88R5SB",
+  "asin": "B0GF88R5SB",
+  "titel": "TILT! 2025 - Der etwas andere Jahresrückblick von und mit Urban Priol",
+  "autor": "Urban Priol",
+  "sprecher": "Urban Priol",
+  "begruendung": "Priols bissiger Solo-Jahresrückblick 2025 – dieselbe politische Schärfe, die dir schon bei „Die letzte Gardine“ gefallen hat, diesmal ganz allein auf der Bühne.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Politik",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B0GF88R5SB",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-07"
+ },
+ {
+  "id": "r-B08P27991P",
+  "asin": "B08P27991P",
+  "titel": "Und ich sach noch! (Live)",
+  "autor": "Kai Magnus Sting",
+  "sprecher": "Kai Magnus Sting",
+  "begruendung": "Noch ein Live-Abend von Kai Magnus Sting im Ruhrpott-Ton, den du schon bei „Hömma, so isset“ gemocht hast.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Ruhrpott",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "3844539832",
+  "audible_url": "https://www.audible.de/pd/B08P27991P",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-11-07"
+ },
+ {
+  "id": "r-B0HMWXFHDY",
+  "asin": "B0HMWXFHDY",
+  "titel": "Flüsterhaus und Schlangenhaar",
+  "autor": "Sabine Städing",
+  "sprecher": "Nana Spier",
+  "begruendung": "Band 14 der Petronella-Apfelmus-Reihe – eine Reise nach England voller neuer Hexenfreunde, perfekt für einen gemeinsamen Hör-Samstag mit den Kindern.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig",
+    "herzerwärmend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer",
+    "Reisen"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B0HMWXFHDY",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-07"
+ },
+ {
+  "id": "r-B09J58B24V",
+  "asin": "B09J58B24V",
+  "titel": "Das NEINhorn und die SchLANGEWEILE",
+  "autor": "Marc-Uwe Kling, Boris Löbsack",
+  "sprecher": "Marc-Uwe Kling",
+  "begruendung": "Noch eine NEINhorn-Geschichte von Marc-Uwe Kling, die in deiner Sammlung „Das NEINhorn und seine Freunde“ fehlt – furchtbar schön vorgelesen wie immer.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0CW9WXKDF",
+  "audible_url": "https://www.audible.de/pd/B09J58B24V",
+  "regal": "lieblingsautor",
+  "aufgenommen_am": "2026-11-07"
  }
 ]
