@@ -5700,5 +5700,243 @@
   "audible_url": "https://www.audible.de/pd/B004UVGO9Q",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-11-08"
+ },
+ {
+  "id": "r-B009AQSTRQ",
+  "asin": "B009AQSTRQ",
+  "titel": "Er ist wieder da",
+  "autor": "Timur Vermes",
+  "sprecher": "Christoph Maria Herbst",
+  "begruendung": "Vermes' bitterböse Gesellschaftssatire, gelesen von Christoph Maria Herbst, den du aus „Vollidiot“ und „Tod unter Gurken 3“ kennst – genauso schwarz-komisch wie Klings QualityLand.",
+  "tags": {
+   "genres": [
+    "Belletristik"
+   ],
+   "stimmung": [
+    "witzig",
+    "düster"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Politik",
+    "Gesellschaft"
+   ],
+   "anlass": [],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "384492602X",
+  "audible_url": "https://www.audible.de/pd/B009AQSTRQ",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-09"
+ },
+ {
+  "id": "r-B0G3RDPW9Y",
+  "asin": "B0G3RDPW9Y",
+  "titel": "Mord ist die beste Beseitigung",
+  "autor": "Volker Klüpfel",
+  "sprecher": "Shenja Lacher",
+  "begruendung": "Der Kluftinger-Erfinder startet eine neue Krimi-Reihe – genauso lakonisch-witzig wie „Tod unter Gurken“, nur mit Svetlana und Tommi statt Alfons Friedrichsberg.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "witzig",
+    "spannend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle",
+    "Alltag"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B06XCFQJ2B",
+  "audible_url": "https://www.audible.de/pd/B0G3RDPW9Y",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-09"
+ },
+ {
+  "id": "r-B0CV171TQ8",
+  "asin": "B0CV171TQ8",
+  "titel": "König von Albanien",
+  "autor": "Andreas Izquierdo",
+  "sprecher": "Uve Teschner",
+  "begruendung": "Ein Roadtrip-Abenteuer quer durch den Balkan, komisch und warmherzig erzählt – derselbe schräge Humor, den du bei Jonassons „Mörder Anders“ schon gemocht hast.",
+  "tags": {
+   "genres": [
+    "Belletristik"
+   ],
+   "stimmung": [
+    "witzig",
+    "spannend"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Abenteuer",
+    "Reisen"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B0CV171TQ8",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-09"
+ },
+ {
+  "id": "r-B004V0SNBS",
+  "asin": "B004V0SNBS",
+  "titel": "Neue Vahr Süd",
+  "autor": "Sven Regener",
+  "sprecher": "Sven Regener",
+  "begruendung": "Die Vorgeschichte zu „Herr Lehmann“ – Regener liest selbst, trocken und präzise, genau der Alltagshumor, den du bei André Herrmann schon magst.",
+  "tags": {
+   "genres": [
+    "Belletristik"
+   ],
+   "stimmung": [
+    "witzig",
+    "entspannend"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Alltag",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0CVQSHGCJ",
+  "audible_url": "https://www.audible.de/pd/B004V0SNBS",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-09"
+ },
+ {
+  "id": "r-B09SVFXXJ7",
+  "asin": "B09SVFXXJ7",
+  "titel": "Schreib oder stirb",
+  "autor": "Sebastian Fitzek, Micky Beisenherz",
+  "sprecher": "Simon Jäger",
+  "begruendung": "Fitzek macht sich hier selbst zur Zielscheibe – ein Thriller, der mit dem Verlagsbetrieb und seinen eigenen Klischees spielt. Simon Jäger liest, so eindringlich wie in „Passagier 23“.",
+  "tags": {
+   "genres": [
+    "Krimi",
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "spannend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle",
+    "Alltag"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B00IHVY9PG",
+  "audible_url": "https://www.audible.de/pd/B09SVFXXJ7",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-09"
+ },
+ {
+  "id": "r-B004H0RXWM",
+  "asin": "B004H0RXWM",
+  "titel": "Krise unterm Christbaum",
+  "autor": "Johanna Steiner",
+  "sprecher": "div.",
+  "begruendung": "Von der Co-Autorin deines „Passagier 23“-Hörspiels – diesmal ein chaotisches Weihnachtsfest statt Entführung, kurz und mit vollem Ensemble.",
+  "tags": {
+   "genres": [
+    "Hörspiel",
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Alltag"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B07H2GLY5B",
+  "audible_url": "https://www.audible.de/pd/B004H0RXWM",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-09"
+ },
+ {
+  "id": "r-B0F4DQST87",
+  "asin": "B0F4DQST87",
+  "titel": "Dicke Eier in Unterfilzbach",
+  "autor": "Eva Adam",
+  "sprecher": "Günter Schossböck",
+  "begruendung": "Der nächste Fall aus dem bayerischen Dorfkrimi-Universum, das dir mit „Nix Amore in Unterfilzbach“ schon gefallen hat – gleicher Schwarzhumor, neuer Fall.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle",
+    "Alltag"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0HLCH41FQ",
+  "audible_url": "https://www.audible.de/pd/B0F4DQST87",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-09"
+ },
+ {
+  "id": "r-B0HPBKRKDP",
+  "asin": "B0HPBKRKDP",
+  "titel": "Helmut Schmidt",
+  "autor": "Thomas Karlauf",
+  "sprecher": "Patrick Twinem",
+  "begruendung": "Eine umfassende Biografie des Altkanzlers – genauso vielschichtig erzählt wie Obamas „Ein verheißenes Land“, nur über den deutschen Staatsmann.",
+  "tags": {
+   "genres": [
+    "Biografie"
+   ],
+   "stimmung": [
+    "nachdenklich",
+    "spannend"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Politik",
+    "Geschichte"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "3844542078",
+  "audible_url": "https://www.audible.de/pd/B0HPBKRKDP",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-09"
  }
 ]
