@@ -2027,127 +2027,6 @@
   "aufgenommen_am": "2026-10-14"
  },
  {
-  "id": "r-B004X9A9BE",
-  "asin": "B004X9A9BE",
-  "titel": "Urknaller - Physik ist sexy",
-  "autor": "Vince Ebert",
-  "sprecher": "Vince Ebert",
-  "begruendung": "Wissenschaft mit Pointen, genau in der Kerbe wie die Science-Busters-Box, die du schon im Regal hast – nur rockt hier ein Physiker ganz allein die Bühne.",
-  "tags": {
-   "genres": [
-    "Comedy",
-    "Wissenschaft"
-   ],
-   "stimmung": [
-    "schlau",
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Wissenschaft",
-    "Alltag"
-   ],
-   "anlass": [
-    "beim Bügeln"
-   ],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "B0BNQ3KP77",
-  "audible_url": "https://www.audible.de/pd/Urknaller-Physik-ist-sexy-Hoerbuch/B004X9A9BE",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-23"
- },
- {
-  "id": "r-B004V1BBJS",
-  "asin": "B004V1BBJS",
-  "titel": "Der weiße Neger Wumbaba",
-  "autor": "Axel Hacke",
-  "sprecher": "Axel Hacke",
-  "begruendung": "Der erste Band einer Kult-Trilogie übers herrliche Verhören von Songtexten – trifft dieselbe Lust am Sprachwitz wie Hackes „Über die Heiterkeit...“, das du schon kennst, und hat gleich zwei Fortsetzungen in Reserve.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "schräg",
-    "witzig"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Alltag"
-   ],
-   "anlass": [
-    "beim Bügeln"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B0CF5VNY4B",
-  "audible_url": "https://www.audible.de/pd/Der-weisse-Neger-Wumbaba-Hoerbuch/B004V1BBJS",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-23"
- },
- {
-  "id": "r-B004V6QKAI",
-  "asin": "B004V6QKAI",
-  "titel": "Achtung Baby!",
-  "autor": "Michael Mittermeier",
-  "sprecher": "Michael Mittermeier",
-  "begruendung": "Stand-up übers Vatersein, in derselben Familien-Alltags-Kerbe wie Königs „Familie macht glücklich“ – nur mit Mittermeiers kompletter Live-Bühnenshow drumherum.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig",
-    "herzerwärmend"
-   ],
-   "laenge": "kurz",
-   "themen": [
-    "Familie",
-    "Alltag"
-   ],
-   "anlass": [
-    "beim Bügeln"
-   ],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "B0BTZ4672Z",
-  "audible_url": "https://www.audible.de/pd/Achtung-Baby-Hoerbuch/B004V6QKAI",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-23"
- },
- {
-  "id": "r-B0BYJJRHM4",
-  "asin": "B0BYJJRHM4",
-  "titel": "Wer Angst hat, soll zuhause bleiben!",
-  "autor": "Sarah Bosetti",
-  "sprecher": "Sarah Bosetti",
-  "begruendung": "Politisches Kabarett in Gedichtform, genauso bissig wie Nuhr auf der Bühne – nur jünger und als Spoken-Word-Poetin.",
-  "tags": {
-   "genres": [
-    "Satire",
-    "Comedy"
-   ],
-   "stimmung": [
-    "bissig",
-    "klug"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Politik",
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Bühnenprogramm"
-  },
-  "aehnlich_wie": "B0CMQWBR43",
-  "audible_url": "https://www.audible.de/pd/Wer-Angst-hat-soll-zuhause-bleiben-Hoerbuch/B0BYJJRHM4",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-23"
- },
- {
   "id": "r-B09WTWZB13",
   "asin": "B09WTWZB13",
   "titel": "Die Wilden Hühner",
@@ -5193,5 +5072,189 @@
   "audible_url": "https://www.audible.de/pd/B0DPR6QTGW",
   "regal": "serien-fortsetzung",
   "aufgenommen_am": "2026-11-20"
+ },
+ {
+  "id": "r-B0GH8JX17N",
+  "asin": "B0GH8JX17N",
+  "titel": "Pumuckl und die eingeworfene Scheibe",
+  "autor": "Korbinian Dufter, Julian Adiputra Witt",
+  "sprecher": "Michael Bideller, Hans Clarin, Maximilian Schafroth, Florian Brückner",
+  "begruendung": "Eine frische Pumuckl-Episode vom Bayerischen Rundfunk – der freche Kobold passt in dieselbe warmherzige Familien-Schiene wie euer NEINhorn.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig",
+    "herzerwärmend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "mit den Kindern"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0CW9WXKDF",
+  "audible_url": "https://www.audible.de/pd/B0GH8JX17N",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-21"
+ },
+ {
+  "id": "r-B0GF89TK8K",
+  "asin": "B0GF89TK8K",
+  "titel": "Pumuckl Geht Campen",
+  "autor": "Katharina Köster, Julian Adiputra Witt",
+  "sprecher": "Florian Brückner, Tobias Krell, Michael Bideller, Hans Clarin",
+  "begruendung": "Pumuckl bringt Eders Campingtour aus dem Takt – noch eine neue Folge derselben Reihe, dieses Mal mit Reise-Chaos für die lange Autofahrt.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0CW9WXKDF",
+  "audible_url": "https://www.audible.de/pd/B0GF89TK8K",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-21"
+ },
+ {
+  "id": "r-B0DHVD9LLJ",
+  "asin": "B0DHVD9LLJ",
+  "titel": "Das kleine Gespenst",
+  "autor": "Jürgen Nola, Otfried Preußler, Marco Nola",
+  "sprecher": "Claus Fuchs, Marco Nola, Michael Habeck, Horst Breiter",
+  "begruendung": "Preußlers Kult-Gespenst als Original-Hörspiel von Burg Eulenstein – derselbe altersübergreifende Witz wie bei eurem NEINhorn, nur spukig statt frech.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig",
+    "herzerwärmend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer",
+    "Geschichte"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "zum Einschlafen"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B0CW9WXKDF",
+  "audible_url": "https://www.audible.de/pd/B0DHVD9LLJ",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-21"
+ },
+ {
+  "id": "r-B06XXH9GFC",
+  "asin": "B06XXH9GFC",
+  "titel": "Der Kleine Prinz: Originalübersetzung",
+  "autor": "Antoine de Saint-Exupéry",
+  "sprecher": "Ulrich Mühe, Anna Maria Mühe",
+  "begruendung": "Ein Vater-Tochter-Hörbuch mit Musik – die ruhige, warme Art, die bei euch schon bei Preußlers Gespenst gut ankommt, nur als zeitloser Klassiker für alle Generationen.",
+  "tags": {
+   "genres": [
+    "Belletristik"
+   ],
+   "stimmung": [
+    "herzerwärmend",
+    "entspannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Familie",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": null,
+  "audible_url": "https://www.audible.de/pd/B06XXH9GFC",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-21"
+ },
+ {
+  "id": "r-3844924272",
+  "asin": "3844924272",
+  "titel": "Der Räuber Hotzenplotz - Hörspiele 2: Neues vom Räuber Hotzenplotz",
+  "autor": "Otfried Preußler, Frank Oberpichler, Dieter Faber",
+  "sprecher": "Charly Hübner, Julian Greis, Felix von Manteuffel, Hedi Kriegeskotte",
+  "begruendung": "Der zweite Fall für den Räuber Hotzenplotz – schräger Krimi-Humor für Kinder, passend zu eurem Spurenfinder von Marc-Uwe Kling.",
+  "tags": {
+   "genres": [
+    "Kinder"
+   ],
+   "stimmung": [
+    "witzig",
+    "spannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Abenteuer",
+    "Familie"
+   ],
+   "anlass": [
+    "mit den Kindern",
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B004JVIFYE",
+  "audible_url": "https://www.audible.de/pd/3844924272",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-21"
+ },
+ {
+  "id": "r-B00BM5F96W",
+  "asin": "B00BM5F96W",
+  "titel": "Die unendliche Geschichte",
+  "autor": "Michael Ende",
+  "sprecher": "Gert Heidenreich",
+  "begruendung": "Michael Endes Fantasy-Klassiker, gelesen von Gert Heidenreich – die Reise durch Phantásien passt zu eurer Eis-und-Feuer-Strecke, nur als Geschichte, die man auch mit Kindern teilen kann.",
+  "tags": {
+   "genres": [
+    "Fantasy"
+   ],
+   "stimmung": [
+    "spannend",
+    "herzerwärmend"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Geschichte",
+    "Abenteuer"
+   ],
+   "anlass": [
+    "lange Reise",
+    "mit den Kindern"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B004UZH630",
+  "audible_url": "https://www.audible.de/pd/B00BM5F96W",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-21"
  }
 ]
