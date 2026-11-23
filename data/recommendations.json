@@ -5245,5 +5245,176 @@
   "audible_url": "https://www.audible.de/pd/B004V12JYE",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-11-22"
+ },
+ {
+  "id": "r-B004UWWGE2",
+  "asin": "B004UWWGE2",
+  "titel": "Pokorny lacht",
+  "autor": "Frank Goosen",
+  "sprecher": "Frank Goosen",
+  "begruendung": "Noch ein ruhiger Goosen-Roman über eine jahrzehntealte Freundschaft und die große Liebe, die beide nie ganz loslässt – im selben leisen Ruhrpott-Ton wie „Radio Heimat\".",
+  "tags": {
+   "genres": [
+    "Belletristik"
+   ],
+   "stimmung": [
+    "nachdenklich",
+    "warmherzig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Ruhrpott",
+    "Beziehung"
+   ],
+   "anlass": [
+    "zum Einschlafen"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B004UXE5N6",
+  "audible_url": "https://www.audible.de/pd/B004UWWGE2",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-23"
+ },
+ {
+  "id": "r-B0791HKYTG",
+  "asin": "B0791HKYTG",
+  "titel": "Was ist da los? Storys live",
+  "autor": "Frank Goosen",
+  "sprecher": "Frank Goosen",
+  "begruendung": "Ein weiterer Live-Abend von Goosen, mitgeschnitten in der Zeche Carl in Essen – kurz und kurzweilig, genau wie „Indiskret\", nur mit neuen Geschichten.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Ruhrpott",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B004UW0VYE",
+  "audible_url": "https://www.audible.de/pd/B0791HKYTG",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-23"
+ },
+ {
+  "id": "r-B06XKXYYL8",
+  "asin": "B06XKXYYL8",
+  "titel": "Schmickler Box",
+  "autor": "Wilfried Schmickler",
+  "sprecher": "Wilfried Schmickler",
+  "begruendung": "Vier frühere Bühnenprogramme von Schmickler gesammelt in einer Box – wer „Es hört nicht auf\" mag, hört hier den politischen Kabarettisten von Anfang an.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Gesellschaft",
+    "Politik"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B0C9TZFGJL",
+  "audible_url": "https://www.audible.de/pd/B06XKXYYL8",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-23"
+ },
+ {
+  "id": "r-B01G3UTXEO",
+  "asin": "B01G3UTXEO",
+  "titel": "Das Letzte",
+  "autor": "Wilfried Schmickler",
+  "sprecher": "Wilfried Schmickler",
+  "begruendung": "Noch ein Schmickler-Programm, kompakt in gut 80 Minuten – dieselbe scharfe Gesellschaftskritik wie in „Es hört nicht auf\".",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Gesellschaft",
+    "Politik"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "B0C9TZFGJL",
+  "audible_url": "https://www.audible.de/pd/B01G3UTXEO",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-23"
+ },
+ {
+  "id": "r-3732418642",
+  "asin": "3732418642",
+  "titel": "Ich glaube, ich hatte es schon",
+  "autor": "Michael Mittermeier",
+  "sprecher": "Michael Mittermeier",
+  "begruendung": "Mittermeier blickt mit bissigem Witz auf die Corona-Jahre zurück – ein neuer Comedian fürs Regal, aber derselbe pointierte Alltags-Blick wie bei Nuhr.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Gesellschaft",
+    "Alltag"
+   ],
+   "anlass": [],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0CMQWBR43",
+  "audible_url": "https://www.audible.de/pd/3732418642",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-23"
+ },
+ {
+  "id": "r-3958355285",
+  "asin": "3958355285",
+  "titel": "Heiße Nächte in Unterfilzbach",
+  "autor": "Eva Adam",
+  "sprecher": "Günter Schoßböck",
+  "begruendung": "Der nächste Fall aus dem Unterfilzbach-Universum nach „Dicke Eier\" – Hansi Scharnagl ermittelt wieder, episch lang für eine lange Fahrt.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "episch",
+   "themen": [
+    "Krimi-Fälle",
+    "Alltag"
+   ],
+   "anlass": [
+    "lange Reise"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0F4DQST87",
+  "audible_url": "https://www.audible.de/pd/3958355285",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-23"
  }
 ]
