@@ -5416,5 +5416,156 @@
   "audible_url": "https://www.audible.de/pd/3958355285",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-11-23"
+ },
+ {
+  "id": "r-B07CJGPMDF",
+  "asin": "B07CJGPMDF",
+  "titel": "Weltmeister ohne Talent",
+  "autor": "Per Mertesacker, Raphael Honigstein",
+  "sprecher": "Oliver E. Schönfeld",
+  "begruendung": "Nach Zlatans Adrenalin eine ganz andere Fußballerseele: Mertesacker erzählt leise und selbstironisch, wie er trotz angeblich fehlendem Talent Weltmeister wurde.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Sport"
+   ],
+   "stimmung": [
+    "ehrlich",
+    "selbstironisch"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Sport"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B09VPYXHRC",
+  "audible_url": "https://www.audible.de/pd/B07CJGPMDF",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-24"
+ },
+ {
+  "id": "r-B076T9WHLB",
+  "asin": "B076T9WHLB",
+  "titel": "»Ich mag, wenn's kracht.« Jürgen Klopp. Die Biographie",
+  "autor": "Raphael Honigstein",
+  "sprecher": "Achim Buch",
+  "begruendung": "Noch eine Fußball-Biografie für die Adrenalin-Spur, dieses Mal von der Trainerbank aus: wie Klopp mit Emotion und Taktik ganze Stadien mitreißt.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Sport"
+   ],
+   "stimmung": [
+    "mutig",
+    "persönlich"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Sport"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B09VPYXHRC",
+  "audible_url": "https://www.audible.de/pd/B076T9WHLB",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-24"
+ },
+ {
+  "id": "r-B0CHWLSV1Z",
+  "asin": "B0CHWLSV1Z",
+  "titel": "Dann zeige ich es euch eben auf dem Platz",
+  "autor": "Alexandra Popp",
+  "sprecher": "Bettina Storm",
+  "begruendung": "Die dritte Variante der Fußball-Spur: Popps Weg im Frauenfußball ist genauso kämpferisch wie Zlatans Adrenalin, nur mit einer ganz eigenen Geschichte von Durchhalten.",
+  "tags": {
+   "genres": [
+    "Biografie",
+    "Sport"
+   ],
+   "stimmung": [
+    "mutig",
+    "inspirierend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Sport",
+    "Gesellschaft"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B09VPYXHRC",
+  "audible_url": "https://www.audible.de/pd/B0CHWLSV1Z",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-24"
+ },
+ {
+  "id": "r-3844928219",
+  "asin": "3844928219",
+  "titel": "Pfoten vom Tisch!",
+  "autor": "Hape Kerkeling",
+  "sprecher": "Hape Kerkeling",
+  "begruendung": "Was Martin Rütters Freispruch! für Hunde ist, macht Kerkeling hier für Katzen – warmherzige, selbst erzählte Alltagsgeschichten mit eigensinnigen Mitbewohnern.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "warmherzig",
+    "witzig"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Tiere",
+    "Alltag"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0B1QLPC9V",
+  "audible_url": "https://www.audible.de/pd/3844928219",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-24"
+ },
+ {
+  "id": "r-B004V6JPAA",
+  "asin": "B004V6JPAA",
+  "titel": "Schmitz' Katze",
+  "autor": "Ralf Schmitz",
+  "sprecher": "Ralf Schmitz",
+  "begruendung": "Noch eine Katzen-Variante von Martin Rütters Hunde-Humor: 23 Jahre Zusammenleben mit einer Katze, selbst erzählt und kurz genug für einen Bügelabend.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig",
+    "charmant"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Tiere",
+    "Alltag"
+   ],
+   "anlass": [
+    "beim Bügeln"
+   ],
+   "form": "Lesung"
+  },
+  "aehnlich_wie": "B0B1QLPC9V",
+  "audible_url": "https://www.audible.de/pd/B004V6JPAA",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-24"
  }
 ]
