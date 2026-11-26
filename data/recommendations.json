@@ -2027,159 +2027,6 @@
   "aufgenommen_am": "2026-10-14"
  },
  {
-  "id": "r-B008MLO9GU",
-  "asin": "B008MLO9GU",
-  "titel": "Voll streng, Frau Freitag: Neues aus dem Schulalltag",
-  "autor": "Frau Freitag",
-  "sprecher": "Carolin Kebekus",
-  "begruendung": "Carolin Kebekus, die dich im \"witzigsten Vorleseabend der Welt\" schon zum Lachen gebracht hat, liest hier solo aus dem Schulalltag einer notorisch überforderten Lehrerin – frech und selbstironisch, genau ihr Ton.",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig",
-    "frech"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Alltag",
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "beim Bügeln"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B07BSGRV26",
-  "audible_url": "https://www.audible.de/pd/Voll-streng-Frau-Freitag-Neues-aus-dem-Schulalltag-Hoerbuch/B008MLO9GU",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-28"
- },
- {
-  "id": "r-B008B5YJFS",
-  "asin": "B008B5YJFS",
-  "titel": "Chill mal, Frau Freitag: Aus dem Alltag einer unerschrockenen Lehrerin",
-  "autor": "Frau Freitag",
-  "sprecher": "Carolin Kebekus",
-  "begruendung": "Der zweite Band aus Kebekus' Lehrerinnen-Tagebuch – wieder sie allein am Mikro, wieder Alltagschaos mit viel Selbstironie, wie schon in \"Beim Dehnen singe ich Balladen\".",
-  "tags": {
-   "genres": [
-    "Comedy"
-   ],
-   "stimmung": [
-    "witzig",
-    "frech"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Alltag",
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B00S8FUOI2",
-  "audible_url": "https://www.audible.de/pd/Chill-mal-Frau-Freitag-Alltag-einer-unerschrockenen-Lehrerin-Hoerbuch/B008B5YJFS",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-28"
- },
- {
-  "id": "r-B0DSJ71ZXT",
-  "asin": "B0DSJ71ZXT",
-  "titel": "Die Kriege der Gegenwart und der Beginn einer neuen Weltordnung",
-  "autor": "Joschka Fischer",
-  "sprecher": "Mark Bremer",
-  "begruendung": "Mark Bremer, dieselbe Stimme wie bei Obamas \"Ein verheißenes Land\", liest hier Fischers nüchternen Blick auf die neue Weltunordnung – politisches Sachbuch statt Memoiren, aber derselbe aufklärende Ton.",
-  "tags": {
-   "genres": [
-    "Politische Biografie",
-    "Sachbuch"
-   ],
-   "stimmung": [
-    "politisch",
-    "nachdenklich"
-   ],
-   "laenge": "mittel",
-   "themen": [
-    "Politik",
-    "Gesellschaft"
-   ],
-   "anlass": [
-    "fürs Auto"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "3844542078",
-  "audible_url": "https://www.audible.de/pd/Die-Kriege-der-Gegenwart-und-der-Beginn-einer-neuen-Weltordnung-Hoerbuch/B0DSJ71ZXT",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-28"
- },
- {
-  "id": "r-B0HGBQLY4C",
-  "asin": "B0HGBQLY4C",
-  "titel": "Protocols: Die Gebrauchsanweisung für den menschlichen Körper",
-  "autor": "Andrew Huberman",
-  "sprecher": "Mark Bremer",
-  "begruendung": "Wieder Mark Bremer am Mikro, diesmal mit Hubermans Routinen für Fokus, Schlaf und Energie – passt zum systematischen, optimierungsfreudigen Blick, mit dem du schon Zlatans \"Adrenalin\" gehört hast.",
-  "tags": {
-   "genres": [
-    "Sachbuch",
-    "Ratgeber"
-   ],
-   "stimmung": [
-    "motivierend",
-    "informativ"
-   ],
-   "laenge": "episch",
-   "themen": [
-    "Wissenschaft",
-    "Alltag"
-   ],
-   "anlass": [
-    "lange Reise"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B09VPYXHRC",
-  "audible_url": "https://www.audible.de/pd/Protocols-Hoerbuch/B0HGBQLY4C",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-28"
- },
- {
-  "id": "r-B09WQC6YRW",
-  "asin": "B09WQC6YRW",
-  "titel": "Der Codebreaker: Wie die Erfindung der Genschere die Zukunft der Menschheit für immer verändert",
-  "autor": "Walter Isaacson",
-  "sprecher": "Marlen Ulonska",
-  "begruendung": "Isaacson, derselbe Autor wie bei deinen Musk-, Jobs- und Einstein-Biografien, diesmal über Jennifer Doudna und die CRISPR-Genschere – wieder eine Einzelne, die mit Sturheit ein ganzes Feld umkrempelt.",
-  "tags": {
-   "genres": [
-    "Biografie",
-    "Sachbuch"
-   ],
-   "stimmung": [
-    "spannend",
-    "klug"
-   ],
-   "laenge": "episch",
-   "themen": [
-    "Wissenschaft",
-    "Geschichte"
-   ],
-   "anlass": [
-    "lange Reise"
-   ],
-   "form": "Lesung"
-  },
-  "aehnlich_wie": "B0CHSK2VHM",
-  "audible_url": "https://www.audible.de/pd/Der-Codebreaker-Hoerbuch/B09WQC6YRW",
-  "regal": "geschmacks-match",
-  "aufgenommen_am": "2026-10-28"
- },
- {
   "id": "r-B0HGFB3RNF",
   "asin": "B0HGFB3RNF",
   "titel": "Mach mal das große Licht an (Bonus: Butter und Balkone)",
@@ -5715,5 +5562,149 @@
   "audible_url": "https://www.audible.de/pd/B0B68VB4W5",
   "regal": "geschmacks-match",
   "aufgenommen_am": "2026-11-25"
+ },
+ {
+  "id": "r-B00IKNKXPG",
+  "asin": "B00IKNKXPG",
+  "titel": "Der Hund der Baskervilles",
+  "autor": "Arthur Conan Doyle",
+  "sprecher": "Gerhard Garbers, Peter Jordan, Kai Magnus Sting, Johanna Gastdorf, Jochen Striebeck, Frank Trunz, Simon T. Roden",
+  "begruendung": "Pastewka inszeniert, Kai Magnus Sting spricht mit – dieselbe Krimi-Hörspiel-Schmiede wie dein „Tod unter Gurken“, nur mit echtem Sherlock-Holmes-Stoff.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "spannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B06XCFQJ2B",
+  "audible_url": "https://www.audible.de/pd/B00IKNKXPG",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-26"
+ },
+ {
+  "id": "r-B076BMKTVZ",
+  "asin": "B076BMKTVZ",
+  "titel": "Sherlock Holmes und das Geheimnis des weißen Bandes",
+  "autor": "Anthony Horowitz",
+  "sprecher": "Frank Röth, Gerhard Garbers, Rainer Bock, Christoph Maria Herbst, Walter Sittler, Katja Bürkle",
+  "begruendung": "Noch ein Pastewka-Krimi-Hörspiel aus derselben Reihe wie die Baskervilles – klassischer Sherlock-Holmes-Stoff mit Starbesetzung.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "spannend"
+   ],
+   "laenge": "mittel",
+   "themen": [
+    "Krimi-Fälle"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B00IKNKXPG",
+  "audible_url": "https://www.audible.de/pd/B076BMKTVZ",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-26"
+ },
+ {
+  "id": "r-B004V5PDM0",
+  "asin": "B004V5PDM0",
+  "titel": "A40",
+  "autor": "Frank Goosen",
+  "sprecher": "Frank Goosen",
+  "begruendung": "Frank Goosens neues Live-Programm über die A40 und das Ruhrgebiet – passt zu eurem Ruhrpott-Humor von Kai Magnus Sting und Jochen Malmsheimer.",
+  "tags": {
+   "genres": [
+    "Comedy"
+   ],
+   "stimmung": [
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Ruhrpott",
+    "Alltag"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Bühnenprogramm"
+  },
+  "aehnlich_wie": "3844539832",
+  "audible_url": "https://www.audible.de/pd/B004V5PDM0",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-26"
+ },
+ {
+  "id": "r-B004V5V1US",
+  "asin": "B004V5V1US",
+  "titel": "Leichenpuzzle",
+  "autor": "Kai Magnus Sting",
+  "sprecher": "Henning Venske, Traugott Buhre, Jochen Malmsheimer",
+  "begruendung": "Wieder ein Krimi-Hörspiel von Kai Magnus Sting mit Jochen Malmsheimer im Ensemble – schwarzer Humor und vertraute Stimmen wie bei „Tod unter Gurken“.",
+  "tags": {
+   "genres": [
+    "Krimi"
+   ],
+   "stimmung": [
+    "witzig",
+    "spannend"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B06XCFQJ2B",
+  "audible_url": "https://www.audible.de/pd/Leichenpuzzle-Hoerbuch/B004V5V1US",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-26"
+ },
+ {
+  "id": "r-B00OME8FE8",
+  "asin": "B00OME8FE8",
+  "titel": "Bastian Pastewka und Komplizen in \"Paul Temple und der Fall Gregory\"",
+  "autor": "Francis Durbridge",
+  "sprecher": "Bastian Pastewka, Janina Sachau, Kai Magnus Sting, Alexis Kara, Inga Busch",
+  "begruendung": "Kai Magnus Sting, den du aus „Tod unter Gurken“ kennst, spielt hier an Pastewkas Seite in einem wiederbelebten Radio-Krimi-Klassiker von 1949 – Krimi-Spaß mit Augenzwinkern.",
+  "tags": {
+   "genres": [
+    "Krimi",
+    "Hörspiel"
+   ],
+   "stimmung": [
+    "spannend",
+    "witzig"
+   ],
+   "laenge": "kurz",
+   "themen": [
+    "Krimi-Fälle"
+   ],
+   "anlass": [
+    "fürs Auto"
+   ],
+   "form": "Hörspiel"
+  },
+  "aehnlich_wie": "B06XCFQJ2B",
+  "audible_url": "https://www.audible.de/pd/B00OME8FE8",
+  "regal": "geschmacks-match",
+  "aufgenommen_am": "2026-11-26"
  }
 ]
